@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - AOA"
+title: "Cornish Group - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

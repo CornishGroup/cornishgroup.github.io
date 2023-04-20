@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "Cornish Group - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Cornish Group -- Pictures"
 permalink: /pictures/
 ---
 
