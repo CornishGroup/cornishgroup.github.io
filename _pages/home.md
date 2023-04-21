@@ -11,7 +11,11 @@ Welcome to the Cornish group! We study ultracold atoms and molecules at Durham U
 
 We use laser cooling to create samples of gases at micro-kelvin temperatures, which we then associate into molecules through control over the inter-atomic state via magnetic fields, lasers and microwaves.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B4qszpnSG-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class = "row">
+<div class="embed-responsive embed-responsive-16by9">>
+<iframe  src="https://www.youtube.com/embed/B4qszpnSG-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+</div>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
