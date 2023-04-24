@@ -10,7 +10,7 @@ title: Cornish Group
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of the Cornish Group
-baseurl: "cornishgroupwebsite_jekyll"
+baseurl: ""
 url: ""
 
 include:
