@@ -1,10 +1,102 @@
-- title: "Formation of ultracold molecules by merging optical tweezers
-"
-  image: imageaward_edited.png
-  description: We demonstrate the formation of a single RbCs molecule during the merging of two optical tweezers, one containing a single Rb atom and the other a single Cs atom. 
+- title: "An association sequence suitable for producing ground-state RbCs molecules in optical lattices"
+  image: rbcs_feshbach_route.png
+  description: We demonstrate the formation of a single RbCs molecule during the merging of two optical tweezers, one containing a single Rb atom and the other a single Cs atom.
+  authors: Arpita Das,\* Philip D. Gregory,\* Tetsu Takekoshi, Luke Fernley, Manuele Landini, Jeremy M. Hutson, Simon L. Cornish, and Hanns-Christoph Nägerl
+  link:
+    url: https://arxiv.org/abs/2303.16144
+    display: arXiv:2303.16144 (2023)
+  highlight: 1
 
-  authors: Daniel K. Ruttley, Alexander Guttridge, Stefan Spence, Robert C. Bird, C. Ruth Le Sueur, Jeremy M. Hutson, Simon L. Cornish
+- title: "Observation of Rydberg blockade due to the charge-dipole interaction between an atom and a polar molecule"
+  image: blockade.png
+  description: We demonstrate Rydberg blockade due to the charge-dipole interaction between a single Rb atom and a single RbCs molecule confined in optical tweezers.
+  authors: Alexander Guttridge,\* Daniel K. Ruttley,\* Archie C. Baldock, Rosario González-Férez, H. R. Sadeghpour, C. S. Adams, and Simon L. Cornish
+  link:
+    url: https://arxiv.org/abs/2303.06126
+    display: arXiv:2303.06126 (2023)
+  highlight: 1
+
+- title: "Formation of ultracold molecules by merging optical tweezers"
+  image: mergoassociation.png
+  description: We demonstrate the formation of a single RbCs molecule during the merging of two optical tweezers, one containing a single Rb atom and the other a single Cs atom.
+  authors: Daniel K. Ruttley,\* Alexander Guttridge,\* Stefan Spence, Robert C. Bird, C. Ruth Le Sueur, Jeremy M. Hutson, and Simon L. Cornish
   link:
     url: https://arxiv.org/abs/2302.07296
-    display: arXiv:2302.07296
+    display: arXiv:2302.07296 (2023)
+  highlight: 0
+
+
+- title: "A motorized rotation mount for fast and reproducible optical polarization control"
+  image: rotation.png
+  description: We present a simple motorised rotation mount for a half-wave plate that can be used to rapidly change the polarization of light.
+  authors: Adarsh P. Raghuram, Jonathan M. Mortlock, Sarah L. Bromley, and Simon L. Cornish
+  link:
+    url: https://arxiv.org/abs/2212.11600
+    display: arXiv:2212.11600 (2022)
   highlight: 1
+
+- title: "Observation of magnetic Feshbach resonances between Cs and <sup>173</sup>Yb"
+  image: csyb_feshbach.png
+  description: We report the first observation of magnetic Feshbach resonances between <sup>173</sup>Yb and <sup>133</sup>Cs.
+  authors: Tobias Franzen,\* Alexander Guttridge,\* Kali E. Wilson,\* Jack Segal, Matthew D. Frye, Jeremy M. Hutson, and Simon L. Cornish
+  link:
+    url: https://arxiv.org/abs/2208.06291
+    display: arXiv:2208.06291 (2022)
+  highlight: 1
+
+- title: "Diatomic-py: A Python module for calculating the rotational and hyperfine structure of 1Σ molecules"
+  authors: Jacob A. Blackmore, Philip D. Gregory, Jeremy M. Hutson, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1016/j.cpc.2022.108512
+    display: _Comput. Phys. Commun._ **282**, 108512 (2023)
+
+- title: "Feshbach spectroscopy of Cs atom pairs in optical tweezers"
+  description: We prepare pairs of 133Cs atoms in a single optical tweezer and perform Feshbach spectroscopy for collisions of atoms in the states (f=3,mf=±3).
+  authors: R. V. Brooks,\* A. Guttridge,\* Matthew D. Frye, Daniel K. Ruttley, Stefan Spence, Jeremy M. Hutson, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/ac99f6
+    display: _New J. Phys._ **24**, 113051 (2022)
+
+- title: "Preparation of <sup>87</sup>Rb and <sup>133</sup>Cs in the motional ground state of a single optical tweezer"
+  authors: Stefan Spence, R. V. Brooks, Daniel K. Ruttley, Alexander Guttridge, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/ac95b9
+    display: _New J. Phys._ **24**, 103022 (2022)
+
+- title: "Molecule–molecule and atom–molecule collisions with ultracold RbCs molecules"
+  authors: Philip D. Gregory, Jacob A. Blackmore, Matthew D. Frye , Luke M. Fernley, Sarah L. Bromley, Jeremy M. Hutson, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/ac3c63
+    display: _New J. Phys._ **23**, 125004 (2021)
+
+- title: "Measurement of the tune-out wavelength for <sup>133</sup>Cs at 880 nm"
+  authors: Apichayaporn Ratkata, Philip D. Gregory, Andrew D. Innes, Alex J. Matthies, Lewis A. McArd, Jonathan M. Mortlock, M. S. Safronova, Sarah L. Bromley, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.104.052813
+    display: _Phys. Rev. A_ **104**, 052813 (2021)
+
+- title: "Robust storage qubits in ultracold polar molecules"
+  authors: Philip D. Gregory, Jacob A. Blackmore, Sarah L. Bromley, Jeremy M. Hutson, and Simon L. Cornish 
+  link:
+    url: https://doi.org/10.1088/1367-2630/ac0000
+    display: _Nat. Phys._ **17**, 1149–1153 (2021)
+
+- title: "Preparation of <sup>87</sup>Rb and <sup>133</sup>Cs in the motional ground state of a single optical tweezer"
+  image: rb_cs_single_tweezer.png
+  description: We report the preparation of exactly one <sup>87</sup>Rb atom and one <sup>133</sup>Cs atom in the same optical tweezer as the essential first step towards the construction of a tweezer array of individually trapped <sup>87</sup>Rb<sup>133</sup>Cs molecules
+  authors: R. V. Brooks, Stefan Spence, Alexander Guttridge, A. Alampounti, A. Rakonjac, L. A. McArd, Jeremy M. Hutson, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/ac0000
+    display: _New J. Phys._ **23**, 065002 (2021)
+
+- title: "Magic conditions for multiple rotational states of bialkali molecules in optical lattices"
+  authors: Q. Guan, Simon L. Cornish, and S. Kotochigova
+  link:
+    url: https://doi.org/10.1103/PhysRevA.103.043311
+    display: _Phys. Rev. A_ **103**, 043311 (2021)
+
+- title: "Quantum degenerate mixtures of Cs and Yb"
+  authors: Kali E. Wilson,\* Alexander Guttridge,\* Jack Segal, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.103.033306
+    display: _Phys. Rev. A_ **103**, 033306 (2021)

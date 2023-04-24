@@ -1,7 +1,7 @@
 ---
 title: "Cornish Group - Publications"
 layout: gridlay
-excerpt: "Cornish Group -- Publications."
+excerpt: "Cornish Group - Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Cornish%2C+S+L).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,11 +52,17 @@ permalink: /publications/
 <p> &nbsp; </p>
 
 
-## Full List of publications
+## Full list of publications
+
+{% assign paper_counter = site.data.publist.size %}
 
 {% for publi in site.data.publist %}
 
-  {{ publi.title }} <br />
+  \[{{ paper_counter }}\] {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
+  {% assign paper_counter = paper_counter | minus:1 %}
+
 {% endfor %}
+
+Publications prior to 2021 can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=CfmFaf4AAAAJ).

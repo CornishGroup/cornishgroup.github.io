@@ -1,7 +1,7 @@
 ---
-title: "Cornish Group- Home"
+title: "Cornish Group - Home"
 layout: homelay
-excerpt: "Cornish group- Durham University QLM"
+excerpt: "Cornish group - Durham University QLM"
 sitemap: false
 permalink: /
 ---
