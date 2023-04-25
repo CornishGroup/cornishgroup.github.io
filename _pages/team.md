@@ -3,7 +3,7 @@ title: "Cornish Group - Team"
 layout: gridlay
 excerpt: "Cornish Group: Team members"
 sitemap: false
-permalink: /team/
+permalink: /team
 ---
 
 # Group Members
