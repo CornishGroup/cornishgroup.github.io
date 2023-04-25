@@ -10,10 +10,8 @@ permalink: /team
 
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
+<!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
-
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -24,42 +22,26 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  {% if member.photo %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% else %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" width="25%" style="float: left" />
+  {% endif %}
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <p> 
+  <i>{{ member.role }}</i>
+  {% if member.lab == "rbcs"%}
+  [RbCs lab]({{ site.url }}{{ site.baseurl }}/rbcs)
+  {% elsif member.lab == "csyb"%}
+  [CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb)
+  {% elsif member.lab == "tweezers"%}
+  [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers)
+  {% elsif member.lab == "microscope"%}
+  [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope)
   {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
-  </ul>
+  </p>
+  <p>[{{ member.email }}](mailto:{{ member.email }})</p>
+  <p>{{ member.links }}</p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -74,8 +56,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
 
 
 ## Master and Bachelor Students
@@ -134,6 +114,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Alumni
 
+
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
 
@@ -144,12 +125,25 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  {% if member.photo %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  {% else %}
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" width="25%" style="float: left" />
+  {% endif %}
   <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
+  <p> 
+  <i>{{ member.role }}</i>
+  {% if member.lab == "rbcs"%}
+  [RbCs lab]({{ site.url }}{{ site.baseurl }}/rbcs)
+  {% elsif member.lab == "csyb"%}
+  [CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb)
+  {% elsif member.lab == "tweezers"%}
+  [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers)
+  {% elsif member.lab == "microscope"%}
+  [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope)
+  {% endif %}
+  </p>
+  <p>{{ member.info }}</p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

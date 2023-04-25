@@ -1,10 +1,66 @@
 - name: Simon Cornish
-  photo: Milan1.jpg
-  info: Professor
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with <a href="https://qudev.phys.ethz.ch">Andreas Wallraff</a>
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
+  photo: cornish.png
+  role: Principal Investigator
+  email: s.l.cornish@durham.ac.uk
+  links: "[ORCID](https://orcid.org/0000-0003-1407-4126) | [ResearcherID](https://www.researcherid.com/rid/K-4966-2012) | [ResearchGate](https://www.researchgate.net/profile/Simon_Cornish) | [GoogleScholar](https://scholar.google.com/citations?user=CfmFaf4AAAAJ)"
+
+- name: Philip Gregory
+  role: Postdoctoral research associate
+  email: p.d.gregory@durham.ac.uk
+  links: "[ORCID](https://orcid.org/0000-0001-9886-5739)"
+  lab: rbcs
+
+- name: Alexander Guttridge
+  photo: guttridge.png
+  role: Postdoctoral research associate
+  email: alexander.guttridge@durham.ac.uk
+  lab: tweezers
+
+- name: Sarah Bromley
+  role: Postdoctoral research associate
+  email: sarah.l.bromley@durham.ac.uk
+  lab: microscope
+
+- name: Tobias Franzen
+  role: Postdoctoral research associate
+  email: tobias.franzen@durham.ac.uk
+  lab: csyb
+
+- name: Jack Segal
+  role: Postdoctoral research associate
+  lab: csyb
+
+- name: Jonathan Mortlock
+  role: Postdoctoral research associate
+  lab: microscope
+
+- name: Alex Matthies
+  role: PhD student
+  lab: microscope
+
+- name: Daniel Ruttley
+  photo: ruttley.jpg
+  role: PhD student
+  lab: tweezers
+
+- name: Luke Fernley
+  role: PhD student
+  lab: rbcs
+
+- name: Adarsh Raghuram
+  role: PhD student
+  lab: microscope
+
+- name: Albert Tao
+  photo: tao.jpg
+  role: PhD student
+  lab: rbcs
+
+- name: Ce Li
+  photo: li.jpg
+  role: PhD student
+  lab: tweezers
+
+- name: Joe Bloomer
+  role: PhD student
+  lab: csyb

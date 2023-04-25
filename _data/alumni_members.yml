@@ -1,9 +1,5 @@
 - name: Stefan Spence
-  photo: irene.jpg
-  info: PhD student
-  duration: In the Cornish Group Jan 2015 to June 2019, now R&D scientist at Nearfield Instruments
-  email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 3
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  education3: PhD Leiden University!
+  photo: spence.png
+  role: PhD student
+  lab: tweezers
+  info: In the Cornish Group...
