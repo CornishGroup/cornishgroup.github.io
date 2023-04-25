@@ -3,7 +3,7 @@ title: "Cornish Group - Publications"
 layout: gridlay
 excerpt: "Cornish Group - Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 
