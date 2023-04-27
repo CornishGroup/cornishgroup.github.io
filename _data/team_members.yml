@@ -9,12 +9,20 @@
   email: p.d.gregory@durham.ac.uk
   links: "[ORCID](https://orcid.org/0000-0001-9886-5739)"
   lab: rbcs
+  thesis_link: http://etheses.dur.ac.uk/12484/
+  thesis_title: Coherent Control of Ultracold Polar Molecules
+  thesis_year: 2018
+  thesis_lab: rbcs
 
 - name: Alexander Guttridge
   photo: guttridge.png
   role: Postdoctoral research associate
   email: alexander.guttridge@durham.ac.uk
   lab: tweezers
+  thesis_link: http://etheses.dur.ac.uk/12817/
+  thesis_title: Photoassociation of Ultracold CsYb Molecules and Determination of Interspecies Scattering Lengths
+  thesis_year: 2018
+  thesis_lab: csyb
 
 - name: Sarah Bromley
   role: Postdoctoral research associate

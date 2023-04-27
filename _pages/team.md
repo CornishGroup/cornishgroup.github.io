@@ -42,6 +42,13 @@ permalink: /team
   </p>
   <p>[{{ member.email }}](mailto:{{ member.email }})</p>
   <p>{{ member.links }}</p>
+  {% if member.thesis_link %}
+  {% if member.thesis_title %}
+  [PhD thesis: _{{member.thesis_title}}_]({{member.thesis_link}})
+  {% else %}
+  [PhD thesis]({{member.thesis_link}})
+  {% endif %}
+  {% endif %}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -57,8 +64,6 @@ permalink: /team
 </div>
 {% endif %}
 
-
-## Master and Bachelor Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -113,10 +118,8 @@ permalink: /team
 
 
 ## Alumni
-
-
 {% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
+{% for member in site.data.alumni %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -133,6 +136,7 @@ permalink: /team
   <h4>{{ member.name }}</h4>
   <p> 
   <i>{{ member.role }}</i>
+  <i>{% if member.years %}({{ member.years }}){% endif %}</i>
   {% if member.lab == "rbcs"%}
   [RbCs lab]({{ site.url }}{{ site.baseurl }}/rbcs)
   {% elsif member.lab == "csyb"%}
@@ -143,6 +147,14 @@ permalink: /team
   [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope)
   {% endif %}
   </p>
+
+  {% if member.thesis_link %}
+  {% if member.thesis_title %}
+  [PhD thesis: _{{member.thesis_title}}_]({{member.thesis_link}})
+  {% else %}
+  [PhD thesis]({{member.thesis_link}})
+  {% endif %}
+  {% endif %}
   <p>{{ member.info }}</p>
 </div>
 
@@ -159,32 +171,27 @@ permalink: /team
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
 <div class="row">
 
-<div class="col-sm-4 clearfix">
+<!-- <div class="col-sm-4 clearfix">
 <h4>Visitors</h4>
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
-</div>
+</div> -->
 
-<div class="col-sm-4 clearfix">
-<h4>Master students</h4>
-{% for member in site.data.alumni_msc %}
+<div class="col-sm-6 clearfix">
+<h4>Masters students</h4>
+{% for member in site.data.alumni_masters %}
 {{ member.name }}
 {% endfor %}
 </div>
 
-<div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
-{% for member in site.data.alumni_bsc %}
+<div class="col-sm-6 clearfix">
+<h4>Summer students</h4>
+{% for member in site.data.alumni_summer %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 </div>
-
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.

@@ -1,0 +1,38 @@
+- name: Lewis McArd
+  role: Postdoctoral research associate
+  years: 2018 - 2021
+
+- name: Alexandros Alampounti
+  lab: tweezers
+  role: Postdoctoral research associate
+  years: 2017 - 2019
+
+- name: Rahul Sawant
+  lab: tweezers
+  role: Postdoctoral research associate
+  years: 2017 - 2019
+
+- name: Ana Rakonjac
+  lab: tweezers
+  role: Postdoctoral research associate
+  years: 2014 - 2019
+
+- name: Stefan Spence
+  photo: spence.png
+  role: PhD student
+  lab: tweezers
+  years: 2017 - 2023
+  thesis_link: http://etheses.dur.ac.uk/14814/
+  thesis_title: Assembling Single RbCs Molecules with Optical Tweezers
+  thesis_year: 2023
+  thesis_lab: tweezers
+  # info: In the Cornish Group...
+
+- name: Vincent Brooks
+  photo: brooks.png
+  role: PhD student
+  lab: tweezers
+  years: 2017 - 2023
+  thesis_link: http://etheses.dur.ac.uk/14468/
+  thesis_title: Control and Collisions of <sup>87</sup>Rb and <sup>133</sup>Cs Atoms in Optical Tweezers
+  thesis_year: 2022
