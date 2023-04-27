@@ -73,7 +73,6 @@ Publications prior to 2021 can be found on [Google Scholar](https://scholar.goog
 
 {% assign combined_members = site.data.team_members | concat: site.data.alumni %}
 {% assign thesis_by_year = combined_members | sort: "thesis_year" | reverse %}
-{% assign thesis_counter = thesis_by_year %}
 
 {% for publi in thesis_by_year %}
   {% if publi.thesis_link %}

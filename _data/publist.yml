@@ -6,6 +6,7 @@
     url: https://arxiv.org/abs/2303.16144
     display: arXiv:2303.16144 (2023)
   highlight: 1
+  lab: rbcs
 
 - title: "Observation of Rydberg blockade due to the charge-dipole interaction between an atom and a polar molecule"
   image: blockade.png
@@ -15,6 +16,7 @@
     url: https://arxiv.org/abs/2303.06126
     display: arXiv:2303.06126 (2023)
   highlight: 1
+  lab: tweezers
 
 - title: "Formation of ultracold molecules by merging optical tweezers"
   image: mergoassociation.png
@@ -24,6 +26,7 @@
     url: https://arxiv.org/abs/2302.07296
     display: arXiv:2302.07296 (2023)
   highlight: 0
+  lab: tweezers
 
 
 - title: "A motorized rotation mount for fast and reproducible optical polarization control"
@@ -34,6 +37,7 @@
     url: https://arxiv.org/abs/2212.11600
     display: arXiv:2212.11600 (2022)
   highlight: 1
+  lab: microscope
 
 - title: "Observation of magnetic Feshbach resonances between Cs and <sup>173</sup>Yb"
   image: csyb_feshbach.png
@@ -43,12 +47,14 @@
     url: https://arxiv.org/abs/2208.06291
     display: arXiv:2208.06291 (2022)
   highlight: 1
+  lab: csyb
 
 - title: "Diatomic-py: A Python module for calculating the rotational and hyperfine structure of 1Σ molecules"
   authors: Jacob A. Blackmore, Philip D. Gregory, Jeremy M. Hutson, and Simon L. Cornish
   link:
     url: https://doi.org/10.1016/j.cpc.2022.108512
     display: _Comput. Phys. Commun._ **282**, 108512 (2023)
+  lab: rbcs
 
 - title: "Feshbach spectroscopy of Cs atom pairs in optical tweezers"
   description: We prepare pairs of 133Cs atoms in a single optical tweezer and perform Feshbach spectroscopy for collisions of atoms in the states (f=3,mf=±3).
@@ -56,30 +62,35 @@
   link:
     url: https://doi.org/10.1088/1367-2630/ac99f6
     display: _New J. Phys._ **24**, 113051 (2022)
+  lab: tweezers
 
 - title: "Preparation of <sup>87</sup>Rb and <sup>133</sup>Cs in the motional ground state of a single optical tweezer"
   authors: Stefan Spence, R. V. Brooks, Daniel K. Ruttley, Alexander Guttridge, and Simon L. Cornish
   link:
     url: https://doi.org/10.1088/1367-2630/ac95b9
     display: _New J. Phys._ **24**, 103022 (2022)
+  lab: tweezers
 
 - title: "Molecule–molecule and atom–molecule collisions with ultracold RbCs molecules"
   authors: Philip D. Gregory, Jacob A. Blackmore, Matthew D. Frye , Luke M. Fernley, Sarah L. Bromley, Jeremy M. Hutson, and Simon L. Cornish
   link:
     url: https://doi.org/10.1088/1367-2630/ac3c63
     display: _New J. Phys._ **23**, 125004 (2021)
+  lab: rbcs
 
 - title: "Measurement of the tune-out wavelength for <sup>133</sup>Cs at 880 nm"
   authors: Apichayaporn Ratkata, Philip D. Gregory, Andrew D. Innes, Alex J. Matthies, Lewis A. McArd, Jonathan M. Mortlock, M. S. Safronova, Sarah L. Bromley, and Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.104.052813
     display: _Phys. Rev. A_ **104**, 052813 (2021)
+  lab: microscope
 
 - title: "Robust storage qubits in ultracold polar molecules"
   authors: Philip D. Gregory, Jacob A. Blackmore, Sarah L. Bromley, Jeremy M. Hutson, and Simon L. Cornish 
   link:
     url: https://doi.org/10.1088/1367-2630/ac0000
     display: _Nat. Phys._ **17**, 1149–1153 (2021)
+  lab: rbcs
 
 - title: "Preparation of <sup>87</sup>Rb and <sup>133</sup>Cs in the motional ground state of a single optical tweezer"
   image: rb_cs_single_tweezer.png
@@ -88,6 +99,7 @@
   link:
     url: https://doi.org/10.1088/1367-2630/ac0000
     display: _New J. Phys._ **23**, 065002 (2021)
+  lab: tweezers
 
 - title: "Magic conditions for multiple rotational states of bialkali molecules in optical lattices"
   authors: Q. Guan, Simon L. Cornish, and S. Kotochigova
@@ -100,3 +112,4 @@
   link:
     url: https://doi.org/10.1103/PhysRevA.103.033306
     display: _Phys. Rev. A_ **103**, 033306 (2021)
+  lab: csyb

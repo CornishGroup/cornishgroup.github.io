@@ -17,3 +17,31 @@ The group has recently realised the formation of ground state RbCs molecules tra
 <div class="embed-responsive embed-responsive-16by9">>
 <iframe  src="https://www.youtube.com/embed/B4qszpnSG-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+<p> &nbsp; </p>
+
+### Lab publications
+#### Papers
+{% assign tweezer_papers = site.data.publist | where:"lab", "tweezers" %}
+{% assign paper_counter = tweezer_papers.size %}
+
+{% for publi in tweezer_papers %}
+
+  \[{{ paper_counter }}\] {{ publi.title }} <br />
+  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+
+  {% assign paper_counter = paper_counter | minus:1 %}
+
+{% endfor %}
+
+<p> &nbsp; </p>
+#### PhD theses
+{% assign combined_members = site.data.team_members | concat: site.data.alumni %}
+{% assign tweezer_theses = combined_members | where:"thesis_lab", "tweezers" %}
+{% assign thesis_by_year = tweezer_theses | sort: "thesis_year" | reverse %}
+
+{% for publi in thesis_by_year %}
+  {% if publi.thesis_link %}
+  {{publi.name}}: [_{{publi.thesis_title}}_ ({{publi.thesis_year}})]({{publi.thesis_link}})
+  {% endif %}
+{% endfor %}
