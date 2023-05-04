@@ -1,7 +1,7 @@
 ---
-title: "Optical Tweezers - Cornish Group"
+title: "Optical Tweezers - Cornish Labs"
 layout: textlay
-excerpt: "Optical Tweezers - Cornish Group"
+excerpt: "Optical Tweezers - Cornish Labs"
 sitemap: false
 permalink: /tweezers
 ---

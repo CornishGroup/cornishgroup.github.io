@@ -1,14 +1,14 @@
 ---
-title: "Cornish Group - Team"
+title: "Team - Cornish Labs"
 layout: gridlay
-excerpt: "Cornish Group: Team members"
+excerpt: "Team - Cornish Labs"
 sitemap: false
 permalink: /team
 ---
 
 # Group Members
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/join-us) **!**
 
 <!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
 

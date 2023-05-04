@@ -1,7 +1,7 @@
 ---
-title: "Quantum Gas Microscope - Cornish Group"
+title: "Quantum Gas Microscope - Cornish Labs"
 layout: textlay
-excerpt: "Quantum Gas Microscope - Cornish Group"
+excerpt: "Quantum Gas Microscope - Cornish Labs"
 sitemap: false
 permalink: /microscope
 ---

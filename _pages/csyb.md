@@ -1,7 +1,7 @@
 ---
-title: "CsYb - Cornish Group"
+title: "CsYb - Cornish Labs"
 layout: textlay
-excerpt: "CsYb - Cornish Group"
+excerpt: "CsYb - Cornish Labs"
 sitemap: false
 permalink: /csyb
 ---

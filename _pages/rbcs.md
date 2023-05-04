@@ -1,7 +1,7 @@
 ---
-title: "RbCs - Cornish Group"
+title: "RbCs - Cornish Labs"
 layout: textlay
-excerpt: "RbCs - Cornish Group"
+excerpt: "RbCs - Cornish Labs"
 sitemap: false
 permalink: /rbcs
 ---

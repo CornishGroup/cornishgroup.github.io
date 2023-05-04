@@ -1,7 +1,7 @@
 ---
-title: "Cornish Group - Publications"
+title: "Publications - Cornish Labs"
 layout: gridlay
-excerpt: "Cornish Group - Publications."
+excerpt: "Publications - Cornish Labs"
 sitemap: false
 permalink: /publications
 ---
@@ -11,7 +11,7 @@ permalink: /publications
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Cornish%2C+S+L).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications) and [PhD theses](#phd-theses). All papers are also available on [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Cornish%2C+S+L).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}

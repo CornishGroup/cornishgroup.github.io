@@ -1,11 +1,11 @@
 ---
-title: "Cornish Group - Vacancies"
+title: "Join us - Cornish Labs"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Join us - Cornish Labs"
 sitemap: false
-permalink: /vacancies
+permalink: /join-us
 ---
 
-# Open positions
+# Join us!
 
 We are always on the lookout for talented and motivated students and postdocs. Please [contact Simon](mailto:s.l.cornish@durham.ac.uk) for more information.

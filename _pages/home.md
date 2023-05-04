@@ -1,13 +1,12 @@
 ---
-title: "Cornish Group - Home"
+title: "Cornish Labs"
 layout: homelay
-excerpt: "Cornish group - Durham University QLM"
+excerpt: "Cornish Labs at Durham University Quantum Light and Matter"
 sitemap: false
 permalink: /
 ---
 
-
-Welcome to the Cornish group! We study ultracold atoms and molecules at Durham University in the Quantum Light and Matter Section of the Physics Department
+Welcome to the Cornish Labs website! We study ultracold atoms and molecules at Durham University in the Quantum Light and Matter Section of the Physics Department
 
 We use laser cooling to create samples of gases at micro-kelvin temperatures, which we then associate into molecules through control over the inter-atomic state via magnetic fields, lasers and microwaves.
 
