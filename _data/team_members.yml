@@ -15,7 +15,7 @@
   thesis_lab: rbcs
 
 - name: Alexander Guttridge
-  photo: guttridge.png
+  photo: guttridge.jpg
   role: Postdoctoral research associate
   email: alexander.guttridge@durham.ac.uk
   lab: tweezers
@@ -37,13 +37,13 @@
 - name: Jack Segal
   role: Postdoctoral research associate
   lab: csyb
+  thesis_link: http://etheses.dur.ac.uk/14941/
+  thesis_title: Ultracold and quantum degenerate mixtures of Cs and Yb
+  thesis_year: 2023
+  thesis_lab: csyb
 
 - name: Jonathan Mortlock
   role: Postdoctoral research associate
-  lab: microscope
-
-- name: Alex Matthies
-  role: PhD student
   lab: microscope
 
 - name: Daniel Ruttley
