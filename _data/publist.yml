@@ -18,6 +18,16 @@
   highlight: 1
   lab: tweezers
 
+- title: "A motorized rotation mount for the switching of an optical beam path in under 20 ms using polarization control"
+  image: rotation.png
+  description: We present a simple motorised rotation mount for a half-wave plate that can be used to rapidly change the polarization of light.
+  authors: Adarsh P. Raghuram, Jonathan M. Mortlock, Sarah L. Bromley, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1063/5.0139647
+    display: _Rev. Sci. Instrum._ **94**, 063201 (2023)
+  highlight: 1
+  lab: microscope
+
 - title: "Formation of ultracold molecules by merging optical tweezers"
   image: mergoassociation.png
   description: We demonstrate the formation of a single RbCs molecule during the merging of two optical tweezers, one containing a single Rb atom and the other a single Cs atom.
@@ -27,17 +37,6 @@
     display: _Phys. Rev. Lett._ **130**, 223401 (2023)
   highlight: 0
   lab: tweezers
-
-
-- title: "A motorized rotation mount for fast and reproducible optical polarization control"
-  image: rotation.png
-  description: We present a simple motorised rotation mount for a half-wave plate that can be used to rapidly change the polarization of light.
-  authors: Adarsh P. Raghuram, Jonathan M. Mortlock, Sarah L. Bromley, and Simon L. Cornish
-  link:
-    url: https://arxiv.org/abs/2212.11600
-    display: arXiv:2212.11600 (2022)
-  highlight: 1
-  lab: microscope
 
 - title: "Observation of magnetic Feshbach resonances between Cs and <sup>173</sup>Yb"
   image: csyb_feshbach.png
