@@ -1,3 +1,13 @@
+- title: "Second-scale rotational coherence and dipolar interactions in a gas of ultracold polar molecules"
+  image: coherence.png
+  description: Here we demonstrate a rotationally-magic optical trap for RbCs molecules that supports a Ramsey coherence time of 0.78(4) seconds in the absence of dipole-dipole interactions.
+  authors: Philip D. Gregory, Luke M. Fernley, Albert Li Tao, Sarah L. Bromley, Jonathan Stepp, Zewen Zhang, Svetlana Kotochigova, Kaden R. A. Hazzard, and Simon L. Cornish
+  link:
+    url: https://arxiv.org/abs/2306.02991
+    display: arXiv:2306.02991 (2023)
+  highlight: 1
+  lab: rbcs
+
 - title: "An association sequence suitable for producing ground-state RbCs molecules in optical lattices"
   image: rbcs_feshbach_route.png
   description: We demonstrate the formation of a single RbCs molecule during the merging of two optical tweezers, one containing a single Rb atom and the other a single Cs atom.
@@ -5,7 +15,7 @@
   link:
     url: https://arxiv.org/abs/2303.16144
     display: arXiv:2303.16144 (2023)
-  highlight: 1
+  highlight: 0
   lab: rbcs
 
 - title: "Observation of Rydberg blockade due to the charge-dipole interaction between an atom and a polar molecule"
