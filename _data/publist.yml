@@ -23,8 +23,8 @@
   description: We demonstrate Rydberg blockade due to the charge-dipole interaction between a single Rb atom and a single RbCs molecule confined in optical tweezers.
   authors: Alexander Guttridge\*, Daniel K. Ruttley\*, Archie C. Baldock, Rosario González-Férez, H. R. Sadeghpour, C. S. Adams, and Simon L. Cornish
   link:
-    url: https://arxiv.org/abs/2303.06126
-    display: arXiv:2303.06126 (2023)
+    url: https://doi.org/10.1103/PhysRevLett.131.013401
+    display: _Phys. Rev. Lett._ **131**, 013401 (2023)
   highlight: 1
   lab: tweezers
 
