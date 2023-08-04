@@ -52,7 +52,7 @@ permalink: /publications
 <p> &nbsp; </p>
 
 
-## Full list of publications
+## List of recent publications
 
 {% assign paper_counter = site.data.publist.size %}
 
