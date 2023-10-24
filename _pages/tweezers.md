@@ -13,7 +13,9 @@ permalink: /tweezers
         max-width: 100%;
         width:100%;
         background-color: #00000088;
-        left: 0;
+        position: relative;
+        left: auto;
+        right: auto;
     }
     .center {
         max-width: 100%;

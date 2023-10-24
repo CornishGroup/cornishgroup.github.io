@@ -1,6 +1,6 @@
 ---
 title: "Pictures - Cornish Labs"
-layout: piclay
+layout: textlay
 excerpt: "Pictures - Cornish Labs"
 permalink: /pictures/
 ---
@@ -12,7 +12,17 @@ permalink: /pictures/
         max-width: 100%;
         width:100%;
         background-color: #00000088;
-        left: 0;
+        position: relative;
+        left: auto;
+        right: auto;
+    }
+    .center {
+        max-width: 100%;
+        height: auto;
+        width: auto\9; /* ie8 */
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
     }
 </style>
 
