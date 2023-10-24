@@ -8,7 +8,7 @@ permalink: /
 
 Welcome to the Cornish Labs website! We study ultracold atoms and molecules at Durham University in the Quantum Light and Matter Section of the Physics Department
 
-We use laser cooling to create samples of gases at micro-kelvin temperatures, which we then associate into molecules through control over the inter-atomic state via magnetic fields, lasers and microwaves.
+We use laser cooling to create samples of gases at micro-kelvin temperatures, which we then associate into molecules through control over the inter-atomic state via magnetic fields, lasers and microwaves. You can find an overview of our research goals [here]({{ site.url }}{{ site.baseurl }}/research).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
