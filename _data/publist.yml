@@ -1,3 +1,13 @@
+- title: "Modulation Transfer Spectroscopy of the D1 Transition of Potassium: Theory and Experiment"
+  image: transport.png
+  description: We report on a study of modulation transfer spectroscopy of the D1 transition of naturally abundant potassium in a room-temperature vapour cell.
+  authors: Andrew D. Innes, Prosenjit Majumder, Heung-Ryoul Noh, Simon Cornish
+  link:
+    url: https://arxiv.org/abs/2307.13382
+    display: arXiv:2310.11327 (2023)
+  highlight: 0
+  lab: microscope
+
 - title: "Long distance optical conveyor-belt transport of ultracold <sup>133</sup>Cs and <sup>87</sup>Rb atoms"
   image: transport.png
   description: We demonstate long range transport of ultracold Rb and Cs atoms to our science cell using a moving optical lattice, with a simplified setup using two Gaussian beams.
