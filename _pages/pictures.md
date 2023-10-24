@@ -35,7 +35,7 @@ permalink: /pictures/
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/JMH_SLC_groups_2023.jpg" alt="JMH SLC groups 2023" />
             <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>2023 summer picnic with Jeremy Hutson's Cold Molecule Theory group.</p>
+            <p>2023 summer picnic with Jeremy Hutson's Cold Molecule Theory group and visiting guests.</p>
             </div>
         </div>
         <div class="item">
