@@ -7,24 +7,6 @@ permalink: /pictures/
 
 # Pictures
 
-<style type="text/css">
-    .carousel-caption {
-        max-width: 100%;
-        width:100%;
-        background-color: #00000088;
-        position: relative;
-        left: auto;
-        right: auto;
-    }
-    .center {
-        max-width: 100%;
-        height: auto;
-        width: auto\9; /* ie8 */
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->

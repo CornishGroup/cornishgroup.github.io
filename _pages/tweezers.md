@@ -8,24 +8,6 @@ permalink: /tweezers
 
 # Molecules in optical tweezers
 
-<style type="text/css">
-    .carousel-caption {
-        max-width: 100%;
-        width:100%;
-        background-color: #00000088;
-        position: relative;
-        left: auto;
-        right: auto;
-    }
-    .center {
-        max-width: 100%;
-        height: auto;
-        width: auto\9; /* ie8 */
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-    }
-</style>
 
 
 
