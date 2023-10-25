@@ -118,68 +118,50 @@ permalink: /team
 
 
 ## Alumni
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
+<h4>PDRAs</h4>
+{% assign pdras = site.data.alumni | where:"role", "Postdoctoral research associate" %}
+{% for member in pdras %}
+<p>{{ member.name }},
+{% if member.lab == "rbcs"%}
+[RbCs lab]({{ site.url }}{{ site.baseurl }}/rbcs),
+{% elsif member.lab == "csyb"%}
+[CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb),
+{% elsif member.lab == "tweezers"%}
+[Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers),
+{% elsif member.lab == "microscope"%}
+[Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope),
 {% endif %}
-
-<div class="col-sm-6 clearfix">
-  {% if member.photo %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  {% else %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/placeholder.jpg" class="img-responsive" width="25%" style="float: left" />
-  {% endif %}
-  <h4>{{ member.name }}</h4>
-  <p> 
-  <i>{{ member.role }}</i>
-  <i>{% if member.years %}({{ member.years }}){% endif %}</i>
-  {% if member.lab == "rbcs"%}
-  [RbCs lab]({{ site.url }}{{ site.baseurl }}/rbcs)
-  {% elsif member.lab == "csyb"%}
-  [CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb)
-  {% elsif member.lab == "tweezers"%}
-  [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers)
-  {% elsif member.lab == "microscope"%}
-  [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope)
-  {% endif %}
-  </p>
-
-  {% if member.thesis_link %}
-  {% if member.thesis_title %}
-  [PhD thesis: _{{member.thesis_title}}_]({{member.thesis_link}})
-  {% else %}
-  [PhD thesis]({{member.thesis_link}})
-  {% endif %}
-  {% endif %}
-  <p>{{ member.info }}</p>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
+{% if member.years %}{{ member.years }}{% endif %}
+{% if member.thesis_link %}
+([PhD thesis]({{member.thesis_link}}))
 {% endif %}
-
+{{ member.info }}
+</p>
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
+<h4>PhD students</h4>
+{% assign phds = site.data.alumni | where:"role", "PhD student" %}
+{% for member in phds %}
+<p>{{ member.name }},
+{% if member.lab == "rbcs"%}
+[RbCs lab]({{ site.url }}{{ site.baseurl }}/rbcs),
+{% elsif member.lab == "csyb"%}
+[CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb),
+{% elsif member.lab == "tweezers"%}
+[Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers),
+{% elsif member.lab == "microscope"%}
+[Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope),
 {% endif %}
+{% if member.years %}{{ member.years }}{% endif %}
+{% if member.thesis_link %}
+([PhD thesis]({{member.thesis_link}}))
+{% endif %}
+{{ member.info }}
+</p>
+{% endfor %}
 
 <div class="row">
-
-<!-- <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div> -->
-
 <div class="col-sm-6 clearfix">
 <h4>Masters students</h4>
 {% for member in site.data.alumni_masters %}
