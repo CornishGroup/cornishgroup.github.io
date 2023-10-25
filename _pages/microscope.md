@@ -8,7 +8,10 @@ permalink: /microscope
 
 # Quantum Gas Microscope
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/render5square-1080x805.png" class="img-fluid rounded mx-auto center-block" style="max-width: 25%; height: auto;">
+
+<a href  ="{{ site.url }}{{ site.baseurl }}/images/microscopepic/render5square-1080x805.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/render5square-1080x805.png" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
+</a>
 
 In our lab, we are building a quantum gas microscope for ultracold molecules. This is an attempt to bring together our established work on the creation and coherent control of dipolar molecules, with the exquisite spatial resolution and control afforded by recent developments in high-resolution imaging of ultracold atoms in optical lattice
 
@@ -20,7 +23,9 @@ Our experiment is designed to study large arrays of molecules in periodic potent
 
 In our experiment we plan to form ultracold molecules of <sup>87</sup>Rb<sup>133</sup>Cs molecules from ultracold mixtures of the two species. Atoms are cooled to ultracold temperatures in the main chamber using Degenerate Raman Sideband Cooling (1), and then loaded into an optical lattice which we can move to transfer them to a cell where we have a microscope.
 
+<a href  ="{{ site.url }}{{ site.baseurl }}/images/microscopepic/ExperimentOverview.png">
 <img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/ExperimentOverview.png" class="img-fluid" style="max-width: 100%; height: auto;">
+</a>
 
 
 
@@ -28,7 +33,10 @@ In our experiment we plan to form ultracold molecules of <sup>87</sup>Rb<sup>133
 
 This image carousel shows you around our lab hardware, 
 
+{% include image-gallery.html folder="/images/microscopepic" %}
 
+
+Image gallery here...
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
