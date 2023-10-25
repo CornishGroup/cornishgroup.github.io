@@ -35,60 +35,10 @@ This image carousel shows you around our lab hardware,
 
 {% include image-gallery.html folder="/images/microscopepic" %}
 
+{% include cornish-carousel-captions.html folder = "microscopepic" %}
 
 Image gallery here...
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
-    <!-- Menu -->
-    <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-    </ol>
-
-    <!-- Items -->
-    <div class="carousel-inner" markdown="0">
-        <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/microscope_lasers.jpg" alt="Slide 1" />
-            <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>Laser Cooling Table, here we have the lasers we use for cooling <sup>87</sup>Rb,<sup>133</sup>Cs and <sup>39</sup>K. After passing through frequency control optics the light is sent to the vacuum table via optical fibre.</p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/microscope_SC.jpg" alt="Slide 2" />
-            <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>Science cell. In the middle of this photo you can see the glass cell and microscope objective which we use for quantum gas microscopy. The optics around the cell are used for evaporative cooling of the atoms and forming the optical lattice used for single site resolved imaging.</p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/2DMOT.jpg" alt="Slide 3" />
-            <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>2D MOT: We cool atoms from room temperature into a cold beam using a pair of 2D+ MOTs, which cool atoms and trap atoms in two dimensions, and push them in the final dimension into the main chamber. By using a small amount of cooling in the push direction we can improve the loading of atoms into the 3D mot in the main section of the chamber.</p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/stirap.jpg" alt="Slide 4" />
-            <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>STIRAP lasers. These lasers will be used to tranfer molecules between a weakly bound state and the absolute ground state using a coherent process which keeps the molecules cold. As they address transitions in the bi-alkali molecule we use a high finesse cavity under vaccum (metal cylinder in top right) as a frequency refernce.</p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/control.jpg" alt="Slide 5" />
-            <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>Control system. The experiment is controlled using digital and analog signals from an FPGA. We monitor the progress of the cooling on the scope, and then ultimately measure the properties of the ultracold atoms from images which are processed in real time. Other signals from the lab, such as table temperature, laser noise etc are monitored using a time series database.</p>
-
-            </div>
-        </div>
-    </div>
-  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
-    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
-    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div>
 
 
 
