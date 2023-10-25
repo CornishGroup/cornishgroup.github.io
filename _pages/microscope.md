@@ -33,7 +33,7 @@ In our experiment we plan to form ultracold molecules of <sup>87</sup>Rb<sup>133
 
 This image carousel shows you around our lab hardware, 
 
-{% include image-gallery.html folder="/images/microscopepic" %}
+{% include image-gallery-captions.html folder="microscopepic" %}
 
 {% include cornish-carousel-captions.html folder = "microscopepic" %}
 

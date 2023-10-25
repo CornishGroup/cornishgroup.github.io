@@ -1,0 +1,25 @@
+<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
+<ul class="image-gallery">
+
+
+
+{% for image in site.data.captions %}
+{% if image.path contains include.folder%}
+        <li>
+            <a href="images/{{ image.path}}" title="{{ image.title }}">
+                <img src="//images.weserv.nl/?url=https://www.cornishlabs.uk/images/{{ image.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />
+                <div style = "max-height: 200px; overflow-y: scroll;">
+                <p>{{ image.caption }}</p>
+                </div>
+            </a>
+        </li>
+    {% endif %}
+{% endfor %}
+</ul>
