@@ -33,6 +33,12 @@ We have recently made great strides in realising a 3D lattice of RbCs molecules 
 Figures:
 Long coherence time figure and dipole-dipole interaction figure 
 
+<a href  ="{{ site.url }}{{ site.baseurl }}/images/microscopepic/render5square-1080x805.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/render5square-1080x805.png" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
+</a>
+
+
+
 We have started to install optics for a magic 3D lattice, using high-power optical fibres to launch to magic wavelength light towards the molecules for trapping. 
 ![image](https://github.com/CornishGroup/cornishgroup.github.io/assets/148854397/17d83d22-e308-4abb-906c-264d8767a2c7)
 
