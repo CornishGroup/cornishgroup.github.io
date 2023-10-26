@@ -55,7 +55,7 @@ We want to load molecules into the lattice potential. The method in which to do 
 ### Lab publications
 #### Papers
 {% assign rbcs_papers = site.data.publist | where:"lab", "rbcs" %}
-{% assign paper_counter = rbcs_papers.size %}
+{% assign paper_counter = rbcs_papers.size %} 
 
 {% for publi in rbcs_papers %}
 
