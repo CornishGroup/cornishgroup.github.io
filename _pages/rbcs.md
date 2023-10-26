@@ -8,7 +8,18 @@ permalink: /rbcs
 
 # RbCs molecules
 
-RbCs info here... Hello
+This experiment aims to create a 3-dimensional (3D) lattice of RbCs molecules.
+
+Beginning with a gas of ultracold RbCs molecules, we introduce a 3D optical lattice trapping potential. 
+Molecules individually occupy sites in the lattice, creating an array of molecules confined to different positions in space (sites of the lattice). This system serves as an exciting platform for simulating quantum-mechanical models in condensed matter physics. For instance, molecules in neighbouring sites of the lattice can interact and exchange energy states which can be an analogous to spin-exchange in the Ising model. 
+
+To achieve this goal we need three main ingredients:
+	• A 3D optical lattice trapping potential. This traps the molecules in space
+	• A high filling-fraction of the 3D lattice. This means interactions between molecules in the lattice are strong
+	• Long quantum coherence times between different rotational energy states of RbCs in the lattice. This allows the states of different molecules in the lattice to maintain   their appropriate character over the time period of simulations. 
+ 
+ ![image](https://github.com/CornishGroup/cornishgroup.github.io/assets/148854397/980d9fd2-d58c-4306-b64c-     56d79a84bf27)
+
 
 ### Lab publications
 #### Papers
