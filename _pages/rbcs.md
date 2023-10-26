@@ -34,7 +34,7 @@ Figures:
 Long coherence time figure and dipole-dipole interaction figure 
 
 <a href  ="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.PNG">
-<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.PNG" class="img-fluid rounded mx-auto center-block" style="max-width: auto; height: auto;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.PNG" class="img-fluid rounded mx-auto center-block" style="max-width: 200mm; height: auto;">
 </a>
 
 
