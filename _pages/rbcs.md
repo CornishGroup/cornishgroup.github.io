@@ -33,10 +33,6 @@ Utilising a 'magic' wavelength trap we recently produce world-leading coherence 
 Figures:
 Long coherence time figure and dipole-dipole interaction figure 
 
-<a href  ="{{ site.url }}{{ site.baseurl }}/images/rbcspic/Coherence+Dipole_v4.pdf">
-<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/Coherence+Dipole_v4.pdf" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
-</a>
-
 
 
 We have started to install optics for a magic 3D lattice, using high-power optical fibres to launch to magic wavelength light towards the molecules for trapping. 
