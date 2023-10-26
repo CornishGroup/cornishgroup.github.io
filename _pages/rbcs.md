@@ -28,7 +28,8 @@ This traps the molecules in space.
 
 ### Where are we now?
 
-We have recently made great strides in realising a 3D lattice of RbCs molecules with long coherence times between different rotational states. Utilising a 'magic' wavelength trap we recently produce world-leading coherence times. 'Magic' in this context means eliminating differential ac Stark shifts from the trapping light. This allowed us to observe the effects of relatively weak dipolar interactions between different molecules in the lab for the first time! 
+We have recently made great strides in realising a 3D lattice of RbCs molecules with long coherence times between different rotational states. 
+Utilising a 'magic' wavelength trap we recently produce world-leading coherence times. 'Magic' in this context means eliminating differential ac Stark shifts from the trapping light. This allowed us to observe the effects of relatively weak dipolar interactions between different molecules in the lab for the first time! 
 
 Figures:
 Long coherence time figure and dipole-dipole interaction figure 
@@ -45,6 +46,14 @@ We have started to install optics for a magic 3D lattice, using high-power optic
 ### The next steps
 
 We want to load molecules into the lattice potential. The method in which to do that is to be decided. We could use an accordion lattice,  ![image](https://github.com/CornishGroup/cornishgroup.github.io/assets/148854397/b92eafd6-73c6-4219-bf56-cc55f8becf86)
+
+
+{% include image-gallery-captions.html folder="rbcspic" %}
+{% include cornish-carousel-captions.html folder = "rbcspic" %}
+
+Image gallery here...
+
+
 
 
 ### Lab publications
