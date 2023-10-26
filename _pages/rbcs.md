@@ -47,9 +47,9 @@ We want to load molecules into the lattice potential. The method in which to do 
 </a>
 
 
-Image gallery here...
+{% include image-gallery-captions.html folder="rbcspic" %}
 
-
+{% include cornish-carousel-captions.html folder = "rbcspic" %}
 
 
 ### Lab publications
