@@ -33,6 +33,10 @@ Utilising a 'magic' wavelength trap we recently produce world-leading coherence 
 Figures:
 Long coherence time figure and dipole-dipole interaction figure 
 
+<a href  ="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.PNG">
+<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.PNG" class="img-fluid rounded mx-auto center-block" style="max-width: auto; height: auto;">
+</a>
+
 
 
 We have started to install optics for a magic 3D lattice, using high-power optical fibres to launch to magic wavelength light towards the molecules for trapping. 
@@ -42,12 +46,7 @@ We have started to install optics for a magic 3D lattice, using high-power optic
 We want to load molecules into the lattice potential. The method in which to do that is to be decided. We could use an accordion lattice,
 
 
-<a href  ="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.PNG">
-<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.PNG" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
-</a>
 
-
-{% include image-gallery-captions.html folder="rbcspic" %}
 
 {% include cornish-carousel-captions.html folder = "rbcspic" %}
 
