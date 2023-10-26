@@ -46,8 +46,7 @@ We have started to install optics for a magic 3D lattice, using high-power optic
 We want to load molecules into the lattice potential. The method in which to do that is to be decided. We could use an accordion lattice,
 
 
-{% include image-gallery-captions.html folder="rbcspic" %}
-{% include cornish-carousel-captions.html folder = "rbcspic" %}
+
 
 Image gallery here...
 
