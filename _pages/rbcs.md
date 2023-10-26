@@ -24,7 +24,6 @@ This traps the molecules in space.
           This allows the states of different molecules in the lattice to maintain 
 	  their appropriate character over the time period of simulations. 
  
- ![image](https://github.com/CornishGroup/cornishgroup.github.io/assets/148854397/980d9fd2-d58c-4306-b64c-     56d79a84bf27)
 
 ### Where are we now?
 
@@ -34,18 +33,17 @@ Utilising a 'magic' wavelength trap we recently produce world-leading coherence 
 Figures:
 Long coherence time figure and dipole-dipole interaction figure 
 
-<a href  ="{{ site.url }}{{ site.baseurl }}/images/microscopepic/render5square-1080x805.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/render5square-1080x805.png" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
+<a href  ="{{ site.url }}{{ site.baseurl }}/images/rbcspic/Coherence+Dipole_v4.pdf">
+<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/Coherence+Dipole_v4.pdf" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
 </a>
 
 
 
 We have started to install optics for a magic 3D lattice, using high-power optical fibres to launch to magic wavelength light towards the molecules for trapping. 
-![image](https://github.com/CornishGroup/cornishgroup.github.io/assets/148854397/17d83d22-e308-4abb-906c-264d8767a2c7)
 
 ### The next steps
 
-We want to load molecules into the lattice potential. The method in which to do that is to be decided. We could use an accordion lattice,  ![image](https://github.com/CornishGroup/cornishgroup.github.io/assets/148854397/b92eafd6-73c6-4219-bf56-cc55f8becf86)
+We want to load molecules into the lattice potential. The method in which to do that is to be decided. We could use an accordion lattice,
 
 
 {% include image-gallery-captions.html folder="rbcspic" %}
