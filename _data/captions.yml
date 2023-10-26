@@ -18,3 +18,26 @@
   caption: Control system. The experiment is controlled using digital and analog signals from an FPGA. We monitor the progress of the cooling on the scope, and then ultimately measure the properties of the ultracold atoms from images which are processed in real time. Other signals from the lab, such as table temperature, laser noise etc are monitored using a time series database.
   title: Control system
 
+
+
+- path: rbcspic/phil.jpg
+  caption: Phil (PDRA) optimising modulation transfer spectroscopy.
+  title: 
+
+- path: rbcspic/albert.jpg
+  caption: Albert (PhD) installing a new Cs repump laser
+  title: 
+
+- path: rbcspic/luke.jpg
+  caption: Luke (PhD) adjusting pointing of STIRAP beams
+  title: 
+
+- path: rbcspic/fritz.jpg
+  caption: Fritz (Masters student from Germany) aligning optics for new PDH locking set up.
+  title: 
+
+- path: rbcspic/group.jpg
+  caption: The team: Albert, Luke and Phil.
+  title: 
+
+
