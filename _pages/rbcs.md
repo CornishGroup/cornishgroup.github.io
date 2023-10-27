@@ -1,4 +1,4 @@
----
+<img width="384" alt="molecules" src="https://github.com/CornishGroup/cornishgroup.github.io/assets/148854397/6ca3d1a3-16e0-421a-8d89-d913b675596c">---
 title: "RbCs - Cornish Labs"
 layout: textlay
 excerpt: "RbCs - Cornish Labs"
@@ -13,11 +13,8 @@ This experiment aims to create a 3-dimensional (3D) lattice of RbCs molecules.
 Beginning with a gas of ultracold RbCs molecules, we plan to introduce a 3D optical lattice trapping potential. 
 Molecules individually occupy sites in the lattice, creating an array of molecules confined to different positions in space (sites of the lattice). This system serves as an exciting platform for simulating quantum-mechanical models in condensed matter physics. For instance, molecules in neighbouring sites of the lattice can interact and exchange energy states which can be an analogous to spin-exchange in the Ising model. 
 
-<a href  ="{{ site.url }}{{ site.baseurl }}/images/rbcspic/molecules and lattice.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/molecules and lattice.png" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;"> 
-</a>
-Caption: Atoms that used to be molecules imaged in the lab after Stern-Gerlach seperation (left). 
-Array of molecules in 3D optical lattice (right) 
+
+{% include cornish-carousel-captions.html folder = "rbcspic2" %}
 
 To achieve this goal we need three main ingredients:
 
@@ -42,7 +39,7 @@ Utilising a 'magic' wavelength, we recently produce world-leading coherence time
 </a>
 
 Caption: Ramsey coherence experiment of molecules in magic trap showing world-leading coherence times of order seconds (left). Dipolar mixtures of states presented as squares and non-dipolar mixtures as circles. Dipole-dipole interactions clearly contributes to a shorter coherence time.    
-Coherence time as a function of dipole-dipole interaction strength in the trap (right). Coherence time vs the reciprocal of dipole moment squared follows a linear trend, shown by the bottom-left inset. 
+Coherence time as a function of dipole-dipole interaction strength in the trap (right). Coherence time vs the reciprocal of dipole moment squared follows a linear trend, shown by the bottom-left inset. [5] 
 
 We have started to install optics for a magic 3D lattice, using high-power optical fibres to launch the magic wavelength light towards the molecules for trapping. 
 We have also taken steps to better frequency stabilize our magic laser using a ultra low expansion cavity as reference.
