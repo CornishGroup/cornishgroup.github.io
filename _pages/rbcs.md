@@ -31,7 +31,7 @@ This traps the molecules in space.
 	  their appropriate character over the time period of simulations. 
  
 
-### Where are we now?
+### Magic wavelength trapping
 
 We have recently made great strides in realising a 3D lattice of RbCs molecules with long coherence times between different rotational states. 
 Utilising a 'magic' wavelength, we recently produce world-leading coherence times of diatomic molecules in an optical trap. 'Magic' in this context means eliminating differential ac Stark shifts from the trapping light. This allowed us to observe the effects of relatively weak dipolar interactions between different molecules in the lab for the first time! 
