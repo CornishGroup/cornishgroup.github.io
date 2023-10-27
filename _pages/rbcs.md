@@ -1,4 +1,4 @@
-<img width="384" alt="molecules" src="https://github.com/CornishGroup/cornishgroup.github.io/assets/148854397/6ca3d1a3-16e0-421a-8d89-d913b675596c">---
+---
 title: "RbCs - Cornish Labs"
 layout: textlay
 excerpt: "RbCs - Cornish Labs"
