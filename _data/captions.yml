@@ -35,11 +35,15 @@
   title: hi
 
 - path: rbcspic/group.jpg
-  caption: The team
+  caption: The team.
+  title: hi
+
+- path: rbcspic/Experiment cartoon.png
+  caption: Science cell diagram.
   title: hi
 
 - path: rbcspic/ScienceTable.png
-  caption: The science MOT
+  caption: The science MOT set up.
   title: hi
 
 - path: rbcspic2/molecules.png
