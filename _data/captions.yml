@@ -46,16 +46,8 @@
   caption: The science MOT set up.
   title: hi
 
-- path: rbcspic2/molecules.png
-  caption: Atoms that used to be molecules imaged in the lab after Stern-Gerlach seperation.
-  title: hi
-
 - path: rbcspic2/Finding magic.png
   caption: Using Ramsey interferometry to find magic freuqencies for different rotational state mixtures.
-  title: hi
-
-- path: rbcspic2/Jakepccp.png
-  caption: Molecules excited up the ladder of rotational energy states with microwaves.
   title: hi
 
 - path: rbcspic2/Magic spectroscopy.png
