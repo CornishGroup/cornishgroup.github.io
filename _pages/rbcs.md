@@ -14,7 +14,6 @@ Beginning with a gas of ultracold RbCs molecules, we plan to introduce a 3D opti
 Molecules individually occupy sites in the lattice, creating an array of molecules confined to different positions in space (sites of the lattice). This system serves as an exciting platform for simulating quantum-mechanical models in condensed matter physics. For instance, molecules in neighbouring sites of the lattice can interact and exchange energy states which can be an analogous to spin-exchange in the Ising model. 
 
 
-{% include cornish-carousel-captions2.html folder = "rbcspic2" %}
 
 To achieve this goal we need three main ingredients:
 
