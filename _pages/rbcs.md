@@ -17,7 +17,7 @@ Molecules individually occupy sites in the lattice, creating an array of molecul
 <img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/into fig.PNG" class="img-fluid rounded mx-auto center-block" style="max-width: 175mm; height: auto;">
 </a>
 
-###### Figure
+##### Figure
 
 
 To achieve this goal we need three main ingredients:
