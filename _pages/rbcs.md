@@ -33,8 +33,8 @@ We have recently made great strides in realising a 3D lattice of RbCs molecules 
 Utilising a 'magic' wavelength, we recently produce world-leading coherence times of diatomic molecules in an optical trap. 'Magic' in this context means eliminating differential ac Stark shifts from the trapping light. This allowed us to observe the effects of relatively weak dipolar interactions between different molecules in the lab for the first time! 
 
 
-<a href  ="{{ site.url }}{{ site.baseurl }}/images/rbcspic/Coherence+Dipole_v4.pdf">
-<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/Coherence+Dipole_v4.pdf" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
+<a href  ="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/rbcspic/coherence.png" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
 </a>
 
 Caption: Ramsey coherence experiment of molecules in magic trap showing world-leading coherence times of order seconds (left). Dipolar mixtures of states presented as squares and non-dipolar mixtures as circles. Dipole-dipole interactions clearly contributes to a shorter coherence time.    
