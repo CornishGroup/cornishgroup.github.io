@@ -8,6 +8,8 @@ permalink: /csyb
 
 # CsYb molecules
 
+{% include cornish-carousel-captions.html folder = "csybpic" %}
+
 In the CsYb experiment, we trap and cool atoms of Caesium and Ytterbium to the quantum degenerate regime. We create dual-degenerate mixtures of Bose-Einstein condensates and study their interactions and novel quantum phases. 
 
 We are also interested in ways to assemble Caesium and Ytterbium atoms into CsYb molecules. The molecules have both an electric and a magnetic dipole moment in the electronic ground state, making them a promising experimental platform for quantum simulation of lattice spin models. We study interspecies Feshbach resonances, which could in future be used for molecular association. 
