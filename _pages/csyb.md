@@ -14,7 +14,7 @@ We are also interested in ways to assemble Caesium and Ytterbium atoms into CsYb
 
 In summer 2023, we upgraded our vacuum apparatus to include a glass cell. This will allow us to finely control the experimental properties of our atomic mixtures, and perform high-resolution imaging of our atom clouds. 
 
-We have a PhD position available, starting autumn 2024. For more information email s.l.cornish@durham.ac.uk. 
+We have a PhD position available, starting autumn 2024. For more information email [s.l.cornish@durham.ac.uk](mailto:s.l.cornish@durham.ac.uk). 
 
 ### Lab publications
 #### Papers
