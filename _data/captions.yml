@@ -70,4 +70,22 @@
   caption: Array of molecules in 3D optical lattice.
   title: hi
 
+- path: csybpic/Yb_MOT.jpg
+  caption: The centre of this image dhows a cloud of laser-cooled Ytterbium atoms, trapped in a Magneto-optical trap (MOT) inside our vacuum chamber.
+  title: Ytterbium MOT
 
+- path: csybpic/12_399_and_556_light.jpg
+  caption: For laser cooling and trapping Ytterbium, we use visible laser systems, at 399nm and 556nm. 
+  title: Laser cooling systems for Ytterbium
+
+- path: glass_cell_new.jpg
+  caption: In summer 2023 we added a new glass cell to our vacuum apparatus. Here is the cell shortly after we attached it! 
+  title: The glass cell
+
+- path: glass_cell_oct_2023.jpg
+  caption: In autumn 2023 work is well underway to upgrade the experimental apparatus, incorporating the glass cell in the centre of this image. 
+  title: Experimental upgrade
+
+- path: CsYb_team_Oct_2023.jpg
+  caption: The CsYb experiment team in October 2023. L-R: Joe (PhD student), Tobias (PDRA), Jack (PDRA), and Simon (PI).
+  title: The CsYb team
