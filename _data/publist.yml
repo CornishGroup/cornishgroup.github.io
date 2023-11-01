@@ -117,9 +117,16 @@
 - title: "Robust storage qubits in ultracold polar molecules"
   authors: Philip D. Gregory, Jacob A. Blackmore, Sarah L. Bromley, Jeremy M. Hutson, and Simon L. Cornish 
   link:
-    url: https://doi.org/10.1088/1367-2630/ac0000
+    url: https://doi.org/10.1038/s41567-021-01328-7
     display: _Nat. Phys._ **17**, 1149–1153 (2021)
   lab: rbcs
+
+- title: "Dynamics of a degenerate Cs-Yb mixture with attractive interspecies interactions"
+  authors: Kali E. Wilson\*, Alexander Guttridge\*, I-Kang Liu, Jack Segal, Thomas P. Billam, Nick G. Parker, N. P. Proukakis, and Simon L. Cornish 
+  link:
+    url: https://doi.org/10.1103/PhysRevResearch.3.033096 
+    display: _Phys. Rev. Research_ **3**, 033096 (2021)
+  lab: csyb
 
 - title: "Preparation of <sup>87</sup>Rb and <sup>133</sup>Cs in the motional ground state of a single optical tweezer"
   image: rb_cs_single_tweezer.png
