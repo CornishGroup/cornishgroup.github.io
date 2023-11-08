@@ -18,3 +18,74 @@
   caption: Control system. The experiment is controlled using digital and analog signals from an FPGA. We monitor the progress of the cooling on the scope, and then ultimately measure the properties of the ultracold atoms from images which are processed in real time. Other signals from the lab, such as table temperature, laser noise etc are monitored using a time series database.
   title: Control system
 
+- path: rbcspic/phil.jpg
+  caption: Phil (PDRA) optimising modulation transfer spectroscopy.
+  title: hi
+
+- path: rbcspic/albert.jpg
+  caption: Albert (PhD) installing a new Cs repump laser
+  title: hi
+
+- path: rbcspic/luke.jpg
+  caption: Luke (PhD) adjusting pointing of STIRAP beams
+  title: hi
+
+- path: rbcspic/fritz.jpg
+  caption: Fritz (Masters student from Germany) aligning optics for new PDH locking set up.
+  title: hi
+
+- path: rbcspic/group.jpg
+  caption: The team.
+  title: hi
+
+- path: rbcspic/Experiment cartoon.png
+  caption: Science cell diagram.
+  title: hi
+
+- path: rbcspic/ScienceTable.png
+  caption: The science MOT set up.
+  title: hi
+
+- path: rbcspic2/Finding magic.png
+  caption: Using Ramsey interferometry to find magic freuqencies for different rotational state mixtures [5].
+  title: hi
+
+- path: rbcspic2/Magic spectroscopy.png
+  caption: Mapping out the electonic transitions used in magic trapping (left) and coarsely finding magic for different pairs of rotational states (right) [in preperation].
+  title: hi
+
+- path: rbcspic2/Robust storage.png
+  caption: Ramsey interferometry of different pairs of hyperfine states of RbCs [1].
+  title: hi
+
+- path: rbcspic2/STIRAP.png
+  caption: Rabi oscillations on Stokes transition at 350G [4].
+  title: hi
+
+- path: rbcspic2/ac stark.png
+  caption: ac Stark shift of the rovibrational ground state of RbCs at different intensities.
+  title: hi
+  
+- path: rbcspic2/lattice.png
+  caption: Array of molecules in 3D optical lattice.
+  title: hi
+
+- path: csybpic/Yb_MOT.jpg
+  caption: The centre of this image shows a cloud of laser-cooled Ytterbium atoms, trapped in a Magneto-optical trap (MOT) inside our vacuum chamber.
+  title: Ytterbium MOT
+
+- path: csybpic/12_399_and_556_light.jpg
+  caption: For laser cooling and trapping Ytterbium, we use visible laser systems, at 399nm and 556nm. 
+  title: Laser cooling systems for Ytterbium
+
+- path: csybpic/glass_cell_new.jpg
+  caption: In summer 2023 we added a new glass cell to our vacuum apparatus. Here is the cell shortly after we attached it! 
+  title: The glass cell
+
+- path: csybpic/glass_cell_oct_2023.jpg
+  caption: In autumn 2023 work is well underway to upgrade the experimental apparatus, incorporating the glass cell in the centre of this image. 
+  title: Experimental upgrade
+
+- path: csybpic/CsYb_team_Oct_2023.jpg
+  caption: "The CsYb experiment team in October 2023. L-R: Joe (PhD student), Tobias (PDRA), Jack (PDRA), and Simon (PI)."
+  title: The CsYb team

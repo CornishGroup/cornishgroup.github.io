@@ -1,0 +1,32 @@
+- path: rbcspic2/molecules.png
+  caption: Atoms that used to be molecules imaged in the lab after Stern-Gerlach seperation.
+  title: hi
+
+- path: rbcspic2/Finding magic.png
+  caption: Using Ramsey interferometry to find magic freuqencies for different rotational state mixtures.
+  title: hi
+
+- path: rbcspic2/Jakepccp.png
+  caption: Molecules excited up the ladder of rotational energy states with microwaves.
+  title: hi
+
+- path: rbcspic2/Magic spectroscopy.png
+  caption: Mapping out the electonic transitions used in magic trapping (left) and coarsely finding magic for different pairs of rotational states (right).
+  title: hi
+
+- path: rbcspic2/Robust storage.png
+  caption: Ramsey interferometry of different pairs of hyperfine states of RbCs.
+  title: hi
+
+- path: rbcspic2/STIRAP.png
+  caption: Rabi oscillations on Stokes transition at 350G.
+  title: hi
+
+- path: rbcspic2/ac stark.png
+  caption: ac Stark shift of the rovibrational ground state of RbCs at different intensities.
+  title: hi
+  
+- path: rbcspic2/lattice.png
+  caption: Array of molecules in 3D optical lattice.
+  title: hi
+

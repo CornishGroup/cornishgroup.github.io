@@ -8,6 +8,11 @@
   role: Postdoctoral research associate
   years: 2018 - 2021
 
+- name: Kali Wilson
+  lab: csyb
+  role: Postdoctoral research associate
+  years: 2018 - 2020
+
 - name: Alexandros Alampounti
   lab: tweezers
   role: Postdoctoral research associate
@@ -43,3 +48,75 @@
   thesis_title: Control and Collisions of <sup>87</sup>Rb and <sup>133</sup>Cs Atoms in Optical Tweezers
   thesis_year: 2022
   thesis_lab: tweezers
+
+- name: Jacob Blackmore
+  photo: Jake.png
+  role: Postdoctoral research associate
+  lab: rbcs
+  years: 2020 - 2021
+  thesis_link: http://etheses.dur.ac.uk/13730/
+  thesis_title: Coherence and Collisions in Ultracold <sup>87</sup>Rb<sup>133</sup>Cs Molecules
+  thesis_year: 2020
+  thesis_lab: rbcs
+
+- name: Stefan Kemp
+  photo: 
+  role: PhD student
+  lab: csyb
+  years: 2013 - 2017
+  thesis_link: http://etheses.dur.ac.uk/12166/ 
+  thesis_title: Laser cooling and trapping of Ytterbium
+  thesis_year: 2017
+  thesis_lab: csyb
+
+- name: Kirsteen Butler
+  photo: 
+  role: PhD student
+  lab: csyb
+  years: 2010 - 2014
+  thesis_link: http://etheses.dur.ac.uk/10703/ 
+  thesis_title: A dual species MOT of Yb and Cs
+  thesis_year: 2014
+  thesis_lab: csyb
+
+- name: Daniel McCarron
+  photo: 
+  role: PhD student
+  lab: rbcs
+  years: 2007 - 2011
+  thesis_link: https://etheses.dur.ac.uk/3242/
+  thesis_title: A Quantum Degenerate Mixture of <sup>87</sup>Rb and <sup>133</sup>Cs
+  thesis_year: 2011
+  thesis_lab: rbcs
+
+- name: Patrick Tierney 
+  photo: 
+  role: PhD student
+  lab: rbcs
+  years: 2005 - 2009
+  thesis_link: https://etheses.dur.ac.uk/2039/
+  thesis_title: Magnetic trapping of an ultracold <sup>87</sup>Rb and <sup>133</sup>Cs atomic mixture
+  thesis_year: 2009
+  thesis_lab: rbcs
+
+- name: Michael Koppinger
+  photo: 
+  role: PhD student
+  lab: rbcs
+  years: 2010 - 2014
+  thesis_link: https://etheses.dur.ac.uk/10701/
+  thesis_title: Creation of ultracold RbCs molecules
+  thesis_year: 2014
+  thesis_lab: rbcs
+
+- name: Peter Molony 
+  photo: 
+  role: PhD student
+  lab: rbcs
+  years: 2012 - 2016
+  thesis_link: https://etheses.dur.ac.uk/11781/
+  thesis_title: Creation of ultracold polar ground-state RbCs molecules
+  thesis_year: 2016
+  thesis_lab: rbcs
+
+  
