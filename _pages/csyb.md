@@ -6,7 +6,7 @@ sitemap: false
 permalink: /csyb
 ---
 
-# CsYb molecules
+# CsYb: quantum degenerate mixtures and magnetic molecules
 
 {% include cornish-carousel-captions.html folder = "csybpic" %}
 
