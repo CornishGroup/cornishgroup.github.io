@@ -16,5 +16,5 @@ Our research is divided amongst four labs:
     <li><a href="{{ site.url }}{{ site.baseurl }}/rbcs">RbCs bulk gas lab</a>,</li>
     <li><a href="{{ site.url }}{{ site.baseurl }}/microscope">RbCs quantum gas microscope lab</a>,</li>
     <li><a href="{{ site.url }}{{ site.baseurl }}/tweezers">RbCs optical tweezer lab</a>, and </li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/csyb">CsYb bulk gas lab</a>.</li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/csyb">CsYb: mixtures and molecules lab</a>.</li>
 </ul>
