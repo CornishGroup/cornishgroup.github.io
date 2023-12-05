@@ -1,7 +1,7 @@
 ---
 title: "CsYb: quantum degenerate mixtures and magnetic molecules"
 layout: textlay
-excerpt: "CsYb - Cornish Labs"
+excerpt: "CsYb: quantum degenerate mixtures and magnetic molecules"
 sitemap: false
 permalink: /csyb
 ---
