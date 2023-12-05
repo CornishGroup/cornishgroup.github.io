@@ -1,5 +1,5 @@
 ---
-title: "CsYb - Cornish Labs"
+title: "CsYb: quantum degenerate mixtures and magnetic molecules"
 layout: textlay
 excerpt: "CsYb - Cornish Labs"
 sitemap: false
@@ -16,7 +16,7 @@ We are also interested in ways to assemble Caesium and Ytterbium atoms into CsYb
 
 In summer 2023, we upgraded our vacuum apparatus to include a glass cell. This will allow us to finely control the experimental properties of our atomic mixtures, and perform high-resolution imaging of our atom clouds. 
 
-We have a PhD position available, starting autumn 2024. For more information email [s.l.cornish@durham.ac.uk](mailto:s.l.cornish@durham.ac.uk). 
+We are looking to recruit a PhD student in 2024. For more information email [s.l.cornish@durham.ac.uk](mailto:s.l.cornish@durham.ac.uk). 
 
 ### Lab publications
 #### Papers
