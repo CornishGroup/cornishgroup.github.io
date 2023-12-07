@@ -1,12 +1,12 @@
 ---
-title: "CsYb: quantum degenerate mixtures and magnetic molecules"
+title: "CsYb: Quantum degenerate mixtures and magnetic molecules"
 layout: textlay
-excerpt: "CsYb: quantum degenerate mixtures and magnetic molecules"
+excerpt: "CsYb: Quantum degenerate mixtures and magnetic molecules"
 sitemap: false
 permalink: /csyb
 ---
 
-# CsYb: quantum degenerate mixtures and magnetic molecules
+# CsYb: Quantum degenerate mixtures and magnetic molecules
 
 {% include cornish-carousel-captions.html folder = "csybpic" %}
 
@@ -36,7 +36,11 @@ Improved optical access in the glass cell will allow us to finely control the ex
 
 ## Join us!
 
-We are looking to recruit **a PhD student in 2024**. For more information email [s.l.cornish@durham.ac.uk](mailto:s.l.cornish@durham.ac.uk). 
+We are looking to recruit **a PhD student in 2024**. For more information email [s.l.cornish@durham.ac.uk](mailto:s.l.cornish@durham.ac.uk).
+
+## Collaborations
+
+As part of our quantum degenerate mixtures research, we actively collaborate with the <a href="https://blogs.ncl.ac.uk/quantum-matter/">Quantum Matter Research Group</a> at Newcastle University, and the <a href="https://eqop.phys.strath.ac.uk/vsf-projects/vsf-main/">Vortices in Superfluids group</a> at the University of Strathclyde.
 
 ### Lab publications
 #### Papers
