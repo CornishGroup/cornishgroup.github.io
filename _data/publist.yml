@@ -8,7 +8,7 @@
   highlight: 1
   lab: tweezers
 
-  - title: "Second-scale rotational coherence and dipolar interactions in a gas of ultracold polar molecules"
+- title: "Second-scale rotational coherence and dipolar interactions in a gas of ultracold polar molecules"
   image: coherence.png
   description: Here we demonstrate a rotationally-magic optical trap for RbCs molecules that supports a Ramsey coherence time of 0.78(4) seconds in the absence of dipole-dipole interactions.
   authors: Philip D. Gregory, Luke M. Fernley, Albert Li Tao, Sarah L. Bromley, Jonathan Stepp, Zewen Zhang, Svetlana Kotochigova, Kaden R. A. Hazzard, and Simon L. Cornish
@@ -18,7 +18,7 @@
   highlight: 1
   lab: rbcs
 
-  - title: "An association sequence suitable for producing ground-state RbCs molecules in optical lattices"
+- title: "An association sequence suitable for producing ground-state RbCs molecules in optical lattices"
   image: rbcs_feshbach_route.png
   description: We demonstrate the formation of a single RbCs molecule during the merging of two optical tweezers, one containing a single Rb atom and the other a single Cs atom.
   authors: Arpita Das\*, Philip D. Gregory\*, Tetsu Takekoshi, Luke Fernley, Manuele Landini, Jeremy M. Hutson, Simon L. Cornish, and Hanns-Christoph Nägerl
