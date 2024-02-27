@@ -42,6 +42,8 @@ We are looking to recruit **a PhD student in 2024**. For more information email 
 
 As part of our quantum degenerate mixtures research, we actively collaborate with the <a href="https://blogs.ncl.ac.uk/quantum-matter/">Quantum Matter Research Group</a> at Newcastle University, and the <a href="https://eqop.phys.strath.ac.uk/vsf-projects/vsf-main/">Vortices in Superfluids group</a> at the University of Strathclyde.
 
+In our work on ultracold collisions and towards molecule production we work closely with the group of <a href="https://jmhutson.webspace.durham.ac.uk/">Jeremy Hutson</a> at the Department of Chemistry
+
 ### Lab publications
 #### Papers
 {% assign csyb_papers = site.data.publist | where:"lab", "csyb" %}
