@@ -42,10 +42,14 @@
 - name: Jonathan Mortlock
   photo: mortlock.jpg
   role: Postdoctoral research associate
-  lab: microscope
+  lab: microscope0
   email: jonathan.m.mortlock@durham.ac.uk
-  links: "[ORCID] (https://orcid.org/0000-0002-9438-7650)"
-  
+  links: "[ORCID](https://orcid.org/0000-0002-9438-7650)"
+  thesis_link: https://etheses.dur.ac.uk/15441/
+  thesis_title: Towards Quantum Gas Microscopy of Ultracold Molecules
+  thesis_year: 2024
+  thesis_lab: microscope
+
 - name: Ben Maddox
   role: Postdoctoral research associate
   lab: microscope
