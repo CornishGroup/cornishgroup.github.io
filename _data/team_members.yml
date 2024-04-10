@@ -44,7 +44,12 @@
   role: Postdoctoral research associate
   lab: microscope
   email: jonathan.m.mortlock@durham.ac.uk
-
+  links: "[ORCID] (https://orcid.org/0000-0002-9438-7650)"
+  
+- name: Ben Maddox
+  role: Postdoctoral research associate
+  lab: microscope
+  
 - name: Daniel Ruttley
   photo: ruttley.jpg
   role: PhD student
