@@ -5,11 +5,11 @@
   years: 2018 - 2023
 
 - name: Andrew Innes
- role: PhD Student
- lab: microscope
- years: 2018 - 2023
- thesis_link: https://etheses.dur.ac.uk/15248/
- thesis_title: Towards a novel platform for imaging molecules in an optical lattice
+  role: PhD Student
+  lab: microscope
+  years: 2018 - 2023
+  thesis_link: https://etheses.dur.ac.uk/15248/
+  thesis_title: Towards a novel platform for imaging molecules in an optical lattice
   thesis_year: 2023
   thesis_lab: microscope
 
