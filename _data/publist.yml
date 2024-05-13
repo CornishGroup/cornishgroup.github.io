@@ -3,8 +3,8 @@
   description: We develop a toolbox of techniques for the control and readout of individually trapped polar molecules in an array of optical tweezers.
   authors: Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, and Simon L. Cornish
   link:
-    url: https://arxiv.org/abs/2401.13593
-    display: arXiv:2401.13593 (2024)
+    url: https://doi.org/10.1103/PRXQuantum.5.020333
+    display: _PRX Quantum_ **5**, 020333 (2024)
   highlight: 1
   lab: tweezers
 
@@ -14,7 +14,7 @@
   authors: Philip D. Gregory, Luke M. Fernley, Albert Li Tao, Sarah L. Bromley, Jonathan Stepp, Zewen Zhang, Svetlana Kotochigova, Kaden R. A. Hazzard, and Simon L. Cornish
   link:
     url: https://doi.org/10.1038/s41567-023-02328-5
-    display: _Nat. Phys._ (2024)
+    display: _Nat. Phys._ **20**, 415 (2024)
   highlight: 1
   lab: rbcs
 
