@@ -8,6 +8,16 @@
   highlight: 1
   lab: tweezers
 
+- title: "Enhanced quantum state transfer via feedforward cancellation of optical phase noise"
+  image: feedforward.png
+  description:  We implement an optical feedforward technique to suppress laser phase noise in the STIRAP state transfer of ultracold RbCs molecules.
+  authors: Benjamin P. Maddox\*, Jonathan M. Mortlock\*, Tom R. Hepworth, Adarsh P. Raghuram, Philip D. Gregory, Alexander Guttridge, and Simon L. Cornish
+  link:
+    url: https://arxiv.org/abs/2407.09119
+    display: arXiv:2407.09119 (2024)
+  highlight: 1
+  lab: microscope
+
 - title: "Enhanced quantum control of individual ultracold molecules using optical tweezer arrays"
   image: tweezers_enhanced_control.png
   description: We develop a toolbox of techniques for the control and readout of individually trapped polar molecules in an array of optical tweezers.
@@ -35,7 +45,7 @@
   link:
     url: https://doi.org/10.1103/PhysRevA.109.023321
     display: _Phys. Rev. A_ **109**, 023321 (2024)
-  highlight: 1
+  highlight: 0
   lab: microscope
 
 - title: "Second-scale rotational coherence and dipolar interactions in a gas of ultracold polar molecules"
