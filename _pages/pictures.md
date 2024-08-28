@@ -14,11 +14,18 @@ permalink: /pictures/
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/team_may_2024.jpg" alt="Erkan leaving" />
+            <div class="carousel-caption mb-4 text-light background: rgba(255, 184, 28, 0.5);">
+            <p>The team in May 2024.</p>
+            </div>
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/erkan_leaving.jpg" alt="Erkan leaving" />
             <div class="carousel-caption mb-4 text-light background: rgba(255, 184, 28, 0.5);">
             <p>Wishing a fond farewell to Erkan, our 2023 summer student.</p>

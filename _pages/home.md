@@ -21,7 +21,10 @@ We use laser cooling to create samples of gases at micro-kelvin temperatures, wh
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpic/420nm_light.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpic/team_may_2024.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpic/420nm_light.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/carouselpic/microscope_lasers.jpg" alt="Slide 2" />

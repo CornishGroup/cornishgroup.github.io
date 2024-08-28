@@ -1,3 +1,13 @@
+- title: "Long-lived entanglement of molecules in magic-wavelength optical tweezers"
+  image: entanglement.png
+  description:  We show that by engineering an exceptionally controlled environment using rotationally-magic optical tweezers, we can achieve long-lived entanglement between pairs of molecules.
+  authors: Daniel K. Ruttley\*, Tom R. Hepworth\*, Alexander Guttridge, and Simon L. Cornish
+  link:
+    url: https://arxiv.org/abs/2408.14904
+    display: arXiv:2408.14904 (2024)
+  highlight: 1
+  lab: tweezers
+
 - title: "Enhanced quantum control of individual ultracold molecules using optical tweezer arrays"
   image: tweezers_enhanced_control.png
   description: We develop a toolbox of techniques for the control and readout of individually trapped polar molecules in an array of optical tweezers.
@@ -5,8 +15,28 @@
   link:
     url: https://doi.org/10.1103/PRXQuantum.5.020333
     display: _PRX Quantum_ **5**, 020333 (2024)
-  highlight: 1
+  highlight: 0
   lab: tweezers
+  
+- title: "Modulation transfer spectroscopy of the D1 transition of potassium: theory and experiment"
+  image: transport.png
+  description: We report on a study of modulation transfer spectroscopy of the D1 transition of naturally abundant potassium in a room-temperature vapour cell.
+  authors: Andrew D. Innes, Prosenjit Majumder, Heung-Ryoul Noh, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1088/1361-6455/ad31af
+    display: _J. Phys. B_ **57**, 075401 (2024)
+  highlight: 0
+  lab: microscope
+
+- title: "Long distance optical conveyor-belt transport of ultracold <sup>133</sup>Cs and <sup>87</sup>Rb atoms"
+  image: transport.png
+  description: We demonstate long range transport of ultracold Rb and Cs atoms to our science cell using a moving optical lattice, with a simplified setup using two Gaussian beams.
+  authors: Alex J. Matthies, Jonathan M. Mortlock, Lewis A. McArd, Adarsh P. Raghuram, Andrew D. Innes, Philip D. Gregory, Sarah L. Bromley, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.109.023321
+    display: _Phys. Rev. A_ **109**, 023321 (2024)
+  highlight: 1
+  lab: microscope
 
 - title: "Second-scale rotational coherence and dipolar interactions in a gas of ultracold polar molecules"
   image: coherence.png
@@ -27,26 +57,6 @@
     display: _SciPost Phys._ **15**, 220 (2023)
   highlight: 0
   lab: rbcs
-
-- title: "Modulation Transfer Spectroscopy of the D1 Transition of Potassium: Theory and Experiment"
-  image: transport.png
-  description: We report on a study of modulation transfer spectroscopy of the D1 transition of naturally abundant potassium in a room-temperature vapour cell.
-  authors: Andrew D. Innes, Prosenjit Majumder, Heung-Ryoul Noh, and Simon L. Cornish
-  link:
-    url: https://arxiv.org/abs/2310.11327
-    display: arXiv:2310.11327 (2023)
-  highlight: 0
-  lab: microscope
-
-- title: "Long distance optical conveyor-belt transport of ultracold <sup>133</sup>Cs and <sup>87</sup>Rb atoms"
-  image: transport.png
-  description: We demonstate long range transport of ultracold Rb and Cs atoms to our science cell using a moving optical lattice, with a simplified setup using two Gaussian beams.
-  authors: Alex J. Matthies, Jonathan M. Mortlock, Lewis A. McArd, Adarsh P. Raghuram, Andrew D. Innes, Philip D. Gregory, Sarah L. Bromley, and Simon L. Cornish
-  link:
-    url: https://arxiv.org/abs/2307.13382
-    display: arXiv:2307.13382 (2023)
-  highlight: 1
-  lab: microscope
 
 - title: "Observation of Rydberg blockade due to the charge-dipole interaction between an atom and a polar molecule"
   image: blockade.png
@@ -185,19 +195,19 @@
   authors: A. Guttridge, S. A. Hopkins, S. L. Kemp, D. Boddy, R. Freytag, M. P. A. Jones, M. R. Tarbutt, E. A. Hinds, and S. L. Cornish
   link:
     url: https://doi.org/10.15128/9s1616164
-    display: _ J. Phys. B At. Mol. Opt. Phys_ **49**, 145006 (2016)
+    display: _J. Phys. B_ **49**, 145006 (2016)
   lab: csyb
 
 - title: "A versatile dual-species Zeeman slower for caesium and ytterbium"
   authors: S. A. Hopkins, K. Butler, A. Guttridge, S. Kemp, R. Freytag, E. A. Hinds, M. R. Tarbutt, and S. L. Cornish
   link:
     url: https://doi.org/10.1063/1.4945795
-    display: _ Rev. Sci. Instrum._ **87**, 043109 (2016)
+    display: _Rev. Sci. Instrum._ **87**, 043109 (2016)
   lab: csyb
 
 - title: "Production and characterization of a dual species magneto-optical trap of cesium and ytterbium"
   authors: S. L. Kemp, K. L. Butler, R. Freytag, S. A. Hopkins, E. A. Hinds, M. R. Tarbutt, and S. L. Cornish
   link:
     url: https://doi.org/10.1063/1.4941719
-    display: _ Rev. Sci. Instrum._ **87**, 023105 (2016)
+    display: _Rev. Sci. Instrum._ **87**, 023105 (2016)
   lab: csyb

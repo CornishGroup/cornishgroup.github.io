@@ -119,6 +119,9 @@ permalink: /team
 
 ## Alumni
 
+
+<div class="row">
+<div class="col-sm-6 clearfix">
 <h4>PDRAs</h4>
 {% assign pdras = site.data.alumni | where:"role", "Postdoctoral research associate" %}
 {% for member in pdras %}
@@ -139,7 +142,9 @@ permalink: /team
 {{ member.info }}
 </p>
 {% endfor %}
+</div>
 
+<div class="col-sm-6 clearfix">
 <h4>PhD students</h4>
 {% assign phds = site.data.alumni | where:"role", "PhD student" %}
 {% for member in phds %}
@@ -160,6 +165,9 @@ permalink: /team
 {{ member.info }}
 </p>
 {% endfor %}
+</div>
+
+</div>
 
 <div class="row">
 <div class="col-sm-6 clearfix">

@@ -1,3 +1,18 @@
+- name: Luke Fernley
+  role: PhD student
+  lab: rbcs
+  years: 2020 - 2024
+
+- name: Jack Segal
+  photo: segal.jpg
+  role: Postdoctoral research associate
+  lab: csyb
+  years: 2018 - 2024
+  thesis_link: http://etheses.dur.ac.uk/14941/
+  thesis_title: Ultracold and quantum degenerate mixtures of Cs and Yb
+  thesis_year: 2023
+  thesis_lab: csyb
+
 - name: Sarah Bromley
   role: Postdoctoral research associate
   email: sarah.l.bromley@durham.ac.uk

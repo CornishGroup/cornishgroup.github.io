@@ -5,7 +5,8 @@
   links: "[ORCID](https://orcid.org/0000-0003-1407-4126) | [ResearcherID](https://www.researcherid.com/rid/K-4966-2012) | [ResearchGate](https://www.researchgate.net/profile/Simon_Cornish) | [GoogleScholar](https://scholar.google.com/citations?user=CfmFaf4AAAAJ)"
 
 - name: Philip Gregory
-  role: Postdoctoral research associate
+  photo: gregory.png
+  role: Royal Society University Research Fellow
   email: p.d.gregory@durham.ac.uk
   links: "[ORCID](https://orcid.org/0000-0002-3628-8750)"
   lab: rbcs
@@ -26,23 +27,15 @@
   thesis_lab: csyb
 
 - name: Tobias Franzen
+  photo: franzen.png
   role: Postdoctoral research associate
   email: tobias.franzen@durham.ac.uk
   lab: csyb
 
-- name: Jack Segal
-  photo: segal.jpg
-  role: Postdoctoral research associate
-  lab: csyb
-  thesis_link: http://etheses.dur.ac.uk/14941/
-  thesis_title: Ultracold and quantum degenerate mixtures of Cs and Yb
-  thesis_year: 2023
-  thesis_lab: csyb
-
 - name: Jonathan Mortlock
   photo: mortlock.jpg
   role: Postdoctoral research associate
-  lab: microscope0
+  lab: microscope
   email: jonathan.m.mortlock@durham.ac.uk
   links: "[ORCID](https://orcid.org/0000-0002-9438-7650)"
   thesis_link: https://etheses.dur.ac.uk/15441/
@@ -51,20 +44,26 @@
   thesis_lab: microscope
 
 - name: Ben Maddox
+  photo: maddox.png
   role: Postdoctoral research associate
+  email: benjamin.p.maddox@durham.ac.uk
   lab: microscope
+
+- name: Arpita Das
+  photo: das.jpg
+  role: Royal Society Newton International Fellow
+  email: arpita.das@durham.ac.uk
+  lab: rbcs
   
 - name: Daniel Ruttley
   photo: ruttley.jpg
   role: Postdoctoral research associate
+  email: daniel.k.ruttley@durham.ac.uk
   links: "[ORCID](https://orcid.org/0000-0002-7976-5430)"
   lab: tweezers
 
-- name: Luke Fernley
-  role: PhD student
-  lab: rbcs
-
 - name: Adarsh Raghuram
+  photo: raghuram.png
   role: PhD student
   lab: microscope
 
@@ -80,6 +79,7 @@
   lab: tweezers
 
 - name: Joe Bloomer
+  photo: bloomer.png
   role: PhD student
   lab: csyb
 
