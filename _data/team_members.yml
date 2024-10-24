@@ -14,6 +14,12 @@
   thesis_title: Coherent Control of Ultracold Polar Molecules
   thesis_year: 2018
   thesis_lab: rbcs
+  
+- name: Arpita Das
+  photo: das.jpg
+  role: Royal Society Newton International Fellow
+  email: arpita.das@durham.ac.uk
+  lab: rbcs
 
 - name: Alexander Guttridge
   photo: guttridge.jpg
@@ -49,11 +55,6 @@
   email: benjamin.p.maddox@durham.ac.uk
   lab: microscope
 
-- name: Arpita Das
-  photo: das.jpg
-  role: Royal Society Newton International Fellow
-  email: arpita.das@durham.ac.uk
-  lab: rbcs
   
 - name: Daniel Ruttley
   photo: ruttley.jpg
@@ -77,11 +78,6 @@
   links: "[ORCID](https://orcid.org/0009-0008-5303-2715)"
   lab: rbcs
 
-- name: Ce Li
-  photo: li.jpg
-  role: PhD student
-  lab: tweezers
-
 - name: Joe Bloomer
   photo: bloomer.png
   role: PhD student
@@ -90,4 +86,24 @@
 - name: Tom Hepworth
   photo: hepworth.jpg
   role: PhD student
+  lab: tweezers
+
+- name: Francesca Blondell
+  photo: blondell.jpg
+  role: PhD student
+  lab: microscope
+
+- name: Chris Cumming
+  photo: cumming.png
+  role: PhD student
+  lab: rbcs
+
+- name: David Lowit
+  photo: lowit.jpg
+  role: PhD student
+  lab: tweezers
+
+- name: Saif Salim
+  photo: salim.jpg
+  role: MRes student
   lab: tweezers
