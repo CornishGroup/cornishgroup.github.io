@@ -1,3 +1,13 @@
+- title: "Enhanced quantum state transfer via feedforward cancellation of optical phase noise"
+  image: feedforward.png
+  description:  We implement an optical feedforward technique to suppress laser phase noise in the STIRAP state transfer of ultracold RbCs molecules.
+  authors: Benjamin P. Maddox\*, Jonathan M. Mortlock\*, Tom R. Hepworth, Adarsh P. Raghuram, Philip D. Gregory, Alexander Guttridge, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.133.253202
+    display: _Phys. Rev. Lett._ **133**, 253202 (2024)
+  highlight: 1
+  lab: microscope
+
 - title: "Long-lived entanglement of molecules in magic-wavelength optical tweezers"
   image: entanglement.png
   description:  We show that by engineering an exceptionally controlled environment using rotationally-magic optical tweezers, we can achieve long-lived entanglement between pairs of molecules.
@@ -7,16 +17,6 @@
     display: arXiv:2408.14904 (2024)
   highlight: 1
   lab: tweezers
-
-- title: "Enhanced quantum state transfer via feedforward cancellation of optical phase noise"
-  image: feedforward.png
-  description:  We implement an optical feedforward technique to suppress laser phase noise in the STIRAP state transfer of ultracold RbCs molecules.
-  authors: Benjamin P. Maddox\*, Jonathan M. Mortlock\*, Tom R. Hepworth, Adarsh P. Raghuram, Philip D. Gregory, Alexander Guttridge, and Simon L. Cornish
-  link:
-    url: https://arxiv.org/abs/2407.09119
-    display: arXiv:2407.09119 (2024)
-  highlight: 1
-  lab: microscope
 
 - title: "Enhanced quantum control of individual ultracold molecules using optical tweezer arrays"
   image: tweezers_enhanced_control.png
