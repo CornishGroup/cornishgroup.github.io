@@ -1,3 +1,13 @@
+- title: "Long-lived entanglement of molecules in magic-wavelength optical tweezers"
+  image: entanglement.png
+  description: We show that by engineering an exceptionally controlled environment using rotationally-magic optical tweezers, we can achieve long-lived entanglement between pairs of molecules.
+  authors: Daniel K. Ruttley\*, Tom R. Hepworth\*, Alexander Guttridge, and Simon L. Cornish
+  link:
+    url: https://doi.org/10.1038/s41586-024-08365-1
+    display: _Nature_ **637**, 827 (2025)
+  highlight: 0
+  lab: tweezers
+
 - title: "Coherent spin-1 dynamics encoded in the rotational states of ultracold molecules"
   image: spin1.png
   description: We investigate the applicability of magic-wavelength optical tweezers to encode coherent spin-1 dynamics in the rotational states of ultracold molecules.
@@ -26,16 +36,6 @@
     display: _Phys. Rev. Lett._ **133**, 253202 (2024)
   highlight: 1
   lab: microscope
-
-- title: "Long-lived entanglement of molecules in magic-wavelength optical tweezers"
-  image: entanglement.png
-  description: We show that by engineering an exceptionally controlled environment using rotationally-magic optical tweezers, we can achieve long-lived entanglement between pairs of molecules.
-  authors: Daniel K. Ruttley\*, Tom R. Hepworth\*, Alexander Guttridge, and Simon L. Cornish
-  link:
-    url: https://doi.org/10.1038/s41586-024-08365-1
-    display: _Nature_ (2025)
-  highlight: 0
-  lab: tweezers
 
 - title: "Enhanced quantum control of individual ultracold molecules using optical tweezer arrays"
   image: tweezers_enhanced_control.png
