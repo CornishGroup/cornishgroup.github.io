@@ -48,6 +48,6 @@ We use laser cooling to create samples of gases at micro-kelvin temperatures, wh
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Durham_University_Logo.png" style="width: 160px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/qlm_logo.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/qsum_logo.png" style="width: 160px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png" style="width: 160px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/epsrc_logo.png" style="width: 120px">
 </figure>
