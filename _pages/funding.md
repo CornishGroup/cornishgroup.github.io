@@ -7,7 +7,7 @@ permalink: /funding
 ---
 
 # Funding
-We are primarily funded by the <a href="https://www.ukri.org">UK Research and Innovation (UKRI)</a> Horizon Europe guarantee grant
+We are primarily funded by an <a href="https://erc.europa.eu/homepage">ERC Advanced Grant</a> supported by the <a href="https://www.ukri.org">UK Research and Innovation (UKRI)</a> through the Horizon Europe guarantee grant
 <ul>
     <li><a href="http://gtr.ukri.org/projects?ref=EP%2FX023354%2F1">SimPoMol: Quantum Simulation with Ultracold Polar Molecules (EP/X023354/1)</a>,</li>
 </ul>
