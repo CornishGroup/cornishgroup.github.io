@@ -13,7 +13,7 @@ permalink: /microscope
 <img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/render5square-1080x805.png" class="img-fluid rounded mx-auto center-block" style="max-width: 100mm; height: auto;">
 </a>
 
-In our lab, we are building a quantum gas microscope for ultracold molecules. This is an attempt to bring together our established work on the creation and coherent control of dipolar molecules, with the exquisite spatial resolution and control afforded by recent developments in high-resolution imaging of ultracold atoms in optical lattice
+This experiment brings together our established work on the creation and coherent control of dipolar molecules, with the exquisite spatial resolution and control afforded by recent developments in high-resolution imaging of ultracold atoms in optical lattices. 
 
 ## Quantum Simulation with Ultracold Molecules
 
@@ -21,10 +21,10 @@ Our experiment is designed to study large arrays of molecules in periodic potent
 
 ## Overview
 
-In our experiment we plan to form ultracold molecules of <sup>87</sup>Rb<sup>133</sup>Cs molecules from ultracold mixtures of the two species. Atoms are cooled to ultracold temperatures in the main chamber using Degenerate Raman Sideband Cooling (1), and then loaded into an optical lattice which we can move to transfer them to a cell where we have a microscope.
+In our experiment we form ultracold molecules of <sup>87</sup>Rb<sup>133</sup>Cs molecules from ultracold mixtures of the two species. Atoms are cooled to ultracold temperatures and sequentially loaded into a pair of dipole traps situated above a high resolution imaging system. We then merge these traps to form a mixture from which we associate molecules. 
 
-<a href  ="{{ site.url }}{{ site.baseurl }}/images/microscopepic/ExperimentOverview.png">
-<img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/ExperimentOverview.png" class="img-fluid" style="max-width: 100%; height: auto;">
+<a href  ="{{ site.url }}{{ site.baseurl }}/images/microscopepic/uScopeOverview.png">
+<img src="{{ site.url }}{{ site.baseurl }}/images/microscopepic/uScopeOverview.png" class="img-fluid" style="max-width: 100%; height: auto;">
 </a>
 
 
