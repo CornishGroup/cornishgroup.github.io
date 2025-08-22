@@ -31,13 +31,13 @@ permalink: /team
   <p> 
   <i>{{ member.role }}</i>
   {% if member.lab == "rbcs"%}
-  [RbCs lab]({{ site.url }}{{ site.baseurl }}/rbcs)
+  [RbCs lab]({{ site.url }}{{ site.baseurl }}/rbcs) {{member.lab_role}}
   {% elsif member.lab == "csyb"%}
-  [CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb)
+  [CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb) {{member.lab_role}}
   {% elsif member.lab == "tweezers"%}
-  [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers)
+  [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers) {{member.lab_role}}
   {% elsif member.lab == "microscope"%}
-  [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope)
+  [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope) {{member.lab_role}}
   {% endif %}
   </p>
   <p>[{{ member.email }}](mailto:{{ member.email }})</p>

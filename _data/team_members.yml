@@ -10,37 +10,39 @@
   email: p.d.gregory@durham.ac.uk
   links: "[ORCID](https://orcid.org/0000-0002-3628-8750)"
   lab: rbcs
+  lab_role: (Co-Investigator)
   thesis_link: http://etheses.dur.ac.uk/12484/
   thesis_title: Coherent Control of Ultracold Polar Molecules
   thesis_year: 2018
   thesis_lab: rbcs
-  
+ 
+- name: Alexander Guttridge
+  photo: guttridge.jpg
+  role: Royal Society University Research Fellow
+  email: alexander.guttridge@durham.ac.uk
+  links: "[ORCID](https://orcid.org/0000-0001-9886-5739)"
+  lab: tweezers
+  lab_role: (Co-Investigator)
+  thesis_link: http://etheses.dur.ac.uk/12817/
+  thesis_title: Photoassociation of Ultracold CsYb Molecules and Determination of Interspecies Scattering Lengths
+  thesis_year: 2018
+  thesis_lab: csyb
+
 - name: Arpita Das
   photo: das.jpg
   role: Royal Society Newton International Fellow
   email: arpita.das@durham.ac.uk
   lab: rbcs
 
-- name: Alexander Guttridge
-  photo: guttridge.jpg
-  role: Postdoctoral research associate
-  email: alexander.guttridge@durham.ac.uk
-  links: "[ORCID](https://orcid.org/0000-0001-9886-5739)"
-  lab: tweezers
-  thesis_link: http://etheses.dur.ac.uk/12817/
-  thesis_title: Photoassociation of Ultracold CsYb Molecules and Determination of Interspecies Scattering Lengths
-  thesis_year: 2018
-  thesis_lab: csyb
-
 - name: Tobias Franzen
   photo: franzen.png
-  role: Postdoctoral research associate
+  role: EPSRC Quantum Technologies Career Acceleration Fellow
   email: tobias.franzen@durham.ac.uk
   lab: csyb
 
 - name: Jonathan Mortlock
   photo: mortlock.jpg
-  role: Postdoctoral research associate
+  role: Postdoctoral Research Associate
   lab: microscope
   email: jonathan.m.mortlock@durham.ac.uk
   links: "[ORCID](https://orcid.org/0000-0002-9438-7650)"
@@ -51,14 +53,13 @@
 
 - name: Ben Maddox
   photo: maddox.png
-  role: Postdoctoral research associate
+  role: Postdoctoral Research Associate
   email: benjamin.p.maddox@durham.ac.uk
   lab: microscope
-
   
 - name: Daniel Ruttley
   photo: ruttley.jpg
-  role: Postdoctoral research associate
+  role: Postdoctoral Research Associate
   email: daniel.k.ruttley@durham.ac.uk
   links: "[ORCID](https://orcid.org/0000-0002-7976-5430)"
   lab: tweezers
@@ -67,10 +68,25 @@
   thesis_year: 2024
   thesis_lab: tweezers
 
+- name: Caleb Rich
+  photo: rich.jpg
+  role: Postdoctoral Research Associate
+  email: caleb.j.rich@durham.ac.uk
+  lab: tweezers
+
 - name: Adarsh Raghuram
   photo: raghuram.png
-  role: PhD student
+  role: Postdoctoral Research Associate
   lab: microscope
+
+- name: Carlos Bracamontes
+  role: Postdoctoral Research Associate
+  email: carlos.bracamontes@durham.ac.uk
+  lab: tweezers
+
+- name: Sujit Garain
+  role: Postdoctoral Research Associate
+  lab: tweezers
 
 - name: Albert Tao
   photo: tao.jpg
@@ -107,8 +123,3 @@
   photo: bai.jpg
   role: PhD student
   lab: csyb
-
-- name: Saif Salim
-  photo: salim.jpg
-  role: MRes student
-  lab: tweezers
