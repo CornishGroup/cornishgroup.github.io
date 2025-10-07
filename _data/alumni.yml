@@ -21,9 +21,7 @@
   photo: segal.jpg
   role: Postdoctoral research associate
   lab: csyb
-  years: 2018 - 2024
-  thesis_link: http://etheses.dur.ac.uk/14941/
-  thesis_title: Ultracold and quantum degenerate mixtures of Cs and Yb
+  years: 2023 - 2024
   thesis_year: 2023
   thesis_lab: csyb
 
@@ -50,6 +48,16 @@
   thesis_title: Towards a novel platform for imaging molecules in an optical lattice
   thesis_year: 2023
   thesis_lab: microscope
+
+- name: Jack Segal
+  photo: segal.jpg
+  role: PhD student
+  lab: csyb
+  years: 2018 - 2023
+  thesis_link: http://etheses.dur.ac.uk/14941/
+  thesis_title: Ultracold and quantum degenerate mixtures of Cs and Yb
+  thesis_year: 2023
+  thesis_lab: csyb
 
 - name: Lewis McArd
   role: Postdoctoral research associate
