@@ -103,7 +103,7 @@
   years: 2017 - 2019
 
 - name: Rahul Sawant
-  lab: tweezers
+  lab: rbcs
   role: Postdoctoral research associate
   years: 2017 - 2019
 
@@ -148,6 +148,16 @@
   thesis_year: 2020
   thesis_lab: rbcs
 
+- name: Oliver Wales 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2015 - 2019
+  thesis_link: https://etheses.dur.ac.uk/13370/
+  thesis_title: Splitting and recombination of bright-solitary-matter waves
+  thesis_year: 2019
+  thesis_lab: BEC
+
 - name: Philip Gregory
   photo: gregory.png
   role: PhD student
@@ -178,6 +188,26 @@
   thesis_year: 2017
   thesis_lab: csyb
 
+- name: Peter Molony 
+  photo: 
+  role: PhD student
+  lab: rbcs
+  years: 2012 - 2016
+  thesis_link: https://etheses.dur.ac.uk/11781/
+  thesis_title: Creation of ultracold polar ground-state RbCs molecules
+  thesis_year: 2016
+  thesis_lab: rbcs
+
+- name: Manfred Yu 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2011 - 2016
+  thesis_link: https://etheses.dur.ac.uk/11441/
+  thesis_title: Towards interferometry with bright solitary waves in a ring
+  thesis_year: 2016
+  thesis_lab: BEC
+
 - name: Ruben Freytag
   photo: 
   role: PhD student
@@ -187,36 +217,6 @@
   thesis_title: Simultaneous magneto-optical trapping of Ytterbium and Caesium
   thesis_year: 2015
   thesis_lab: csyb
-
-- name: Kirsteen Butler
-  photo: 
-  role: PhD student
-  lab: csyb
-  years: 2010 - 2014
-  thesis_link: http://etheses.dur.ac.uk/10703/ 
-  thesis_title: A dual species MOT of Yb and Cs
-  thesis_year: 2014
-  thesis_lab: csyb
-
-- name: Daniel McCarron
-  photo: 
-  role: PhD student
-  lab: rbcs
-  years: 2007 - 2011
-  thesis_link: https://etheses.dur.ac.uk/3242/
-  thesis_title: A Quantum Degenerate Mixture of <sup>87</sup>Rb and <sup>133</sup>Cs
-  thesis_year: 2011
-  thesis_lab: rbcs
-
-- name: Patrick Tierney 
-  photo: 
-  role: PhD student
-  lab: rbcs
-  years: 2005 - 2009
-  thesis_link: https://etheses.dur.ac.uk/2039/
-  thesis_title: Magnetic trapping of an ultracold <sup>87</sup>Rb and <sup>133</sup>Cs atomic mixture
-  thesis_year: 2009
-  thesis_lab: rbcs
 
 - name: Michael Koppinger
   photo: 
@@ -228,15 +228,25 @@
   thesis_year: 2014
   thesis_lab: rbcs
 
-- name: Peter Molony 
+- name: Kirsteen Butler
   photo: 
   role: PhD student
-  lab: rbcs
-  years: 2012 - 2016
-  thesis_link: https://etheses.dur.ac.uk/11781/
-  thesis_title: Creation of ultracold polar ground-state RbCs molecules
-  thesis_year: 2016
-  thesis_lab: rbcs
+  lab: csyb
+  years: 2010 - 2014
+  thesis_link: http://etheses.dur.ac.uk/10703/ 
+  thesis_title: A dual species MOT of Yb and Cs
+  thesis_year: 2014
+  thesis_lab: csyb
+
+- name: Tim Wiles 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2009 - 2013
+  thesis_link: https://etheses.dur.ac.uk/7382/
+  thesis_title: Dynamics of bright solitary matter-waves
+  thesis_year: 2013
+  thesis_lab: BEC
 
 - name: Dan Jenkin 
   photo: 
@@ -248,14 +258,24 @@
   thesis_year: 2012
   thesis_lab: rbcs
 
-- name: Margaret Harris 
+- name: Anna Marchant 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2008 - 2012
+  thesis_link: http://etheses.dur.ac.uk/7279/
+  thesis_title: Formation of bright solitary matter-waves
+  thesis_year: 2012
+  thesis_lab: BEC
+
+- name: Daniel McCarron
   photo: 
   role: PhD student
   lab: rbcs
-  years: 2004 - 2008
-  thesis_link: https://etheses.dur.ac.uk/2300/
-  thesis_title: Realisation of a cold mixture of rubidium and caesium
-  thesis_year: 2008
+  years: 2007 - 2011
+  thesis_link: https://etheses.dur.ac.uk/3242/
+  thesis_title: A Quantum Degenerate Mixture of <sup>87</sup>Rb and <sup>133</sup>Cs
+  thesis_year: 2011
   thesis_lab: rbcs
 
 - name: Sylvi Haendel 
@@ -268,44 +288,24 @@
   thesis_year: 2011
   thesis_lab: BEC
 
-- name: Anna Marchant 
+- name: Patrick Tierney 
   photo: 
   role: PhD student
-  lab: BEC
-  years: 2008 - 2012
-  thesis_link: http://etheses.dur.ac.uk/7279/
-  thesis_title: Formation of bright solitary matter-waves
-  thesis_year: 2012
-  thesis_lab: BEC
+  lab: rbcs
+  years: 2005 - 2009
+  thesis_link: https://etheses.dur.ac.uk/2039/
+  thesis_title: Magnetic trapping of an ultracold <sup>87</sup>Rb and <sup>133</sup>Cs atomic mixture
+  thesis_year: 2009
+  thesis_lab: rbcs
 
-- name: Tim Wiles 
+- name: Margaret Harris 
   photo: 
   role: PhD student
-  lab: BEC
-  years: 2009 - 2013
-  thesis_link: https://etheses.dur.ac.uk/7382/
-  thesis_title: Dynamics of bright solitary matter-waves
-  thesis_year: 2013
-  thesis_lab: BEC
-
-- name: Manfred Yu 
-  photo: 
-  role: PhD student
-  lab: BEC
-  years: 2011 - 2016
-  thesis_link: https://etheses.dur.ac.uk/11441/
-  thesis_title: Towards interferometry with bright solitary waves in a ring
-  thesis_year: 2016
-  thesis_lab: BEC
-
-- name: Oliver Wales 
-  photo: 
-  role: PhD student
-  lab: BEC
-  years: 2015 - 2019
-  thesis_link: https://etheses.dur.ac.uk/13370/
-  thesis_title: Splitting and recombination of bright-solitary-matter waves
-  thesis_year: 2019
-  thesis_lab: BEC
+  lab: rbcs
+  years: 2004 - 2008
+  thesis_link: https://etheses.dur.ac.uk/2300/
+  thesis_title: Realisation of a cold mixture of rubidium and caesium
+  thesis_year: 2008
+  thesis_lab: rbcs
 
 
