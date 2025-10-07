@@ -171,14 +171,14 @@ permalink: /team
 
 <div class="row">
 <div class="col-sm-6 clearfix">
-<h4>Masters students</h4>
+<h4>Masters by Research students</h4>
 {% for member in site.data.alumni_masters %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-6 clearfix">
-<h4>Summer students</h4>
+<h4>Summer project students</h4>
 {% for member in site.data.alumni_summer %}
 {{ member.name }}
 {% endfor %}
