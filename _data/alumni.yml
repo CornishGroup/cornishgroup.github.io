@@ -174,3 +174,53 @@
   thesis_title: Realisation of a cold mixture of rubidium and caesium
   thesis_year: 2008
   thesis_lab: rbcs
+
+- name: Sylvi Haendel 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2008 - 2011
+  thesis_link: http://etheses.dur.ac.uk/3227/
+  thesis_title: Experiments on ultracold quantum gases of 85Rb and 87Rb
+  thesis_year: 2011
+  thesis_lab: BEC
+
+- name: Anna Marchant 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2008 - 2012
+  thesis_link: http://etheses.dur.ac.uk/7279/
+  thesis_title: Formation of bright solitary matter-waves
+  thesis_year: 2012
+  thesis_lab: BEC
+
+- name: Tim Wiles 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2009 - 2013
+  thesis_link: https://etheses.dur.ac.uk/7382/
+  thesis_title: Dynamics of bright solitary matter-waves
+  thesis_year: 2013
+  thesis_lab: BEC
+
+- name: Manfred Yu 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2011 - 2016
+  thesis_link: https://etheses.dur.ac.uk/11441/
+  thesis_title: Towards interferometry with bright solitary waves in a ring
+  thesis_year: 2016
+  thesis_lab: BEC
+
+- name: Oliver Wales 
+  photo: 
+  role: PhD student
+  lab: BEC
+  years: 2015 - 2019
+  thesis_link: https://etheses.dur.ac.uk/13370/
+  thesis_title: Splitting and recombination of bright-solitary-matter waves
+  thesis_year: 2019
+  thesis_lab: BEC
