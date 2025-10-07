@@ -28,17 +28,18 @@
   thesis_year: 2018
   thesis_lab: csyb
 
+- name: Tobias Franzen
+  photo: franzen.png
+  role: EPSRC Quantum Technologies Career Acceleration Fellow
+  email: tobias.franzen@durham.ac.uk
+  lab_role: (Co-Investigator)
+  lab: csyb
+
 - name: Arpita Das
   photo: das.jpg
   role: Royal Society Newton International Fellow
   email: arpita.das@durham.ac.uk
   lab: rbcs
-
-- name: Tobias Franzen
-  photo: franzen.png
-  role: EPSRC Quantum Technologies Career Acceleration Fellow
-  email: tobias.franzen@durham.ac.uk
-  lab: csyb
 
 - name: Jonathan Mortlock
   photo: mortlock.jpg
