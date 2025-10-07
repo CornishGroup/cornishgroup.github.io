@@ -18,6 +18,16 @@
   thesis_year: 2024
   thesis_lab: microscope
 
+- name: Daniel Ruttley
+  photo: ruttley.jpg
+  role: PhD student
+  lab: tweezers
+  years: 2020 - 2024
+  thesis_link: https://etheses.dur.ac.uk/15697/
+  thesis_title: A Hybrid Quantum System of Ultracold Polar Molecules and Rydberg Atoms
+  thesis_year: 2024
+  thesis_lab: tweezers
+
 - name: Luke Fernley
   role: PhD student
   lab: rbcs
@@ -166,6 +176,16 @@
   thesis_link: http://etheses.dur.ac.uk/12166/ 
   thesis_title: Laser cooling and trapping of Ytterbium
   thesis_year: 2017
+  thesis_lab: csyb
+
+- name: Ruben Freytag
+  photo: 
+  role: PhD student
+  lab: csyb
+  years: 2011 - 2015
+  thesis_link: https://spiral.imperial.ac.uk/entities/publication/21d8840d-a893-4ba9-8448-21136ccf6dde 
+  thesis_title: Simultaneous magneto-optical trapping of Ytterbium and Caesium
+  thesis_year: 2015
   thesis_lab: csyb
 
 - name: Kirsteen Butler
