@@ -1,3 +1,14 @@
+- name: Adarsh Raghuram
+  photo: 
+  role: PhD student
+  lab: microscope
+  years: 2021 - 2024
+  thesis_link: https://etheses.dur.ac.uk/15441/
+  thesis_title: Single-molecule–resolved imaging of ultracold <sup>87</sup>Rb<sup>133</sup>Cs molecules in an
+optical lattice
+  thesis_year: 2025
+  thesis_lab: microscope
+
 - name: Jonathan Mortlock
   photo: 
   role: PhD student
@@ -14,6 +25,15 @@
   years: 2020 - 2024
   thesis_link: https://etheses.dur.ac.uk/15710/
   thesis_title: Magic Wavelengths and Dipole-Dipole Interactions in Ultracold RbCs Molecules
+  thesis_year: 2024
+  thesis_lab: rbcs
+
+- name: Apichayaporn (Mew) Ratkata
+  role: PhD student
+  lab: microscope
+  years: 2016 - 2024
+  thesis_link: https://etheses.dur.ac.uk/15780/
+  thesis_title: Towards Quantum gas microscope for <sup>87</sup>Rb<sup>133</sup>Cs molecules
   thesis_year: 2024
   thesis_lab: rbcs
 
