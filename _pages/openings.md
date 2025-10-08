@@ -24,7 +24,7 @@ Fully funded PhD studentships (fees and stipend) are available on the following 
 
 ### Current openings for Postdoctoral Researchers
 
-We are currently seeking several postdoctoral researchers with experience in the field ultracold quantum gases to join the [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope) and the [Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/molecularbec). 
+We are currently seeking several postdoctoral researchers with experience in the field ultracold quantum gases to join the [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope) and the [Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/molecularbec). Both openings are associated with a new five-year multi-institution research grant on "Quantum many-body physics with ultracold polar molecules".
 
 ### Support for Postdoctoral Fellowships
 
