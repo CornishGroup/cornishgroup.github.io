@@ -46,19 +46,6 @@
   thesis_year: 2024
   thesis_lab: rbcs
 
-- name: Jack Segal
-  photo: segal.jpg
-  role: Postdoctoral research associate
-  lab: csyb
-  years: 2023 - 2024
-  thesis_year: 2023
-  thesis_lab: csyb
-
-- name: Sarah Bromley
-  role: Postdoctoral research associate
-  email: sarah.l.bromley@durham.ac.uk
-  lab: microscope
-  years: 2018 - 2023
 
 - name: Alex Matthies
   role: PhD student
@@ -88,30 +75,6 @@
   thesis_year: 2023
   thesis_lab: csyb
 
-- name: Lewis McArd
-  role: Postdoctoral research associate
-  years: 2018 - 2021
-
-- name: Kali Wilson
-  lab: csyb
-  role: Postdoctoral research associate
-  years: 2018 - 2020
-
-- name: Alexandros Alampounti
-  lab: tweezers
-  role: Postdoctoral research associate
-  years: 2017 - 2019
-
-- name: Rahul Sawant
-  lab: rbcs
-  role: Postdoctoral research associate
-  years: 2017 - 2019
-
-- name: Ana Rakonjac
-  lab: tweezers
-  role: Postdoctoral research associate
-  years: 2014 - 2019
-
 - name: Stefan Spence
   photo: spence.png
   role: PhD student
@@ -131,12 +94,6 @@
   thesis_title: Control and Collisions of <sup>87</sup>Rb and <sup>133</sup>Cs Atoms in Optical Tweezers
   thesis_year: 2022
   thesis_lab: tweezers
-
-- name: Jacob Blackmore
-  photo: Jake.png
-  role: Postdoctoral research associate
-  lab: rbcs
-  years: 2020 - 2021
  
 - name: Jacob Blackmore
   photo: Jake.png
@@ -308,4 +265,94 @@
   thesis_year: 2008
   thesis_lab: rbcs
 
+- name: Jack Segal
+  photo: segal.jpg
+  role: Postdoctoral research associate
+  lab: csyb
+  years: 2023 - 2024
+  thesis_year: 2023
+  thesis_lab: csyb
 
+- name: Alex Guttridge
+  role: Postdoctoral research associate
+  lab: tweezers
+  years: 2018 - 2024
+
+- name: Sarah Bromley
+  role: Postdoctoral research associate
+  email: sarah.l.bromley@durham.ac.uk
+  lab: microscope
+  years: 2018 - 2023
+
+- name: Phil Gregory
+  role: Postdoctoral research associate
+  lab: rbcs
+  years: 2018 - 2023
+
+- name: Jacob Blackmore
+  photo: Jake.png
+  role: Postdoctoral research associate
+  lab: rbcs
+  years: 2020 - 2021
+
+- name: Lewis McArd
+  role: Postdoctoral research associate
+  years: 2018 - 2021
+
+- name: Kali Wilson
+  lab: csyb
+  role: Postdoctoral research associate
+  years: 2018 - 2020
+
+- name: Alexandros Alampounti
+  lab: tweezers
+  role: Postdoctoral research associate
+  years: 2017 - 2019
+
+- name: Rahul Sawant
+  lab: rbcs
+  role: Postdoctoral research associate
+  years: 2017 - 2019
+
+- name: Danielle Pizzey
+  role: Postdoctoral research associate
+  years: 2016 - 2019
+
+- name: Ana Rakonjac
+  lab: tweezers
+  role: Postdoctoral research associate
+  years: 2014 - 2019
+
+- name: Elizabeth Bridge
+  lab: rbcs
+  role: Postdoctoral research associate
+  years: 2017 - 2018
+
+- name: Zhengkun Fu
+  role: Postdoctoral research associate
+  years: 2016 - 2018
+
+- name: Avinash Kumar
+  lab: rbcs
+  role: Postdoctoral research associate
+  years: 2014 - 2016
+
+- name: Anna Marchant
+  lab: bec
+  role: Postdoctoral research associate
+  years: 2013 - 2016
+
+- name: Steve Hopkins
+  lab: csyb
+  role: Postdoctoral research associate
+  years: 2009 - 2016
+
+- name: Zhonghua Ji
+  lab: rbcs
+  role: Postdoctoral research associate
+  years: 2013 - 2014
+
+- name: Bo Lu
+  lab: rbcs
+  role: Postdoctoral research associate
+  years: 2013 - 2014
