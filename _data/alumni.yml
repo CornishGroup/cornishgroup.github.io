@@ -319,7 +319,7 @@
   years: 2016 - 2019
 
 - name: Ana Rakonjac
-  lab: tweezers
+  lab: atomicbec
   role: Postdoctoral research associate
   years: 2014 - 2019
 
@@ -338,7 +338,7 @@
   years: 2014 - 2016
 
 - name: Anna Marchant
-  lab: bec
+  lab: atomicbec
   role: Postdoctoral research associate
   years: 2013 - 2016
 
@@ -356,3 +356,18 @@
   lab: rbcs
   role: Postdoctoral research associate
   years: 2013 - 2014
+
+- name: Hung Wen Cho
+  lab: rbcs
+  role: Postdoctoral research associate
+  years: 2009 - 2012
+
+- name: Ajay Tripathi
+  role: Postdoctoral research associate
+  years: 2006 - 2007
+
+- name: Zhao-Yuan Ma
+  lab: rbcs
+  role: Postdoctoral research associate
+  years: 2005
+
