@@ -14,7 +14,7 @@ We are always looking for talented and motivated students and postdocs with an i
 
 Fully funded PhD studentships (fees and stipend) are available on the following projects:
 
-#### 1. Quantum computing with atoms and molecules in optical tweezers [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers)
+#### 1. Quantum computing with atoms and molecules in optical tweezers [(Tweezers lab)]({{ site.url }}{{ site.baseurl }}/tweezers)
 
 #### 2. Quantum spin dynamics with ultracold polar molecules
 
@@ -22,12 +22,4 @@ Fully funded PhD studentships (fees and stipend) are available on the following 
 
 #### 4. Atomic clocks, optical lattices and ultracold molecules
 
-[CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb) {{member.lab_role}}
-  {% elsif member.lab == "tweezers"%}
-  [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers) {{member.lab_role}}
-  {% elsif member.lab == "microscope"%}
-  [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope) {{member.lab_role}}
-  {% elsif member.lab == "atomicbec"%}
-  [Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/atomicbec) {{member.lab_role}}
-  {% elsif member.lab == "molecularbec"%}
-  [Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/molecularbec) 
+
