@@ -1,21 +1,21 @@
 ---
-title: "Tunable BECs"
+title: "Molecular BEC"
 layout: textlay
-excerpt: "Tunable BECs"
+excerpt: "Molecular BEC"
 sitemap: false
-permalink: /bec
+permalink: /molecularbec
 ---
 
-# Tunable BECs
+# Molecular BEC
 
 Placeholder Text
 
 ### Lab publications
 #### Papers
-{% assign bec_papers = site.data.publist | where:"lab", "BEC" %}
-{% assign paper_counter = bec_papers.size %}
+{% assign molecularbec_papers = site.data.publist | where:"lab", "molecularbec" %}
+{% assign paper_counter = molecularbec_papers.size %}
 
-{% for publi in bec_papers %}
+{% for publi in molecularbec_papers %}
 
   \[{{ paper_counter }}\] {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
@@ -27,8 +27,8 @@ Placeholder Text
 <p> &nbsp; </p>
 #### PhD theses
 {% assign combined_members = site.data.team_members | concat: site.data.alumni %}
-{% assign becs_theses = combined_members | where:"thesis_lab", "BEC" %}
-{% assign thesis_by_year = becs_theses | sort: "thesis_year" | reverse %}
+{% assign molecularbec_theses = combined_members | where:"thesis_lab", "molecularbec" %}
+{% assign thesis_by_year = molecularbec_theses | sort: "thesis_year" | reverse %}
 
 {% for publi in thesis_by_year %}
   {% if publi.thesis_link %}

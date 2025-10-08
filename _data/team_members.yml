@@ -99,12 +99,28 @@
   role: PhD student
   lab: rbcs
 
+- name: Jeff Bai
+  photo: bai.jpg
+  role: PhD student
+  lab: csyb
+
 - name: David Lowit
   photo: lowit.jpg
   role: PhD student
   lab: tweezers
 
-- name: Jeff Bai
-  photo: bai.jpg
+- name: Ce Li
+  photo: li.jpg
   role: PhD student
-  lab: csyb
+
+- name: Rob Mellor
+  role: PhD student
+  lab: microscope
+
+- name: Niamh Speakman
+  role: PhD student
+  lab: molecularbec
+
+- name: Ikenna Eze
+  role: Masters by Research student
+  lab: molecularbec

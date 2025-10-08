@@ -38,6 +38,10 @@ permalink: /team
   [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers) {{member.lab_role}}
   {% elsif member.lab == "microscope"%}
   [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope) {{member.lab_role}}
+  {% elsif member.lab == "atomicbec"%}
+  [Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/atomicbec) {{member.lab_role}}
+  {% elsif member.lab == "molecularbec"%}
+  [Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/molecularbec) {{member.lab_role}}
   {% endif %}
   </p>
   <p>[{{ member.email }}](mailto:{{ member.email }})</p>
@@ -134,6 +138,10 @@ permalink: /team
 [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers),
 {% elsif member.lab == "microscope"%}
 [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope),
+{% elsif member.lab == "atomicbec"%}
+[Atomic BEC lab]({{ site.url }}{{ site.baseurl }}/atomicbec),
+{% elsif member.lab == "molecularbec"%}
+[Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/molecularbec),
 {% endif %}
 {% if member.years %}{{ member.years }}{% endif %}
 {% if member.thesis_link %}
@@ -157,6 +165,10 @@ permalink: /team
 [Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers),
 {% elsif member.lab == "microscope"%}
 [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope),
+{% elsif member.lab == "atomicbec"%}
+[Atomic BEC lab]({{ site.url }}{{ site.baseurl }}/atomicbec),
+{% elsif member.lab == "molecularbec"%}
+[Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/molecularbec),
 {% endif %}
 {% if member.years %}{{ member.years }}{% endif %}
 {% if member.thesis_link %}
