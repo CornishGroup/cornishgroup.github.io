@@ -43,7 +43,7 @@ We use laser cooling to create samples of gases at micro-kelvin temperatures, wh
   </a>
 </div>
 
- **We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/join-us) **!**
+ **We are looking for highly motivated PhD students and Postdoctoral Researchers with an interest in cutting-edge experimental research in quantum science and technology to [join the team]({{ site.url }}{{ site.baseurl }}/join-us)!** 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Durham_University_Logo.png" style="width: 160px">
