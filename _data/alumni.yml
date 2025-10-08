@@ -265,6 +265,11 @@
   thesis_year: 2008
   thesis_lab: rbcs
 
+- name: Tobias Franzen
+  lab: csyb
+  role: Postdoctoral research associate
+  years: 2021 - 2025
+
 - name: Jack Segal
   photo: segal.jpg
   role: Postdoctoral research associate
@@ -357,7 +362,7 @@
   role: Postdoctoral research associate
   years: 2013 - 2014
 
-- name: Hung Wen Cho
+- name: Hung-Wen Cho
   lab: rbcs
   role: Postdoctoral research associate
   years: 2009 - 2012
