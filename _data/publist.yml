@@ -52,6 +52,7 @@
   link:
     url: https://doi.org/10.1103/PhysRevA.110.013314
     display: _Phys. Rev. A_ **110**, 013314 (2024)
+  highlight: 0
   lab: tweezers
 
 - title: "Quantum computation and quantum simulation with ultracold molecules"
@@ -59,6 +60,7 @@
   link:
     url: https://doi.org/10.1038/s41567-024-02453-9
     display: _Nature Physics_ **20**, 730–740 (2024)
+  highlight: 0
   lab: microscope
 
 - title: "Enhanced quantum control of individual ultracold molecules using optical tweezer arrays"
