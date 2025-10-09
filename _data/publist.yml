@@ -267,8 +267,7 @@
     display: _Rev. Sci. Instrum._ **87**, 023105 (2016)
   lab: csyb
 
-
-  - title: "Stochastic growth dynamics and composite defects in quenched immiscible binary condensates"
+- title: "Stochastic growth dynamics and composite defects in quenched immiscible binary condensates"
   authors: I.-K. Liu, R.W. Pattinson, T.P. Billam, S.A. Gardiner, S.L. Cornish, T.-M. Huang, W.-W. Lin, S.C. Gou, N.G. Parker and N.P. Proukakis
   link:
     url: https://doi.org/10.1103/PhysRevA.93.023628
@@ -659,5 +658,6 @@
     url: https://doi.org/10.1088/0957-0233/7/5/011
     display: _Meas. Sci. & Tech._ **7**, 792-795 (1996)
   lab:  
+
 
 
