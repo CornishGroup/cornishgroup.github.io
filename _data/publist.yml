@@ -294,31 +294,3 @@
     url: https://doi.org/10.1103/PhysRevA.93.013605
     display: _Phys. Rev. A_ **93**, 013605 (2016)
   lab: atomicbec
-
-- title: "Absolute absorption on the potassium D lines: theory and experiment"
-  authors: R.K. Hanley, P.D. Gregory, I.G. Hughes and S.L. Cornish
-  link:
-    url: https://doi.org/10.1088/0953-4075/48/19/195004
-    display: _J. Phys. B: At. Mol. Opt. Phys._ **48**, 195004 (2015)
-  lab: atomicbec
-
-- title: "A simple, versatile laser system for the creation of ultracold ground state molecules"
-  authors: P.D. Gregory, P.K. Molony, M.P. Köppinger, A. Kumar, Z. Ji, B. Lu, A.L. Marchant and S.L. Cornish
-  link:
-    url: https://doi.org/10.1088/1367-2630/17/5/055006
-    display: New J. Phys.17, 055006 (2015).
-  lab: atomicbec
-
-- title: "Sagnac Interferometry Using Bright Matter-Wave Solitons"
-  authors: J.L. Helm, S.L. Cornish, and S.A. Gardiner
-  link:
-    url: https://doi.org/10.1103/PhysRevLett.114.134101
-    display: _Phys. Rev. Lett._ **114**, 134101 (2015)
-  lab: atomicbec
-
-- title: "Creation of Ultracold 87Rb133Cs Molecules in the Rovibrational Ground State"
-  authors: P.K. Molony, P.D. Gregory, Z. Ji, B. Lu, M.P. Köppinger, C.R. Le Sueur, C.L. Blackley, J.M. Hutson, and S.L. Cornish
-  link:
-    url: https://doi.org/10.1103/PhysRevLett.113.255301
-    display: _Phys. Rev. Lett._ **113**, 255301 (2014)
-  lab: atomicbec
