@@ -250,3 +250,404 @@
     url: https://doi.org/10.1063/1.4941719
     display: _Rev. Sci. Instrum._ **87**, 023105 (2016)
   lab: csyb
+
+  - title: "Stochastic growth dynamics and composite defects in quenched immiscible binary condensates"
+  authors: I.-K. Liu, R.W. Pattinson, T.P. Billam, S.A. Gardiner, S.L. Cornish, T.-M. Huang, W.-W. Lin, S.C. Gou, N.G. Parker and N.P. Proukakis
+  link:
+    url: https://doi.org/10.1103/PhysRevA.93.023628
+    display: _Phys. Rev. A_ **93**, 023628 (2016)
+  lab: unknown
+
+- title: "Quantum reflection of bright solitary matter waves from a narrow attractive potential"
+  authors: A.L. Marchant, T.P. Billam, M.M.H. Yu, A. Rakonjac, J.L. Helm, J. Polo, C. Weiss, S.A. Gardiner, and S.L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.93.021604
+    display: _Phys. Rev. A_ **93**, 021604(R) (2016)
+  lab: unknown
+
+- title: "Production and characterization of a dual species magneto-optical trap of cesium and ytterbium"
+  authors: S.L. Kemp, K.L. Butler, R. Freytag, S.A. Hopkins, E.A. Hinds, M.R. Tarbutt and S.L. Cornish
+  link:
+    url: https://doi.org/10.1063/1.4941719
+    display: _Rev. Sci. Instrum._ **87**, 023105 (2016)
+  lab: unknown
+
+- title: "Measuring the disorder of vortex lattices in a Bose-Einstein condensate"
+  authors: A. Rakonjac, A.L. Marchant, T.P. Billam, J.L. Helm, M.M.H. Yu, S.A. Gardiner and S.L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.93.013607
+    display: _Phys. Rev. A_ **93**, 013607 (2016)
+  lab: unknown
+
+- title: "Superballistic center-of-mass motion in one-dimensional attractive Bose gases: Decoherence-induced Gaussian random walks in velocity space"
+  authors: C. Weiss, S.L. Cornish, S.A. Gardiner and H.-P. Breuer
+  link:
+    url: https://doi.org/10.1103/PhysRevA.93.013605
+    display: _Phys. Rev. A_ **93**, 013605 (2016)
+  lab: unknown
+
+- title: "Absolute absorption on the potassium D lines: theory and experiment"
+  authors: R.K. Hanley, P.D. Gregory, I.G. Hughes and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/0953-4075/48/19/195004
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **48**, 195004 (2015)
+  lab: unknown
+
+- title: "A simple, versatile laser system for the creation of ultracold ground state molecules"
+  authors: P.D. Gregory, P.K. Molony, M.P. Köppinger, A. Kumar, Z. Ji, B. Lu, A.L. Marchant and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/17/5/055006
+    display: New J. Phys.17, 055006 (2015).
+  lab: unknown
+
+- title: "Sagnac Interferometry Using Bright Matter-Wave Solitons"
+  authors: J.L. Helm, S.L. Cornish, and S.A. Gardiner
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.114.134101
+    display: _Phys. Rev. Lett._ **114**, 134101 (2015)
+  lab: unknown
+
+- title: "Creation of Ultracold 87Rb133Cs Molecules in the Rovibrational Ground State"
+  authors: P.K. Molony, P.D. Gregory, Z. Ji, B. Lu, M.P. Köppinger, C.R. Le Sueur, C.L. Blackley, J.M. Hutson, and S.L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.113.255301
+    display: _Phys. Rev. Lett._ **113**, 255301 (2014)
+  lab: unknown
+
+- title: "Repeated output coupling of ultracold Feshbach molecules from a Cs BEC"
+  authors: M.P. Köppinger, P.D. Gregory, D.L. Jenkin, D.J. McCarron, A.L. Marchant and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/16/11/115016
+    display: _New J. Phys._ **16**, 115016 (2014)
+  lab: unknown
+
+- title: "Feshbach resonances, molecular bound states, and prospects of ultracold-molecule formation in mixtures of ultracold K and Cs"
+  authors: H.J. Patel, C.L. Blackley, S.L. Cornish and J.M. Hutson
+  link:
+    url: https://doi.org/10.1103/PhysRevA.90.032716
+    display: _Phys. Rev. A_ **90**, 032716 (2014)
+  lab: unknown
+
+- title: "Refined determination of the muonium-deuterium 1S-2S isotope shift through improved frequency calibration of iodine lines"
+  authors: I. Fan, C.-Y. Chang, L.-B. Wang, S.L. Cornish, J.-T. Shy, and Y.-W. Liu
+  link:
+    url: https://doi.org/10.1103/PhysRevA.89.032513
+    display: _Phys. Rev. A_ **89**, 032513 (2014)
+  lab: unknown
+
+- title: "Production of optically trapped 87RbCs Feshbach molecules"
+  authors: M.P. Köppinger, D.J. McCarron, D.L. Jenkin, P.K. Molony, H.-W. Cho, C.R. Le Sueur, C.L. Blackley, J.M. Hutson and S.L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.89.033604
+    display: _Phys. Rev. A_ **89**, 033604 (2014)
+  lab: unknown
+
+- title: "Generating Mesoscopic Bell States via Collisions of Distinguishable Quantum Bright Solitons"
+  authors: B. Gertjerenken, T.P. Billam, C.L. Blackley, C.R. Le Sueur, L. Khaykovich, S.L. Cornish and C. Weiss
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.111.100406
+    display: _Phys. Rev. Lett._ **111**, 100406 (2013)
+  lab: unknown
+
+- title: "Controlled formation and reflection of a bright solitary matter-wave"
+  authors: A.L. Marchant, T.P. Billam, T.P. Wiles, M.M.H. Yu, S.A. Gardiner and S.L. Cornish
+  link:
+    url: https://doi.org/10.1038/ncomms2893
+    display: _Nature Communications_ **4**, 1865 (2013)
+  lab: unknown
+
+- title: "Feshbach resonances in ultracold 85Rb"
+  authors: C.L. Blackley, C.R. Le Sueur, J.M. Hutson, D.J. McCarron, M.P. Köppinger, H.W. Cho, D.L. Jenkin and S.L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.87.033611
+    display: _Phys. Rev. A_ **87**, 033611 (2013)
+  lab: unknown
+
+- title: "Equilibrium density structures in trapped immiscible two-species Bose-Einstein condensates"
+  authors: R.W. Pattinson, T.P. Billam, S.A. Gardiner, D.J. McCarron, H.W. Cho, S.L. Cornish, N.G. Parker and N.P. Proukakis
+  link:
+    url: https://doi.org/10.1103/PhysRevA.87.013625
+    display: _Phys. Rev. A_ **87**, 013625 (2013)
+  lab: unknown
+
+- title: "Feshbach spectroscopy of an ultracold mixture of 85Rb and 133Cs"
+  authors: H.W. Cho, D.J. McCarron, M.P. Köppinger, D.L. Jenkin, K.L. Butler, P.S. Julienne, C.L. Blackley, C.R. Le Sueur, J.M. Hutson and S.L.Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.87.010703
+    display: _Phys. Rev. A_ **87**, 010703(R) (2013)
+  lab: unknown
+
+- title: "Bose-Einstein condensation of 85Rb by direct evaporation in an optical dipole trap"
+  authors: A.L. Marchant, S. Händel, S.A. Hopkins, T.P. Wiles and S.L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.85.053647
+    display: _Phys. Rev. A_ **85**, 053647 (2012)
+  lab: unknown
+
+- title: "Guided transport of ultracold gases of rubidium up to a room-temperature dielectric surface"
+  authors: A.L. Marchant, S. Händel, T.P. Wiles, S.A. Hopkins and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/13/12/125003
+    display: _New J. Phys._ **13**, 125003 (2011)
+  lab: unknown
+
+- title: "Magnetic transport apparatus for the production of ultracold atomic gases in the vicinity of a dielectric surface"
+  authors: S. Händel, A.L. Marchant, T.P. Wiles, S.A. Hopkins and S.L. Cornish
+  link:
+    url: https://doi.org/10.1063/1.3676161
+    display: _Rev. Sci. Instrum._ **83**, 013105 (2012)
+  lab: unknown
+
+- title: "An analytical model of off-resonant Faraday rotation in hot alkali metal vapours"
+  authors: S.L. Kemp, I.G. Hughes and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/0953-4075/44/23/235004
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **44**, 235004 (2011)
+  lab: unknown
+
+- title: "Guided transport of ultracold gases of rubidium up to a room-temperature dielectric surface"
+  authors: A.L. Marchant, S. Händel, T.P. Wiles, S.A. Hopkins and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/13/12/125003
+    display: _New J. Phys._ **13**, 125003 (2011)
+  lab: unknown
+
+- title: "A high phase-space density mixture of 87Rb and 133Cs: towards ultracold heteronuclear molecules"
+  authors: H.W. Cho, D.J. McCarron, D.L. Jenkin, M.P. Köppinger and S.L. Cornish
+  link:
+    url: https://doi.org/10.1140/epjd/e2011-10716-1
+    display: _Eur. Phys. J. D_ **65**, 125 (2011)
+  lab: unknown
+
+- title: "Bose-Einstein condensation of 87Rb in a levitated crossed dipole trap"
+  authors: D.L. Jenkin, D.J. McCarron, M.P. Köppinger, H.W. Cho, S.A. Hopkins and S.L. Cornish
+  link:
+    url: https://doi.org/10.1140/epjd/e2011-10720-5
+    display: _Eur. Phys. J. D_ **65**, 11 (2011)
+  lab: unknown
+
+- title: "Dual-species Bose-Einstein condensation of 87Rb and 133Cs"
+  authors: D.J. McCarron, H.W. Cho, D.L. Jenkin, M.P. Köppinger and S.L.Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.84.011603
+    display: _Phys. Rev. A_ **84**, 011603 (2011)
+  lab: unknown
+
+- title: "Magnetic merging of ultracold atomic gases of 85Rb and 87Rb"
+  authors: S. Händel, T.P. Wiles, A.L. Marchant, S.A. Hopkins, C.S. Adams and S.L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.83.053633
+    display: _Phys Rev A_ **83**, 053633 (2011)
+  lab: unknown
+
+- title: "Realizing bright matter-wave soliton collisions with controlled relative phase"
+  authors: T.P. Billam, S.L. Cornish and S.A. Gardiner
+  link:
+    url: https://doi.org/10.1103/PhysRevA.83.041602
+    display: _Phys Rev A_ **83**, 041602(R) (2011)
+  lab: unknown
+
+- title: "Off-resonance laser frequency stabilization using the Faraday effect,"
+  authors: A.L. Marchant, S. Händel, T.P. Wiles, S.A. Hopkins, C.S. Adams and S.L. Cornish
+  link:
+    url: https://doi.org/10.1364/OL.36.000064
+    display: _Optics Letters_ **36**, 64 (2011)
+  lab: unknown
+
+- title: "Bright solitary waves of trapped atomic Bose-Einstein condensates"
+  authors: N.G. Parker, A.M. Martin, C.S. Adams and S.L. Cornish
+  link:
+    url: https://doi.org/10.1016/j.physd.2008.07.001
+    display: _Physica D_ **238**, 1456 (2009)
+  lab: unknown
+
+- title: "Quantum reflection of bright matter-wave solitons"
+  authors: S.L. Cornish, N.G. Parker, A.M. Martin, T.E. Judd, R.G. Scott, T.M. Fromhold and C.S. Adams
+  link:
+    url: https://doi.org/10.1016/j.physd.2008.07.011
+    display: _Physica D_ **238**, 1299 (2009)
+  lab: unknown
+
+- title: "Collapse times of dipolar Bose-Einstein condensates"
+  authors: C. Ticknor, N.G. Parker, A. Melatos, S.L. Cornish, D.H.J. O’Dell, and A.M. Martin
+  link:
+    url: https://doi.org/10.1103/PhysRevA.78.061607
+    display: _Phys. Rev. A_ **78**, 061607(R) (2008)
+  lab: unknown
+
+- title: "Modulation transfer spectroscopy in atomic rubidium"
+  authors: D.J. McCarron, S.A. King and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/0957-0233/19/10/105601
+    display: _Meas. Sci. Technol._ **19**, 105601 (2008)
+  lab: unknown
+
+- title: "Optimisation of sub-Doppler DAVLL on the rubidium D2 line"
+  authors: M.L. Harris, S.L. Cornish, A. Tripathi and I.G. Hughes
+  link:
+    url: https://doi.org/10.1088/0953-4075/41/8/085401
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **41**, 085401 (2008)
+  lab: unknown
+
+- title: "Collisions of bright solitary matter waves"
+  authors: N.G. Parker, A.M. Martin, S.L. Cornish and C.S. Adams
+  link:
+    url: https://doi.org/10.1088/0953-4075/41/4/045303
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **41**, 045303 (2008)
+  lab: unknown
+
+- title: "Magnetic trapping of a cold Rb-Cs atomic mixture"
+  authors: M.L. Harris, P. Tierney and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/0953-4075/41/3/035303
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **41**, 035303 (2008)
+  lab: unknown
+
+- title: "A heated vapor cell unit for dichroic atomic vapor laser lock in atomic rubidium"
+  authors: D.J. McCarron, I.G. Hughes, P. Tierney and S.L. Cornish
+  link:
+    url: https://doi.org/10.1063/1.2785157
+    display: _Rev. Sci. Instrum._ **78**, 093106 (2007)
+  lab: unknown
+
+- title: "Bright solitary waves and trapped solutions in Bose-Einstein condensates with attractive interactions"
+  authors: N.G. Parker, S.L. Cornish, C.S. Adams and A.M. Martin
+  link:
+    url: https://doi.org/10.1088/0953-4075/40/15/012
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **40**, 3127-3142 (2007)
+  lab: unknown
+
+- title: "DAVLL lineshapes in atomic rubidium"
+  authors: A. Millett-Sikking, I.G. Hughes, P. Tierney and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/0953-4075/40/1/017
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **40**, 187 (2007)
+  lab: unknown
+
+- title: "Transport of launched cold atoms with a laser guide and pulsed magnetic fields"
+  authors: M.J. Pritchard, A.S. Arnold, S.L. Cornish, D.W. Hallwood, C.V.S. Pleasant and I.G. Hughes
+  link:
+    url: https://doi.org/10.1088/1367-2630/8/12/309
+    display: _New J. Phys._ **8**, 309 (2006)
+  lab: unknown
+
+- title: "Polarization spectroscopy in rubidium and cesium"
+  authors: M.L. Harris, C.S. Adams, S.L. Cornish, I.C. McLeod, E. Tarleton and I.G. Hughes
+  link:
+    url: https://doi.org/10.1103/PhysRevA.73.062509
+    display: _Phys. Rev. A_ **73**, 062509 (2006)
+  lab: unknown
+
+- title: "Formation of Bright Matter-Wave Solitons during the Collapse of Attractive Bose-Einstein Condensates"
+  authors: S.L. Cornish, S.T. Thompson and C.E. Wieman
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.96.170401
+    display: _Phys. Rev. Lett._ **96**, 170401 (2006)
+  lab: unknown
+
+- title: "Optimized evaporative cooling using a dimple potential: an efficient route to Bose-Einstein condensation"
+  authors: Z.-Y. Ma, C.J. Foot and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/0953-4075/37/15/013
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **37**, 1-9 (2004)
+  lab: unknown
+
+- title: "Recent progress in Bose-Einstein condensation experiments"
+  authors: S.L. Cornish and D. Cassettari
+  link:
+    url: https://doi.org/10.1098/rsta.2003.1278
+    display: _Phil. Trans. R. Soc. Lond. A_ **361**, 2699-2713 (2003)
+  lab: unknown
+
+- title: "The evaporative cooling of a gas of caesium atoms in the hydrodynamic regime"
+  authors: Z.-Y. Ma, A.M. Thomas, C.J. Foot and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/0953-4075/36/16/313
+    display: _J. Phys. B: At. Mol. Opt. Phys._ **36**, 3533-3540 (2003)
+  lab: unknown
+
+- title: "Strong evaporative cooling towards Bose-Einstein condensation of a magnetically trapped caesium gas"
+  authors: A.M. Thomas, S. Hopkins, S.L. Cornish and C.J. Foot
+  link:
+    url: https://doi.org/10.1088/1464-4266/5/2/366
+    display: _J. Opt. B: Quantum Semiclass. Opt._ **5**, S107-S111 (2003)
+  lab: unknown
+
+- title: "Improved characterization of elastic scattering near a Feshbach resonance in 85Rb"
+  authors: J.L. Roberts, J.P. Burke, Jr., N.R. Claussen, S.L. Cornish, E.A. Donley and C.E. Wieman
+  link:
+    url: https://doi.org/10.1103/PhysRevA.64.024702
+    display: _Phys. Rev. A_ **64**, 024702 (2001)
+  lab: unknown
+
+- title: "Dynamics of collapsing and exploding Bose-Einstein condensates"
+  authors: E.A. Donley, N.R. Claussen, S.L. Cornish, J.L. Roberts, E.A. Cornell and C.E. Wieman
+  link:
+    url: https://doi.org/10.1038/35085500
+    display: _Nature_ **412**, 295-299 (2001)
+  lab: unknown
+
+- title: "Controlled collapse of a Bose-Einstein condensate"
+  authors: J.L. Roberts, N.R. Claussen, S.L. Cornish, E.A. Donley, E.A. Cornell and C.E. Wieman
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.86.4211
+    display: _Phys. Rev. Lett._ **86**, 4211-4214 (2001)
+  lab: unknown
+
+- title: "Stable 85Rb Bose-Einstein condensates with widely tunable interactions"
+  authors: S.L. Cornish, N.R. Claussen, J.L. Roberts, E.A. Cornell and C.E. Wieman
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.85.1795
+    display: _Phys. Rev. Lett._ **85**, 1795-1798 (2000)
+  lab: unknown
+
+- title: "Magnetic field dependence of ultracold inelastic collisions near a Feshbach resonance"
+  authors: J.L. Roberts, N.R. Claussen, S.L. Cornish and C.E. Wieman
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.85.728
+    display: _Phys. Rev. Lett._ **85**, 728-731 (2000)
+  lab: unknown
+
+- title: "A chirp compensated, injection-seeded alexandrite laser"
+  authors: P. Bakule, P.E.G. Baird, M.G. Boshier, S.L. Cornish, D.F. Heller, K. Jungmann, I.C. Lane, P.G.H. Sandars, W.T. Toner, M. Towrie, and J.C. Walling
+  link:
+    url: https://doi.org/10.1007/PL00021153
+    display: _Appl. Phys. B_ **71**, 11-17 (2000)
+  lab: unknown
+
+- title: "Measurement of elastic cross section for cold cesium collisions"
+  authors: S.A. Hopkins, S. Webster, J. Arlt, P. Bance, S. Cornish, O. Marago and C.J. Foot
+  link:
+    url: https://doi.org/10.1103/PhysRevA.61.032707
+    display: _Phys. Rev. A_ **61**, 032707 (2000)
+  lab: unknown
+
+- title: "Measurement of the 1S-2S energy interval in muonium"
+  authors: V. Meyer, S.N. Bagayev, P.E.G. Baird, P. Bakule, M.G. Boshier, A. Breitruck, S.L. Cornish, S. Dychkov, G.H. Eaton, A. Grossmann, D. Hubl, V.W. Hughes, K. Jungmann, I.C. Lane, Y.-W. Liu, D. Lucas, Y. Matyugin, J. Merkel, G. zu Putlitz, I. Reinhard, P.G.H. Sandars, R. Santra, P. Schmidt, C.A. Scott, W.T. Toner, M. Towrie, K. Trager, L. Willmann and V. Yakhontov
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.84.1136
+    display: _Phys. Rev. Lett._ **84**, 1136-1139 (2000)
+  lab: unknown
+
+- title: "Interferometric measurements of 127I2 reference frequencies for 1S-2S spectroscopy in muonium, hydrogen and deuterium"
+  authors: S.L. Cornish, Y.-W. Liu, I.C. Lane, P.E.G. Baird, G.P. Barwood, P. Taylor, and W.R.C. Rowley
+  link:
+    url: https://doi.org/10.1364/JOSAB.17.000006
+    display: _J. Opt. Soc. Am. B_ **17**, 6-10 (2000)
+  lab: unknown
+
+- title: "Pulsed laser spectroscopy in muonium and deuterium"
+  authors: V. Meyer, S.N. Bagayev, P.E.G. Baird, P. Bakule, M.G. Boshier, A. Breitruck, S.L. Cornish, S. Dychkov, G.H. Eaton, A. Grossmann, D. Hubl, V.W. Hughes, K. Jungmann, I.C. Lane, Y.-W. Liu, D. Lucas, Y. Matyugin, J. Merkel, G. zu Putlitz, I. Reinhard, P.G.H. Sandars, R. Santra, P. Schmidt, C.A. Scott, W.T. Toner, M. Towrie, K. Trager, L. Willmann, and V. Yakhontov
+  link:
+    url: https://doi.org/10.1023/A:1012691517257
+    display: _Hyperfine Interactions_ **127**, 197-200 (2000)
+  lab: unknown
+
+- title: "DFB laser diode operation at 77 K"
+  authors: D.A. Hopkinson, S.L. Cornish, N.H. Edwards, P.E.G. Baird, A. Cockburn, and K. Cameron
+  link:
+    url: https://doi.org/10.1088/0957-0233/7/5/011
+    display: _Meas. Sci. & Tech._ **7**, 792-795 (1996)
+  lab: unknown
+
+
