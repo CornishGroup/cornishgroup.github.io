@@ -175,6 +175,13 @@
     display: _New J. Phys._ **24**, 103022 (2022)
   lab: tweezers
 
+- title: "Towards a coherent ultracold chemistry"
+  authors: S.L. Cornish and J.M. Hutson
+  link:
+    url: https://doi.org/10.1126/science.abn1053
+    display: _Science_ **375**, 975-976 (2022)
+  lab: unknown
+
 - title: "Molecule–molecule and atom–molecule collisions with ultracold RbCs molecules"
   authors: Philip D. Gregory, Jacob A. Blackmore, Matthew D. Frye , Luke M. Fernley, Sarah L. Bromley, Jeremy M. Hutson, and Simon L. Cornish
   link:
@@ -224,6 +231,76 @@
     url: https://doi.org/10.1103/PhysRevA.103.033306
     display: _Phys. Rev. A_ **103**, 033306 (2021)
   lab: csyb
+
+- title: "Coherent manipulation of the internal state of ultracold 87Rb133Cs molecules with multiple microwave fields"
+  authors: J.A. Blackmore, P.D. Gregory, S.L. Bromley and S.L Cornish
+  link:
+    url: https://doi.org/10.1039/D0CP04651E
+    display: _Phys. Chem. Chem. Phys._ **22**, 27529-27538 (2020)
+  lab: unknown
+
+- title: "Controlling the ac Stark effect of RbCs with dc electric and magnetic fields"
+  authors: J.A. Blackmore, R. Sawant, P.D. Gregory, S.L. Bromley, J. Aldegunde, J.M. Hutson and S.L. Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevA.102.053316
+    display: _Phys. Rev. A_ **102**, 053316 (2020)
+  lab: unknown
+
+- title: "Prospects of Forming High-Spin Polar Molecules from Ultracold Atoms"
+  authors: M.D. Frye, S.L. Cornish and J.M. Hutson
+  link:
+    url: https://doi.org/10.1103/PhysRevX.10.041005
+    display: _Phys. Rev. X_ **10**, 041005 (2020)
+  lab: unknown
+
+- title: "Robust entangling gate for polar molecules using magnetic and microwave fields"
+  authors: M. Hughes, M.D. Frye, R. Sawant, G. Bhole, J.A. Jones, S.L. Cornish, M.R. Tarbutt, J.M. Hutson, D. Jaksch and J. Mur-Petit
+  link:
+    url: https://doi.org/10.1103/PhysRevA.101.062308
+    display: _Phys. Rev. A_ **101**, 062308 (2020)
+  lab: unknown
+
+- title: "Loss of Ultracold 87Rb133Cs Molecules via Optical Excitation of Long-Lived Two-Body Collision Complexes"
+  authors: P.D. Gregory, J.A. Blackmore, S.L. Bromley and S.L Cornish
+  link:
+    url: https://doi.org/10.1103/PhysRevLett.124.163402
+    display: _Phys. Rev. Lett._ **124**, 163402 (2020)
+  lab: unknown
+
+- title: "Splitting and recombination of bright-solitary-matter waves"
+  authors: O.J. Wales, A. Rakonjac, T.P. Billam, J.L. Helm, S.A. Gardiner and S.L. Cornish
+  link:
+    url: https://doi.org/10.1038/s42005-020-0320-8
+    display: _Commun. Phys._ **3**, 51 (2020)
+  lab: unknown
+
+- title: "Ultracold polar molecules as qudits"
+  authors: R. Sawant, J.A. Blackmore, P.D. Gregory, J. Mur-Petit, D. Jaksch, J. Aldegunde, J.M. Hutson, M.R. Tarbutt and S.L. Cornish
+  link:
+    url: https://doi.org/10.1088/1367-2630/ab60f4
+    display: _New J. Phys._ **22**, 013027 (2020)
+  lab: unknown
+
+- title: "Magnetic Feshbach resonances in ultracold collisions between Cs and Yb atoms"
+  authors: B.C. Yang, M.D. Frye, A. Guttridge, J. Aldegunde, P.S. Żuchowski, S.L. Cornish and J.M. Hutson
+  link:
+    url: https://doi.org/10.1103/PhysRevA.100.022704
+    display: _Phys. Rev. A_ **100**, 022704 (2019)
+  lab: unknown
+
+- title: "Sticky collisions of ultracold RbCs molecules"
+  authors: P.D. Gregory, M.D. Frye, J.A. Blackmore, E.M. Bridge, R. Sawant, J.M. Hutson and S.L. Cornish
+  link:
+    url: https://doi.org/10.1038/s41467-019-11033-y
+    display: _Nature Communications_ **10**, 3104 (2019)
+  lab: unknown
+
+- title: "Ultracold molecules for quantum simulation: rotational coherences in CaF and RbCs"
+  authors: J.A. Blackmore, L. Caldwell, P.D. Gregory, E.M. Bridge, R. Sawant, J. Aldegunde, J. Mur-Petit, D. Jaksch, J.M. Hutson, B.E. Sauer, M.R. Tarbutt and S.L Cornish
+  link:
+    url: https://doi.org/10.1088/2058-9565/aaee35
+    display: _Quantum Science and Technology_ **4**, 014010 (2018)
+  lab: unknown
 
 - title: "Two-photon photoassociation spectroscopy of CsYb. Ground-state interaction potential and interspecies scattering lengths"
   authors: A. Guttridge, Matthew D. Frye, B. C. Yang, Jeremy M. Hutson, and Simon L. Cornish
