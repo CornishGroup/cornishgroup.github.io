@@ -303,7 +303,7 @@
   lab: atomicbec
 
 - title: "A simple, versatile laser system for the creation of ultracold ground state molecules"
-  authors: P.D. Gregory, P.K. Molony, M.P. Koppinger, A. Kumar, Z. Ji, B. Lu, A.L. Marchant and S.L. Cornish
+  authors: P.D. Gregory, P.K. Molony, M.P. Köppinger, A. Kumar, Z. Ji, B. Lu, A.L. Marchant and S.L. Cornish
   link:
     url: https://doi.org/10.1088/1367-2630/17/5/055006
     display: _New J. Phys._ **17**, 055006 (2015)
@@ -316,7 +316,7 @@
     display: _Phys. Rev. Lett._ **114**, 134101 (2015)
   lab: unknown
 
-- title: "Creation of Ultracold 87Rb133Cs Molecules in the Rovibrational Ground State"
+- title: "Creation of Ultracold <sup>87</sup>Rb<sup>133</sup>Cs Molecules in the Rovibrational Ground State"
   authors: P.K. Molony, P.D. Gregory, Z. Ji, B. Lu, M.P. Köppinger, C.R. Le Sueur, C.L. Blackley, J.M. Hutson, and S.L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevLett.113.255301
@@ -344,7 +344,7 @@
     display: _Phys. Rev. A_ **89**, 032513 (2014)
   lab: unknown
 
-- title: "Production of optically trapped 87RbCs Feshbach molecules"
+- title: "Production of optically trapped <sup>87</sup>RbCs Feshbach molecules"
   authors: M.P. Köppinger, D.J. McCarron, D.L. Jenkin, P.K. Molony, H.-W. Cho, C.R. Le Sueur, C.L. Blackley, J.M. Hutson and S.L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.89.033604
@@ -421,28 +421,28 @@
     display: _New J. Phys._ **13**, 125003 (2011)
   lab: unknown
 
-- title: "A high phase-space density mixture of 87Rb and 133Cs: towards ultracold heteronuclear molecules"
+- title: "A high phase-space density mixture of <sup>87</sup>Rb and <sup>133</sup>Cs: towards ultracold heteronuclear molecules"
   authors: H.W. Cho, D.J. McCarron, D.L. Jenkin, M.P. Köppinger and S.L. Cornish
   link:
     url: https://doi.org/10.1140/epjd/e2011-10716-1
     display: _Eur. Phys. J. D_ **65**, 125 (2011)
   lab: unknown
 
-- title: "Bose-Einstein condensation of 87Rb in a levitated crossed dipole trap"
+- title: "Bose-Einstein condensation of <sup>87</sup>Rb in a levitated crossed dipole trap"
   authors: D.L. Jenkin, D.J. McCarron, M.P. Köppinger, H.W. Cho, S.A. Hopkins and S.L. Cornish
   link:
     url: https://doi.org/10.1140/epjd/e2011-10720-5
     display: _Eur. Phys. J. D_ **65**, 11 (2011)
   lab: unknown
 
-- title: "Dual-species Bose-Einstein condensation of 87Rb and 133Cs"
+- title: "Dual-species Bose-Einstein condensation of <sup>87</sup>Rb and <sup>133</sup>Cs"
   authors: D.J. McCarron, H.W. Cho, D.L. Jenkin, M.P. Köppinger and S.L.Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.84.011603
     display: _Phys. Rev. A_ **84**, 011603 (2011)
   lab: unknown
 
-- title: "Magnetic merging of ultracold atomic gases of 85Rb and 87Rb"
+- title: "Magnetic merging of ultracold atomic gases of <sup>85</sup>Rb and <sup>87</sup>Rb"
   authors: S. Händel, T.P. Wiles, A.L. Marchant, S.A. Hopkins, C.S. Adams and S.L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.83.053633
@@ -572,14 +572,14 @@
   authors: Z.-Y. Ma, A.M. Thomas, C.J. Foot and S.L. Cornish
   link:
     url: https://doi.org/10.1088/0953-4075/36/16/313
-    display: _J. Phys. B: At. Mol. Opt. Phys._ **36**, 3533-3540 (2003)
+    display: "_J. Phys. B: At. Mol. Opt. Phys._ **36**, 3533-3540 (2003)"
   lab: unknown
 
 - title: "Strong evaporative cooling towards Bose-Einstein condensation of a magnetically trapped caesium gas"
   authors: A.M. Thomas, S. Hopkins, S.L. Cornish and C.J. Foot
   link:
     url: https://doi.org/10.1088/1464-4266/5/2/366
-    display: _J. Opt. B: Quantum Semiclass. Opt._ **5**, S107-S111 (2003)
+    display: "_J. Opt. B: Quantum Semiclass. Opt._ **5**, S107-S111 (2003)"
   lab: unknown
 
 - title: "Improved characterization of elastic scattering near a Feshbach resonance in 85Rb"
