@@ -47,6 +47,20 @@
   highlight: 0
   lab: microscope
 
+- title: "Ultralong-range Cs-RbCs Rydberg molecules: Nonadiabaticity of dipole moments"
+  authors: D. Mellado-Alcedo, A. Guttridge, S.L. Cornish, H.R. Sadeghpour and R. González-Férez
+  link:
+    url: https://doi.org/10.1103/PhysRevA.110.013314
+    display: _Phys. Rev. A_ **110**, 013314 (2024)
+  lab: tweezers
+
+- title: "Quantum computation and quantum simulation with ultracold molecules"
+  authors: S.L. Cornish, M.R. Tarbutt and K.R.A. Hazzard
+  link:
+    url: https://doi.org/10.1038/s41567-024-02453-9
+    display: _Nature Physics_ **20**, 730–740 (2024)
+  lab: microscope
+
 - title: "Enhanced quantum control of individual ultracold molecules using optical tweezer arrays"
   image: tweezers_enhanced_control.png
   description: We develop a toolbox of techniques for the control and readout of individually trapped polar molecules in an array of optical tweezers.
