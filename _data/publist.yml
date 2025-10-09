@@ -34,7 +34,7 @@
   link:
     url: https://doi.org/10.1038/s41586-024-08365-1
     display: _Nature_ **637**, 827 (2025)
-  highlight: 0
+  highlight: 1
   lab: tweezers
 
 - title: "Enhanced quantum state transfer via feedforward cancellation of optical phase noise"
@@ -104,7 +104,7 @@
   link:
     url: https://doi.org/10.1103/PhysRevLett.131.013401
     display: _Phys. Rev. Lett._ **131**, 013401 (2023)
-  highlight: 0
+  highlight: 1
   lab: tweezers
 
 - title: "A motorized rotation mount for the switching of an optical beam path in under 20 ms using polarization control"
