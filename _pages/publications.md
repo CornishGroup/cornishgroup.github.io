@@ -52,7 +52,7 @@ permalink: /publications
 <p> &nbsp; </p>
 
 
-## List of recent publications
+## List of publications
 
 {% assign paper_counter = site.data.publist.size %}
 
@@ -65,7 +65,7 @@ permalink: /publications
 
 {% endfor %}
 
-Publications prior to 2021 can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=CfmFaf4AAAAJ).
+Publications can also be found on [Google Scholar](https://scholar.google.co.uk/citations?user=CfmFaf4AAAAJ).
 
 <p> &nbsp; </p>
 
