@@ -11,7 +11,7 @@ permalink: /publications
 
 ## Group highlights
 
-**At the end of this page, you can find a [list of publications](#list-of-publications) and [PhD theses](#phd-theses). All papers are also available on [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Cornish%2C+S+L).**
+**At the end of this page, you can find a [list of publications](#list-of-publications) and [PhD theses](#phd-theses). All papers are also available on [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Cornish%2C+S+L) and [Google Scholar](https://scholar.google.co.uk/citations?user=CfmFaf4AAAAJ).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -64,8 +64,6 @@ permalink: /publications
   {% assign paper_counter = paper_counter | minus:1 %}
 
 {% endfor %}
-
-Publications can also be found on [Google Scholar](https://scholar.google.co.uk/citations?user=CfmFaf4AAAAJ).
 
 <p> &nbsp; </p>
 
