@@ -11,10 +11,12 @@ Ultracold polar molecules are an exciting new platform for quantum science and t
 
 In Durham we work to harness properties of such molecules with a variety of techniques. This includes making clouds of ultracold RbCs molecules and studying their interactions, as well as studying RbCs molecules that have been individually formed and trapped. We are also working on forming CsYb molecules that interact with each other magnetically.
 
-Our research is divided amongst four labs:
+Our research is divided amongst six labs:
 <ul>
     <li><a href="{{ site.url }}{{ site.baseurl }}/rbcs">RbCs bulk gas lab</a>,</li>
     <li><a href="{{ site.url }}{{ site.baseurl }}/microscope">RbCs quantum gas microscope lab</a>,</li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/tweezers">RbCs optical tweezer lab</a>, and </li>
-    <li><a href="{{ site.url }}{{ site.baseurl }}/csyb">CsYb: mixtures and molecules lab</a>.</li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/tweezers">RbCs optical tweezer lab</a>,</li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/csyb">CsYb: mixtures and molecules lab</a>,</li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/atomicbec">Atomic BEC lab</a>, and</li>
+    <li><a href="{{ site.url }}{{ site.baseurl }}/molecularbec">Molecular BEC lab</a>.</li>
 </ul>

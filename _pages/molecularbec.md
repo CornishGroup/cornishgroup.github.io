@@ -10,7 +10,7 @@ permalink: /molecularbec
 
 Placeholder Text
 
-### Lab publications
+<!-- ### Lab publications
 #### Papers
 {% assign molecularbec_papers = site.data.publist | where:"lab", "molecularbec" %}
 {% assign paper_counter = molecularbec_papers.size %}
@@ -34,4 +34,4 @@ Placeholder Text
   {% if publi.thesis_link %}
   {{publi.name}}: [_{{publi.thesis_title}}_ ({{publi.thesis_year}})]({{publi.thesis_link}})
   {% endif %}
-{% endfor %}
+{% endfor %} -->

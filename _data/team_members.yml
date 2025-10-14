@@ -65,6 +65,7 @@
   lab: microscope
 
 - name: Carlos Bracamontes
+  photo: bracamontes.jpg
   role: Postdoctoral Research Associate
   email: carlos.bracamontes@durham.ac.uk
   lab: tweezers
@@ -72,7 +73,7 @@
 - name: Sujit Garain
   photo: garain.jpg
   role: Postdoctoral Research Associate
-  lab: tweezers
+  lab: rbcs
 
 - name: Albert Tao
   photo: tao.jpg
