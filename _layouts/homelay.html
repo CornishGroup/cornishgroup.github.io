@@ -2,15 +2,12 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the Cornish Labs</h1>
+<div id="homeid" class="col-sm-8">
+  <h1>Welcome to the Cornish Labs</h1>
 
-	{{ content }}
-  </div>
+  {{ content }}
+</div>
 
-  <div id="newsid" class="col-sm-4" >
-	<!-- {% include news.html %} -->
-
-  <a class="twitter-timeline" data-height="800" data-dnt="true" href="https://twitter.com/SimonLCornish?ref_src=twsrc%5Etfw">Tweets by SimonLCornish</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-  </div>
+<div id="newsid" class="col-sm-4">
+  {% include news.html %}
+</div>
