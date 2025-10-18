@@ -9,7 +9,9 @@ permalink: /publications
 
 # Publications
 
-**Scroll down for a complete [list of publications](#list-of-publications) and [PhD theses](#phd-theses) from the group. All papers are also available on [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Cornish%2C+S+L) and [Google Scholar](https://scholar.google.co.uk/citations?user=CfmFaf4AAAAJ).**
+**Scroll down for a complete [list of publications](#list-of-publications) and [PhD theses](#phd-theses) from the group.** 
+
+**All papers are also available on [arXiv](https://arxiv.org/search/physics?searchtype=author&query=Cornish%2C+S+L) and [Google Scholar](https://scholar.google.co.uk/citations?user=CfmFaf4AAAAJ).**
 
 ## Recent highlights
 
