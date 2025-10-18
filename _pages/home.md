@@ -8,8 +8,7 @@ permalink: /
 
 We are an experimental group studying ultracold atoms and molecules in the [Quantum Light and Matter](https://durham-qlm.uk/) research section of the Physics Department at Durham University.
 
-We aim to leverage the unique properties of ultracold polar molecules to expand the frontiers of quantum science and to explore applications in quantum many-body physics. We use advanced laser-cooling techniques to produce atomic samples at micro-kelvin temperatures, and then associate pairs of atoms into heteronuclear molecules in the rovibrational ground state. We then apply microwave fields to manipulate the internal rotational state of the molecules and to engineer long-range dipole-dipole interactions. Our different experiments investigate small systems of molecules in optical tweezers, bulk gases of molecules and arrays of molecules in optical lattices. Explore the website for more details. 
-<!--A more detailed overview of our research goals [here]({{ site.url }}{{ site.baseurl }}/research). --!>
+We aim to leverage the unique properties of ultracold polar molecules to expand the frontiers of quantum science and to explore applications in quantum many-body physics. We use advanced laser-cooling techniques to produce atomic samples at micro-kelvin temperatures, and then associate pairs of atoms into heteronuclear molecules in the rovibrational ground state. We then apply microwave fields to manipulate the internal rotational state of the molecules and to engineer long-range dipole-dipole interactions. Our different experiments investigate small systems of molecules in optical tweezers, bulk gases of molecules and arrays of molecules in optical lattices. Explore the website for more details, starting [here]({{ site.url }}{{ site.baseurl }}/research).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
