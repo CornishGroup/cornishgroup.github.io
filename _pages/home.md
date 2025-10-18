@@ -8,7 +8,7 @@ permalink: /
 
 We are an experimental group studying ultracold atoms and molecules in the [Quantum Light and Matter](https://durham-qlm.uk/) research section of the Physics Department at Durham University.
 
-We aim to leverage the unique properties of ultracold polar molecules to expand the frontiers of quantum science and to explore applications in quantum many-body physics. Explore the website for more details, starting [here]({{ site.url }}{{ site.baseurl }}/research) for an overview of our research goals and methods.
+We aim to leverage the unique properties of ultracold polar molecules to expand the frontiers of quantum science and to explore applications in quantum many-body physics. Explore the website for more details, starting [here]({{ site.url }}{{ site.baseurl }}/research) for an overview of our research goals.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
