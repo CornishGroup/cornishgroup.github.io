@@ -52,8 +52,8 @@ We aim to leverage the unique properties of ultracold polar molecules to expand 
 <br>
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Durham_University_Logo.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/qlm_logo.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png" style="width: 160px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/epsrc_logo.png" style="width: 120px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Durham_University_Logo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/RoyalSociety.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/ERC_logo.png" style="width: 150px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/epsrc_logo.png" style="width: 150px">
 </figure>
