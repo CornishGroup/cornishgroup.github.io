@@ -8,7 +8,7 @@ permalink: /atomicbec
 
 # Atomic BEC
 
-Placeholder Text
+Coming soon...
 
 ### Lab publications
 #### Papers
