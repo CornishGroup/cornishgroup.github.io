@@ -45,6 +45,9 @@ We aim to leverage the unique properties of ultracold polar molecules to expand 
   </a>
 </div>
 
+We gratefully acknowledge support from:
+
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Durham_University_Logo.png" style="width: 160px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/qlm_logo.png" style="width: 160px">
