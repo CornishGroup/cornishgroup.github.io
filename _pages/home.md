@@ -48,7 +48,7 @@ We aim to leverage the unique properties of ultracold polar molecules to expand 
 
 <br>
 <br>
-We gratefully acknowledge support from:
+<center>We gratefully acknowledge support from:</center>
 
 
 <figure class="fourth">
