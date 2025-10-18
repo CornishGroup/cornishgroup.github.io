@@ -12,6 +12,8 @@ We aim to leverage the unique properties of ultracold polar molecules to expand 
 
 **We are currently looking for highly motivated PhD students and postdoctoral researchers with an interest in cutting-edge experimental research in quantum science and technology with ultracold atoms and molecules to [join the team]({{ site.url }}{{ site.baseurl }}/join-us)!** 
 
+<br>
+<br>
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -45,6 +47,8 @@ We aim to leverage the unique properties of ultracold polar molecules to expand 
   </a>
 </div>
 
+<br>
+<br>
 We gratefully acknowledge support from:
 
 
