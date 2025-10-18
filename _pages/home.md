@@ -10,6 +10,8 @@ We are an experimental group studying ultracold atoms and molecules in the [Quan
 
 We aim to leverage the unique properties of ultracold polar molecules to expand the frontiers of quantum science and to explore applications in quantum many-body physics. Explore the website for more details, starting [here]({{ site.url }}{{ site.baseurl }}/research) for an overview of our research goals.
 
+**We are currently looking for highly motivated PhD students and postdoctoral researchers with an interest in cutting-edge experimental research in quantum science and technology with ultracold atoms and molecules to [join the team]({{ site.url }}{{ site.baseurl }}/join-us)!** 
+
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -42,8 +44,6 @@ We aim to leverage the unique properties of ultracold polar molecules to expand 
     <span class="sr-only">Next</span>
   </a>
 </div>
-
- **We are looking for highly motivated PhD students and postdoctoral researchers with an interest in cutting-edge experimental research in quantum science and technology with ultracold atoms and molecules to [join the team]({{ site.url }}{{ site.baseurl }}/join-us)!** 
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Durham_University_Logo.png" style="width: 160px">
