@@ -8,7 +8,7 @@ permalink: /molecularbec
 
 # Molecular BEC
 
-Placeholder Text
+Coming soon...
 
 <!-- ### Lab publications
 #### Papers
