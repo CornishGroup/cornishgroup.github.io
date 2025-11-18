@@ -1,3 +1,19 @@
+- title: "Isolated quantum-state networks in ultracold molecules"
+  authors: Tom R. Hepworth, Simon L. Cornish, Philip D. Gregory
+  link:
+    url: https://arxiv.org/abs/2511.03324
+    display: arXiv:2511.03324 (2025)
+  highlight: 0
+  lab: tweezers
+
+- title: "Hyperfine-resolved optical spectroscopy of ultracold <sup>87</sup>Rb<sup>133</sup>Cs molecules: the b<sup>3</sup>Π<sub>0</sub> metastable state"
+  authors: Arpita Das, Albert Li Tao, Luke M. Fernley, Fritz von Gierke, Philip D. Gregory, Simon L. Cornish, Jeremy M. Hutson, Romain Vexiau, Olivier Dulieu
+  link:
+    url: https://arxiv.org/abs/2510.24660
+    display: arXiv:2510.24660 (2025)
+  highlight: 0
+  lab: rbcs
+
 - title: "Multi-state detection and spatial addressing in a microscope for ultracold molecules"
   image: singlemolecules.png
   description: We demonstrate imaging of single molecules from a thermal bulk gas using a quantum gas microscope imaging system. By imaging both atomic species from the molecule we realise simultaneous readout of both rotational states. 
