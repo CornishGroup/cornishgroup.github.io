@@ -75,6 +75,11 @@
   role: Postdoctoral Research Associate
   lab: rbcs
 
+- name: Navraj Poudel
+  photo: poudel.jpg
+  role: Postdoctoral Research Associate
+  lab: csyb
+
 - name: Albert Tao
   photo: tao.jpg
   role: PhD student
@@ -129,3 +134,8 @@
   photo: eze.jpg
   role: Masters by Research student
   lab: molecularbec
+  
+- name: Lena Klar
+  photo: klar.jpg
+  role: Masters by Research student
+  lab: microscope
