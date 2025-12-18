@@ -16,11 +16,24 @@ permalink: /pictures/
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ruttley_entanglement_prize.jpg" alt="CCMI 2024." />
+            <div class="carousel-caption mb-4 text-light background: rgba(255, 184, 28, 0.5);">
+            <p>Dan wins the Entanglement Prize at the Quantum Talents Symposium in Munich.</p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/mortlock_excellence.jpg" alt="CCMI 2024." />
+            <div class="carousel-caption mb-4 text-light background: rgba(255, 184, 28, 0.5);">
+            <p>Jonathan is awarded a Department of Physics Award for Excellence for his work developing a quantum gas microscope for ultracold molecules.</p>
+            </div>
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/ccmi2024.jpg" alt="CCMI 2024." />
             <div class="carousel-caption mb-4 text-light background: rgba(255, 184, 28, 0.5);">
             <p>Ben, Dan, Adarsh, and Arpita visit Austria for CCMI2024.</p>
@@ -42,12 +55,6 @@ permalink: /pictures/
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/JMH_SLC_groups_2023.jpg" alt="JMH SLC groups 2023" />
             <div class="carousel-caption bg-dark mb-4 text-light">
             <p>2023 summer picnic with Jeremy Hutson's Cold Molecule Theory group and visiting guests.</p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/stefan_viva.jpg" alt="Stefan viva" />
-            <div class="carousel-caption bg-dark mb-4 text-light">
-            <p>Congratulations to Dr. Stefan Spence of the Tweezer lab for a successful viva defence!</p>
             </div>
         </div>
     </div>

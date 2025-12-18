@@ -19,8 +19,8 @@
   description: We demonstrate imaging of single molecules from a thermal bulk gas using a quantum gas microscope imaging system. By imaging both atomic species from the molecule we realise simultaneous readout of both rotational states. 
   authors: Jonathan M. Mortlock, Adarsh P. Raghuram, Benjamin P. Maddox, Philip D. Gregory, Simon L. Cornish
   link:
-    url: https://arxiv.org/abs/2506.12329
-    display: arXiv:2506.12329 (2025)
+    url: https://doi.org/10.1038/s41467-025-67212-7
+    display: _Nat. Commun._ (2025)
   highlight: 1
   lab: microscope
 
