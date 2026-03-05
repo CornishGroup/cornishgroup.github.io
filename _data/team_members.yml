@@ -70,15 +70,15 @@
   email: carlos.bracamontes@durham.ac.uk
   lab: tweezers
 
-- name: Sujit Garain
-  photo: garain.jpg
-  role: Postdoctoral Research Associate
-  lab: rbcs
-
 - name: Navraj Poudel
   photo: poudel.jpg
   role: Postdoctoral Research Associate
   lab: csyb
+
+- name: Satvika Bandarupally
+  photo: 
+  role: Postdoctoral Research Associate
+  lab: rbcs
 
 - name: Albert Tao
   photo: tao.jpg
