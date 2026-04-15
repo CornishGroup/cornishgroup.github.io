@@ -1,3 +1,13 @@
+- title: "Probing topological edge states in a molecular synthetic dimension"
+  image: synthetic_dimensions.png
+  authors: Adarsh P. Raghuram, Francesca M. Blondell, Jonathan M. Mortlock, Benjamin P. Maddox, Sohail Dasgupta, Holly A. J. Middleton-Spencer, Kaden R. A. Hazzard, Hannah M. Price, Philip D. Gregory, Simon L. Cornish
+  description: We engineer a synthetic dimension by coupling together many rotational states of ultracold molecules. 
+  link:
+    url: https://arxiv.org/abs/2604.00745
+    display: arXiv:2604.00745 (2026)
+  highlight: 1
+  lab: microscope
+
 - title: "Isolated quantum-state networks in ultracold molecules"
   authors: Tom R. Hepworth, Simon L. Cornish, Philip D. Gregory
   link:
@@ -9,8 +19,8 @@
 - title: "Hyperfine-resolved optical spectroscopy of ultracold <sup>87</sup>Rb<sup>133</sup>Cs molecules: the b<sup>3</sup>Π<sub>0</sub> metastable state"
   authors: Arpita Das, Albert Li Tao, Luke M. Fernley, Fritz von Gierke, Philip D. Gregory, Simon L. Cornish, Jeremy M. Hutson, Romain Vexiau, Olivier Dulieu
   link:
-    url: https://arxiv.org/abs/2510.24660
-    display: arXiv:2510.24660 (2025)
+    url: https://journals.aps.org/prresearch/abstract/10.1103/yfs9-gghp
+    display: _Phys. Rev. Research_ **8**, 023005 (2026)
   highlight: 0
   lab: rbcs
 
