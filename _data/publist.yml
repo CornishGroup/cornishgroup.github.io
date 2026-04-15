@@ -31,7 +31,7 @@
   link:
     url: https://doi.org/10.1038/s41467-025-67212-7
     display: _Nat. Commun._ **17**, 518 (2026)
-  highlight: 0
+  highlight: 1
   lab: microscope
 
 - title: "Long-lived multilevel coherences and spin-1 dynamics encoded in the rotational states of ultracold molecules"
