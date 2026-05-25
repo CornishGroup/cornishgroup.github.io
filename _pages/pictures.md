@@ -57,6 +57,12 @@ permalink: /pictures/
             <p>2023 summer picnic with Jeremy Hutson's Cold Molecule Theory group and visiting guests.</p>
             </div>
         </div>
+         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Microscope_May_2026.jpg" alt="Microscope team 2026" />
+            <div class="carousel-caption bg-dark mb-4 text-light">
+            <p>The microscope team having fun running the experiment.</p>
+            </div>
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
