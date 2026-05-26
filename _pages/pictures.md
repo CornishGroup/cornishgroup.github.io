@@ -66,7 +66,7 @@ permalink: /pictures/
             </div>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Lena_accordionist.jpg" alt="Our accordionist" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Lena_accordionist.jpeg" alt="Our accordionist" />
             <div class="carousel-caption bg-dark mb-4 text-light">
             <p>Our accordionist, Lena Klar, playing her instrument.</p>
             </div>
