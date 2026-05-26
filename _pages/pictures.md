@@ -18,6 +18,7 @@ permalink: /pictures/
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
     </ol>
 
     <!-- Items -->
@@ -62,6 +63,12 @@ permalink: /pictures/
             <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Microscope_May_2026.jpg" alt="Microscope team 2026" />
             <div class="carousel-caption bg-dark mb-4 text-light">
             <p>The microscope team having fun running the experiment.</p>
+            </div>
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Lena_accordionist.jpg" alt="Our accordionist" />
+            <div class="carousel-caption bg-dark mb-4 text-light">
+            <p>Our accordionist, Lena Klar, playing her instrument.</p>
             </div>
         </div>
     </div>
