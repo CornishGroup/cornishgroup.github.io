@@ -12,19 +12,17 @@ We are always looking for talented and motivated students and postdocs with an i
 
 ### Current openings for PhD students
 
-Fully funded PhD studentships (fees and stipend) are available on the following projects:
+Fully funded PhD studentships (fees and stipend) are available on the following projects to start in October 2027:
 
 #### 1. Quantum computing with atoms and molecules in optical tweezers ([Tweezers lab]({{ site.url }}{{ site.baseurl }}/tweezers))
 
 #### 2. Quantum spin dynamics with ultracold polar molecules  ([Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope))
 
-#### 3. Bose-Einstein condensation of polar molecules  ([Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/molecularbec))
-
-#### 4. Atomic clocks, optical lattices and ultracold molecules  ([CsYb lab]({{ site.url }}{{ site.baseurl }}/csyb))
+Other projects may also be available through competitive funding applications (e.g. Faculty of Science SCOPE Doctoral Studentships).
 
 ### Current openings for Postdoctoral Researchers
 
-We are currently seeking several postdoctoral researchers with experience in the field ultracold quantum gases to join the [Microscope lab]({{ site.url }}{{ site.baseurl }}/microscope) and the [Molecular BEC lab]({{ site.url }}{{ site.baseurl }}/molecularbec). Both openings are associated with a new five-year multi-institution research grant on "Quantum many-body physics with ultracold polar molecules".
+We have no current vacancies, but are always interested in hearing from potential applicants with a passion for experimental research in AMO physics.
 
 ### Support for Postdoctoral Fellowships
 
