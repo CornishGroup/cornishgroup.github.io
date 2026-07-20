@@ -1,3 +1,13 @@
+- title: "Harnessing resonant dipolar interactions in a hybrid atom-molecule quantum system"
+  image: resonant_atom_molecule.png
+  authors: Daniel K. Ruttley, Tom R. Hepworth, Juan M. García-Garrido, Caleb J. H. Rich, Rosario González-Férez, Alexander Guttridge, Simon L. Cornish
+  description: We demonstrate coherent dipolar interactions between an individual Rydberg atom and an individual polar molecule and exploit these interactions in a hybrid quantum system.
+  link:
+    url: https://arxiv.org/abs/2607.15976
+    display: arXiv:2607.15976 (2026)
+  highlight: 1
+  lab: tweezers
+
 - title: "Probing topological edge states in a molecular synthetic dimension"
   image: synthetic_dimensions.png
   authors: Adarsh P. Raghuram, Francesca M. Blondell, Jonathan M. Mortlock, Benjamin P. Maddox, Sohail Dasgupta, Holly A. J. Middleton-Spencer, Kaden R. A. Hazzard, Hannah M. Price, Philip D. Gregory, Simon L. Cornish
@@ -46,7 +56,7 @@
 
 - title: "Individual assembly of two-species Rydberg molecules using optical tweezers"
   description: We present a new approach to investigating Rydberg molecules by demonstrating the formation and characterization of individual Rb*Cs Rydberg molecules using optical tweezers.
-  authors: Alexander Guttridge, Tom R. Hepworth, Daniel K. Ruttley, Aileen A. T. Durst, Matthew T. Eiles, and Simon L. Cornish
+  authors: Alexander Guttridge, Tom R. Hepworth, Daniel K. Ruttley, Aileen A. T. Durst, Matthew T. Eiles, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevLett.134.133401
     display: _Phys. Rev. Lett._ **134**, 133401 (2025)
@@ -56,7 +66,7 @@
 - title: "Long-lived entanglement of molecules in magic-wavelength optical tweezers"
   image: entanglement.png
   description: We show that by engineering an exceptionally controlled environment using rotationally-magic optical tweezers, we can achieve long-lived entanglement between pairs of molecules.
-  authors: Daniel K. Ruttley\*, Tom R. Hepworth\*, Alexander Guttridge, and Simon L. Cornish
+  authors: Daniel K. Ruttley\*, Tom R. Hepworth\*, Alexander Guttridge, Simon L. Cornish
   link:
     url: https://doi.org/10.1038/s41586-024-08365-1
     display: _Nature_ **637**, 827 (2025)
@@ -66,7 +76,7 @@
 - title: "Enhanced quantum state transfer via feedforward cancellation of optical phase noise"
   image: feedforward.png
   description: We implement an optical feedforward technique to suppress laser phase noise in the STIRAP state transfer of ultracold RbCs molecules.
-  authors: Benjamin P. Maddox\*, Jonathan M. Mortlock\*, Tom R. Hepworth, Adarsh P. Raghuram, Philip D. Gregory, Alexander Guttridge, and Simon L. Cornish
+  authors: Benjamin P. Maddox\*, Jonathan M. Mortlock\*, Tom R. Hepworth, Adarsh P. Raghuram, Philip D. Gregory, Alexander Guttridge, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevLett.133.253202
     display: _Phys. Rev. Lett._ **133**, 253202 (2024)
@@ -92,7 +102,7 @@
 - title: "Enhanced quantum control of individual ultracold molecules using optical tweezer arrays"
   image: tweezers_enhanced_control.png
   description: We develop a toolbox of techniques for the control and readout of individually trapped polar molecules in an array of optical tweezers.
-  authors: Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, and Simon L. Cornish
+  authors: Daniel K. Ruttley, Alexander Guttridge, Tom R. Hepworth, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PRXQuantum.5.020333
     display: _PRX Quantum_ **5**, 020333 (2024)
@@ -102,7 +112,7 @@
 - title: "Modulation transfer spectroscopy of the D1 transition of potassium: theory and experiment"
   image: transport.png
   description: We report on a study of modulation transfer spectroscopy of the D1 transition of naturally abundant potassium in a room-temperature vapour cell.
-  authors: Andrew D. Innes, Prosenjit Majumder, Heung-Ryoul Noh, and Simon L. Cornish
+  authors: Andrew D. Innes, Prosenjit Majumder, Heung-Ryoul Noh, Simon L. Cornish
   link:
     url: https://doi.org/10.1088/1361-6455/ad31af
     display: _J. Phys. B_ **57**, 075401 (2024)
@@ -112,7 +122,7 @@
 - title: "Long distance optical conveyor-belt transport of ultracold <sup>133</sup>Cs and <sup>87</sup>Rb atoms"
   image: transport.png
   description: We demonstate long range transport of ultracold Rb and Cs atoms to our science cell using a moving optical lattice, with a simplified setup using two Gaussian beams.
-  authors: Alex J. Matthies, Jonathan M. Mortlock, Lewis A. McArd, Adarsh P. Raghuram, Andrew D. Innes, Philip D. Gregory, Sarah L. Bromley, and Simon L. Cornish
+  authors: Alex J. Matthies, Jonathan M. Mortlock, Lewis A. McArd, Adarsh P. Raghuram,rew D. Innes, Philip D. Gregory, Sarah L. Bromley, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.109.023321
     display: _Phys. Rev. A_ **109**, 023321 (2024)
@@ -122,7 +132,7 @@
 - title: "Second-scale rotational coherence and dipolar interactions in a gas of ultracold polar molecules"
   image: coherence.png
   description: Here we demonstrate a rotationally-magic optical trap for RbCs molecules that supports a Ramsey coherence time of 0.78(4) seconds in the absence of dipole-dipole interactions.
-  authors: Philip D. Gregory, Luke M. Fernley, Albert Li Tao, Sarah L. Bromley, Jonathan Stepp, Zewen Zhang, Svetlana Kotochigova, Kaden R. A. Hazzard, and Simon L. Cornish
+  authors: Philip D. Gregory, Luke M. Fernley, Albert Li Tao, Sarah L. Bromley, Jonathan Stepp, Zewen Zhang, Svetlana Kotochigova, Kaden R. A. Hazzard, Simon L. Cornish
   link:
     url: https://doi.org/10.1038/s41567-023-02328-5
     display: _Nat. Phys._ **20**, 415 (2024)
@@ -132,7 +142,7 @@
 - title: "An association sequence suitable for producing ground-state RbCs molecules in optical lattices"
   image: rbcs_feshbach_route.png
   description: We demonstrate the formation of a single RbCs molecule during the merging of two optical tweezers, one containing a single Rb atom and the other a single Cs atom.
-  authors: Arpita Das\*, Philip D. Gregory\*, Tetsu Takekoshi, Luke Fernley, Manuele Landini, Jeremy M. Hutson, Simon L. Cornish, and Hanns-Christoph Nägerl
+  authors: Arpita Das\*, Philip D. Gregory\*, Tetsu Takekoshi, Luke Fernley, Manuele Landini, Jeremy M. Hutson, Simon L. Cornish, Hanns-Christoph Nägerl
   link:
     url: https://doi.org/10.21468/SciPostPhys.15.6.220
     display: _SciPost Phys._ **15**, 220 (2023)
@@ -142,7 +152,7 @@
 - title: "Observation of Rydberg blockade due to the charge-dipole interaction between an atom and a polar molecule"
   image: blockade.png
   description: We demonstrate Rydberg blockade due to the charge-dipole interaction between a single Rb atom and a single RbCs molecule confined in optical tweezers.
-  authors: Alexander Guttridge\*, Daniel K. Ruttley\*, Archie C. Baldock, Rosario González-Férez, H. R. Sadeghpour, C. S. Adams, and Simon L. Cornish
+  authors: Alexander Guttridge\*, Daniel K. Ruttley\*, Archie C. Baldock, Rosario González-Férez, H. R. Sadeghpour, C. S. Adams, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevLett.131.013401
     display: _Phys. Rev. Lett._ **131**, 013401 (2023)
@@ -152,7 +162,7 @@
 - title: "A motorized rotation mount for the switching of an optical beam path in under 20 ms using polarization control"
   image: rotation.png
   description: We present a simple motorised rotation mount for a half-wave plate that can be used to rapidly change the polarization of light.
-  authors: Adarsh P. Raghuram, Jonathan M. Mortlock, Sarah L. Bromley, and Simon L. Cornish
+  authors: Adarsh P. Raghuram, Jonathan M. Mortlock, Sarah L. Bromley, Simon L. Cornish
   link:
     url: https://doi.org/10.1063/5.0139647
     display: _Rev. Sci. Instrum._ **94**, 063201 (2023)
@@ -162,7 +172,7 @@
 - title: "Formation of ultracold molecules by merging optical tweezers"
   image: mergoassociation.png
   description: We demonstrate the formation of a single RbCs molecule during the merging of two optical tweezers, one containing a single Rb atom and the other a single Cs atom.
-  authors: Daniel K. Ruttley\*, Alexander Guttridge\*, Stefan Spence, Robert C. Bird, C. Ruth Le Sueur, Jeremy M. Hutson, and Simon L. Cornish
+  authors: Daniel K. Ruttley\*, Alexander Guttridge\*, Stefan Spence, Robert C. Bird, C. Ruth Le Sueur, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevLett.130.223401
     display: _Phys. Rev. Lett._ **130**, 223401 (2023)
@@ -172,7 +182,7 @@
 - title: "Observation of magnetic Feshbach resonances between Cs and <sup>173</sup>Yb"
   image: csyb_feshbach.png
   description: We report the first observation of magnetic Feshbach resonances between <sup>173</sup>Yb and <sup>133</sup>Cs.
-  authors: Tobias Franzen\*, Alexander Guttridge\*, Kali E. Wilson\*, Jack Segal, Matthew D. Frye, Jeremy M. Hutson, and Simon L. Cornish
+  authors: Tobias Franzen\*, Alexander Guttridge\*, Kali E. Wilson\*, Jack Segal, Matthew D. Frye, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevResearch.4.043072
     display: _Phys. Rev. Research_ **4**, 043072 (2022)
@@ -180,7 +190,7 @@
   lab: csyb
 
 - title: "Diatomic-py: A Python module for calculating the rotational and hyperfine structure of 1Σ molecules"
-  authors: Jacob A. Blackmore, Philip D. Gregory, Jeremy M. Hutson, and Simon L. Cornish
+  authors: Jacob A. Blackmore, Philip D. Gregory, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1016/j.cpc.2022.108512
     display: _Comput. Phys. Commun._ **282**, 108512 (2023)
@@ -188,14 +198,14 @@
 
 - title: "Feshbach spectroscopy of Cs atom pairs in optical tweezers"
   description: We prepare pairs of 133Cs atoms in a single optical tweezer and perform Feshbach spectroscopy for collisions of atoms in the states (f=3,mf=±3).
-  authors: R. V. Brooks\*, Alexander Guttridge\*, Matthew D. Frye, Daniel K. Ruttley, Stefan Spence, Jeremy M. Hutson, and Simon L. Cornish
+  authors: R. V. Brooks\*, Alexander Guttridge\*, Matthew D. Frye, Daniel K. Ruttley, Stefan Spence, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1088/1367-2630/ac99f6
     display: _New J. Phys._ **24**, 113051 (2022)
   lab: tweezers
 
 - title: "Preparation of <sup>87</sup>Rb and <sup>133</sup>Cs in the motional ground state of a single optical tweezer"
-  authors: Stefan Spence, R. V. Brooks, Daniel K. Ruttley, Alexander Guttridge, and Simon L. Cornish
+  authors: Stefan Spence, R. V. Brooks, Daniel K. Ruttley, Alexander Guttridge, Simon L. Cornish
   link:
     url: https://doi.org/10.1088/1367-2630/ac95b9
     display: _New J. Phys._ **24**, 103022 (2022)
@@ -209,28 +219,28 @@
   lab: unknown
 
 - title: "Molecule–molecule and atom–molecule collisions with ultracold RbCs molecules"
-  authors: Philip D. Gregory, Jacob A. Blackmore, Matthew D. Frye , Luke M. Fernley, Sarah L. Bromley, Jeremy M. Hutson, and Simon L. Cornish
+  authors: Philip D. Gregory, Jacob A. Blackmore, Matthew D. Frye , Luke M. Fernley, Sarah L. Bromley, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1088/1367-2630/ac3c63
     display: _New J. Phys._ **23**, 125004 (2021)
   lab: rbcs
 
 - title: "Measurement of the tune-out wavelength for <sup>133</sup>Cs at 880 nm"
-  authors: Apichayaporn Ratkata, Philip D. Gregory, Andrew D. Innes, Alex J. Matthies, Lewis A. McArd, Jonathan M. Mortlock, M. S. Safronova, Sarah L. Bromley, and Simon L. Cornish
+  authors: Apichayaporn Ratkata, Philip D. Gregory,rew D. Innes, Alex J. Matthies, Lewis A. McArd, Jonathan M. Mortlock, M. S. Safronova, Sarah L. Bromley, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.104.052813
     display: _Phys. Rev. A_ **104**, 052813 (2021)
   lab: microscope
 
 - title: "Robust storage qubits in ultracold polar molecules"
-  authors: Philip D. Gregory, Jacob A. Blackmore, Sarah L. Bromley, Jeremy M. Hutson, and Simon L. Cornish 
+  authors: Philip D. Gregory, Jacob A. Blackmore, Sarah L. Bromley, Jeremy M. Hutson, Simon L. Cornish 
   link:
     url: https://doi.org/10.1038/s41567-021-01328-7
     display: _Nat. Phys._ **17**, 1149–1153 (2021)
   lab: rbcs
 
 - title: "Dynamics of a degenerate Cs-Yb mixture with attractive interspecies interactions"
-  authors: Kali E. Wilson\*, Alexander Guttridge\*, I-Kang Liu, Jack Segal, Thomas P. Billam, Nick G. Parker, N. P. Proukakis, and Simon L. Cornish 
+  authors: Kali E. Wilson\*, Alexander Guttridge\*, I-Kang Liu, Jack Segal, Thomas P. Billam, Nick G. Parker, N. P. Proukakis, Simon L. Cornish 
   link:
     url: https://doi.org/10.1103/PhysRevResearch.3.033096 
     display: _Phys. Rev. Research_ **3**, 033096 (2021)
@@ -239,21 +249,21 @@
 - title: "Preparation of <sup>87</sup>Rb and <sup>133</sup>Cs in the motional ground state of a single optical tweezer"
   image: rb_cs_single_tweezer.png
   description: We report the preparation of exactly one <sup>87</sup>Rb atom and one <sup>133</sup>Cs atom in the same optical tweezer as the essential first step towards the construction of a tweezer array of individually trapped <sup>87</sup>Rb<sup>133</sup>Cs molecules
-  authors: R. V. Brooks, Stefan Spence, Alexander Guttridge, A. Alampounti, A. Rakonjac, L. A. McArd, Jeremy M. Hutson, and Simon L. Cornish
+  authors: R. V. Brooks, Stefan Spence, Alexander Guttridge, A. Alampounti, A. Rakonjac, L. A. McArd, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1088/1367-2630/ac0000
     display: _New J. Phys._ **23**, 065002 (2021)
   lab: tweezers
 
 - title: "Magic conditions for multiple rotational states of bialkali molecules in optical lattices"
-  authors: Q. Guan, Simon L. Cornish, and S. Kotochigova
+  authors: Q. Guan, Simon L. Cornish, S. Kotochigova
   link:
     url: https://doi.org/10.1103/PhysRevA.103.043311
     display: _Phys. Rev. A_ **103**, 043311 (2021)
     lab: rbcs
 
 - title: "Quantum degenerate mixtures of Cs and Yb"
-  authors: Kali E. Wilson\*, Alexander Guttridge\*, Jack Segal, and Simon L. Cornish
+  authors: Kali E. Wilson\*, Alexander Guttridge\*, Jack Segal, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.103.033306
     display: _Phys. Rev. A_ **103**, 033306 (2021)
@@ -330,14 +340,14 @@
   lab: rbcs
 
 - title: "Two-photon photoassociation spectroscopy of CsYb. Ground-state interaction potential and interspecies scattering lengths"
-  authors: A. Guttridge, Matthew D. Frye, B. C. Yang, Jeremy M. Hutson, and Simon L. Cornish
+  authors: A. Guttridge, Matthew D. Frye, B. C. Yang, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.98.022707
     display: _Phys. Rev. A_ **98**, 022707 (2018)
   lab: csyb
 
 - title: "Production of ultracold Cs<sup>∗</sup>Yb molecules by photoassociation"
-  authors: Alexander Guttridge, Stephen A. Hopkins, Matthew D. Frye, John J. McFerran, Jeremy M. Hutson, and Simon L. Cornish
+  authors: Alexander Guttridge, Stephen A. Hopkins, Matthew D. Frye, John J. McFerran, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.97.063414
     display: _Phys. Rev. A_ **97**, 063414 (2018)
@@ -351,14 +361,14 @@
   lab: atomicbec
 
 - title: "ac Stark effect in ultracold polar 87Rb133Cs molecules"
-  authors: P.D. Gregory, J.A. Blackmore, J. Aldegunde, J.M. Hutson, and S.L. Cornish
+  authors: P.D. Gregory, J.A. Blackmore, J. Aldegunde, J.M. Hutson, S.L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.96.021402
     display: _Phys. Rev. A_ **96**, 021402(R) (2017)
   lab: rbcs
 
 - title: "Interspecies thermalization in an ultracold mixture of Cs and Yb in an optical trap"
-  authors: A. Guttridge, S. A. Hopkins, S. L. Kemp, Matthew D. Frye, Jeremy M. Hutson, and Simon L. Cornish
+  authors: A. Guttridge, S. A. Hopkins, S. L. Kemp, Matthew D. Frye, Jeremy M. Hutson, Simon L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.96.012704
     display: _Phys. Rev. A_ **96**, 012704 (2017)
@@ -379,35 +389,35 @@
   lab: rbcs
 
 - title: "Controlling the rotational and hyperfine state of ultracold 87Rb133Cs molecules"
-  authors: P.D. Gregory, J. Aldegunde, J.M. Hutson, and S.L. Cornish
+  authors: P.D. Gregory, J. Aldegunde, J.M. Hutson, S.L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.94.041403
     display: _Phys. Rev. A_ **94**, 041403(R) (2016)
   lab: rbcs
 
 - title: "Measurement of the binding energy of ultracold 87Rb133Cs molecules using an offset-free optical frequency comb"
-  authors: P.K. Molony, A. Kumar, P.D. Gregory, R. Kliese, T. Puppe, C.R. Le Sueur, J. Aldegunde, J.M. Hutson, and S.L. Cornish
+  authors: P.K. Molony, A. Kumar, P.D. Gregory, R. Kliese, T. Puppe, C.R. Le Sueur, J. Aldegunde, J.M. Hutson, S.L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.94.022507
     display: _Phys. Rev. A_ **94**, 022507 (2016)
   lab: rbcs
 
 - title: "Direct loading of a large Yb MOT on the <sup>1</sup>S<sub>0</sub> to <sup>3</sup>P<sub>1</sub> transition"
-  authors: A. Guttridge, S. A. Hopkins, S. L. Kemp, D. Boddy, R. Freytag, M. P. A. Jones, M. R. Tarbutt, E. A. Hinds, and S. L. Cornish
+  authors: A. Guttridge, S. A. Hopkins, S. L. Kemp, D. Boddy, R. Freytag, M. P. A. Jones, M. R. Tarbutt, E. A. Hinds, S. L. Cornish
   link:
     url: https://doi.org/10.15128/9s1616164
     display: _J. Phys. B_ **49**, 145006 (2016)
   lab: csyb
 
 - title: "A versatile dual-species Zeeman slower for caesium and ytterbium"
-  authors: S. A. Hopkins, K. Butler, A. Guttridge, S. Kemp, R. Freytag, E. A. Hinds, M. R. Tarbutt, and S. L. Cornish
+  authors: S. A. Hopkins, K. Butler, A. Guttridge, S. Kemp, R. Freytag, E. A. Hinds, M. R. Tarbutt, S. L. Cornish
   link:
     url: https://doi.org/10.1063/1.4945795
     display: _Rev. Sci. Instrum._ **87**, 043109 (2016)
   lab: csyb
 
 - title: "Production and characterization of a dual species magneto-optical trap of cesium and ytterbium"
-  authors: S. L. Kemp, K. L. Butler, R. Freytag, S. A. Hopkins, E. A. Hinds, M. R. Tarbutt, and S. L. Cornish
+  authors: S. L. Kemp, K. L. Butler, R. Freytag, S. A. Hopkins, E. A. Hinds, M. R. Tarbutt, S. L. Cornish
   link:
     url: https://doi.org/10.1063/1.4941719
     display: _Rev. Sci. Instrum._ **87**, 023105 (2016)
@@ -421,7 +431,7 @@
   lab: atomicbec
 
 - title: "Quantum reflection of bright solitary matter waves from a narrow attractive potential"
-  authors: A.L. Marchant, T.P. Billam, M.M.H. Yu, A. Rakonjac, J.L. Helm, J. Polo, C. Weiss, S.A. Gardiner, and S.L. Cornish
+  authors: A.L. Marchant, T.P. Billam, M.M.H. Yu, A. Rakonjac, J.L. Helm, J. Polo, C. Weiss, S.A. Gardiner, S.L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevA.93.021604
     display: _Phys. Rev. A_ **93**, 021604(R) (2016)
@@ -456,14 +466,14 @@
   lab: rbcs
 
 - title: "Sagnac Interferometry Using Bright Matter-Wave Solitons"
-  authors: J.L. Helm, S.L. Cornish, and S.A. Gardiner
+  authors: J.L. Helm, S.L. Cornish, S.A. Gardiner
   link:
     url: https://doi.org/10.1103/PhysRevLett.114.134101
     display: _Phys. Rev. Lett._ **114**, 134101 (2015)
   lab: atomicbec
 
 - title: "Creation of Ultracold <sup>87</sup>Rb<sup>133</sup>Cs Molecules in the Rovibrational Ground State"
-  authors: P.K. Molony, P.D. Gregory, Z. Ji, B. Lu, M.P. Köppinger, C.R. Le Sueur, C.L. Blackley, J.M. Hutson, and S.L. Cornish
+  authors: P.K. Molony, P.D. Gregory, Z. Ji, B. Lu, M.P. Köppinger, C.R. Le Sueur, C.L. Blackley, J.M. Hutson, S.L. Cornish
   link:
     url: https://doi.org/10.1103/PhysRevLett.113.255301
     display: _Phys. Rev. Lett._ **113**, 255301 (2014)
@@ -476,7 +486,7 @@
     display: _New J. Phys._ **16**, 115016 (2014)
   lab: rbcs
 
-- title: "Feshbach resonances, molecular bound states, and prospects of ultracold-molecule formation in mixtures of ultracold K and Cs"
+- title: "Feshbach resonances, molecular bound states, prospects of ultracold-molecule formation in mixtures of ultracold K and Cs"
   authors: H.J. Patel, C.L. Blackley, S.L. Cornish and J.M. Hutson
   link:
     url: https://doi.org/10.1103/PhysRevA.90.032716
@@ -484,7 +494,7 @@
   lab: unknown
 
 - title: "Refined determination of the muonium-deuterium 1S-2S isotope shift through improved frequency calibration of iodine lines"
-  authors: I. Fan, C.-Y. Chang, L.-B. Wang, S.L. Cornish, J.-T. Shy, and Y.-W. Liu
+  authors: I. Fan, C.-Y. Chang, L.-B. Wang, S.L. Cornish, J.-T. Shy, Y.-W. Liu
   link:
     url: https://doi.org/10.1103/PhysRevA.89.032513
     display: _Phys. Rev. A_ **89**, 032513 (2014)
@@ -624,7 +634,7 @@
   lab: atomicbec
 
 - title: "Collapse times of dipolar Bose-Einstein condensates"
-  authors: C. Ticknor, N.G. Parker, A. Melatos, S.L. Cornish, D.H.J. O’Dell, and A.M. Martin
+  authors: C. Ticknor, N.G. Parker, A. Melatos, S.L. Cornish, D.H.J. O’Dell, A.M. Martin
   link:
     url: https://doi.org/10.1103/PhysRevA.78.061607
     display: _Phys. Rev. A_ **78**, 061607(R) (2008)
@@ -764,7 +774,7 @@
   lab: atomicbec
 
 - title: "A chirp compensated, injection-seeded alexandrite laser"
-  authors: P. Bakule, P.E.G. Baird, M.G. Boshier, S.L. Cornish, D.F. Heller, K. Jungmann, I.C. Lane, P.G.H. Sandars, W.T. Toner, M. Towrie, and J.C. Walling
+  authors: P. Bakule, P.E.G. Baird, M.G. Boshier, S.L. Cornish, D.F. Heller, K. Jungmann, I.C. Lane, P.G.H. Sandars, W.T. Toner, M. Towrie, J.C. Walling
   link:
     url: https://doi.org/10.1007/PL00021153
     display: _Appl. Phys. B_ **71**, 11-17 (2000)
@@ -785,21 +795,21 @@
   lab: unknown
 
 - title: "Interferometric measurements of 127I2 reference frequencies for 1S-2S spectroscopy in muonium, hydrogen and deuterium"
-  authors: S.L. Cornish, Y.-W. Liu, I.C. Lane, P.E.G. Baird, G.P. Barwood, P. Taylor, and W.R.C. Rowley
+  authors: S.L. Cornish, Y.-W. Liu, I.C. Lane, P.E.G. Baird, G.P. Barwood, P. Taylor, W.R.C. Rowley
   link:
     url: https://doi.org/10.1364/JOSAB.17.000006
     display: _J. Opt. Soc. Am. B_ **17**, 6-10 (2000)
   lab: unknown
 
 - title: "Pulsed laser spectroscopy in muonium and deuterium"
-  authors: V. Meyer, S.N. Bagayev, P.E.G. Baird, P. Bakule, M.G. Boshier, A. Breitruck, S.L. Cornish, S. Dychkov, G.H. Eaton, A. Grossmann, D. Hubl, V.W. Hughes, K. Jungmann, I.C. Lane, Y.-W. Liu, D. Lucas, Y. Matyugin, J. Merkel, G. zu Putlitz, I. Reinhard, P.G.H. Sandars, R. Santra, P. Schmidt, C.A. Scott, W.T. Toner, M. Towrie, K. Trager, L. Willmann, and V. Yakhontov
+  authors: V. Meyer, S.N. Bagayev, P.E.G. Baird, P. Bakule, M.G. Boshier, A. Breitruck, S.L. Cornish, S. Dychkov, G.H. Eaton, A. Grossmann, D. Hubl, V.W. Hughes, K. Jungmann, I.C. Lane, Y.-W. Liu, D. Lucas, Y. Matyugin, J. Merkel, G. zu Putlitz, I. Reinhard, P.G.H. Sandars, R. Santra, P. Schmidt, C.A. Scott, W.T. Toner, M. Towrie, K. Trager, L. Willmann, V. Yakhontov
   link:
     url: https://doi.org/10.1023/A:1012691517257
     display: _Hyperfine Interactions_ **127**, 197-200 (2000)
   lab: unknown
 
 - title: "DFB laser diode operation at 77 K"
-  authors: D.A. Hopkinson, S.L. Cornish, N.H. Edwards, P.E.G. Baird, A. Cockburn, and K. Cameron
+  authors: D.A. Hopkinson, S.L. Cornish, N.H. Edwards, P.E.G. Baird, A. Cockburn, K. Cameron
   link:
     url: https://doi.org/10.1088/0957-0233/7/5/011
     display: _Meas. Sci. & Tech._ **7**, 792-795 (1996)
