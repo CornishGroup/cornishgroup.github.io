@@ -1,3 +1,12 @@
+- title: "Experiments with interacting ultracold polar molecules"
+  authors: Philip D. Gregory, Jonathan M. Mortlock, Daniel K. Ruttley, Simon L. Cornish
+  description: We review the experimental advances over the past two decades that have brought ultracold molecules under full quantum control.
+  link:
+    url: https://arxiv.org/abs/2607.25519
+    display: arXiv:2607.25519 (2026)
+  highlight: 0
+  lab: microscope
+
 - title: "Harnessing resonant dipolar interactions in a hybrid atom-molecule quantum system"
   image: resonant_atom_molecule.png
   authors: Daniel K. Ruttley, Tom R. Hepworth, Juan M. García-Garrido, Caleb J. H. Rich, Rosario González-Férez, Alexander Guttridge, Simon L. Cornish
